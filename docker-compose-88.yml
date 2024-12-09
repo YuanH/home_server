@@ -1,0 +1,32 @@
+services:
+  jellyfin:
+    image: jellyfin/jellyfin:latest
+    container_name: jellyfin
+    restart: unless-stopped
+    # network_mode: 'bridge'
+    user: ${UID}:${GID}
+    volumes:
+      # This directory will store Jellyfin config and metadata
+      - ./config/jellyfin:/config
+      - ./cache:/cache
+      - type: bind
+        source: /Volumes/ExtremePro/Movies
+        target: /media/movies
+      - type: bind
+        source: /Volumes/ExtremePro/TV
+        target: /media/tv
+    environment:
+      - TZ=America/New_York
+      - JELLYFIN_PublishedServerUrl=https://88morgan.a5luan.org
+
+    ports:
+      - "8096:8096"
+      - "8920:8920"
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: cloudflare-tunnel
+    command: tunnel run
+    restart: unless-stopped
+    environment:
+      - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}

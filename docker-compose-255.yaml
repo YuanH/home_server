@@ -1,0 +1,56 @@
+services:
+  jellyfin:
+    image: jellyfin/jellyfin:latest
+    container_name: jellyfin
+    restart: unless-stopped
+    # network_mode: 'bridge'
+    user: ${UID}:${GID}
+    volumes:
+      # This directory will store Jellyfin config and metadata
+      - ./config/jellyfin:/config
+      - ./cache:/cache
+      - type: bind
+        source: /Volumes/ExtremePro/Movies
+        target: /media/movies
+      - type: bind
+        source: /Volumes/ExtremePro/TV
+        target: /media/tv
+      - type: bind
+        source: /Volumes/ExtremePro/RAM
+        target: /media/ram
+    environment:
+      - TZ=America/New_York
+      - JELLYFIN_PublishedServerUrl=https://a5luan.org
+
+    ports:
+      - "8096:8096"
+      - "8920:8920"
+
+  # caddy:
+  #   build:
+  #     context: .
+  #     dockerfile: Dockerfile
+  #   container_name: caddy
+  #   restart: unless-stopped
+  #   # Expose standard HTTP and HTTPS ports on the host
+  #   ports:
+  #     - "80:80"
+  #     - "443:443"
+  #   volumes:
+  #     # Make sure you have a Caddyfile that uses DNS challenge with Cloudflare
+  #     - ./Caddyfile:/etc/caddy/Caddyfile:ro
+  #     - ./caddy_data:/data
+  #     - ./caddy_config:/config
+  #   environment:
+  #     # Replace with your own token
+  #     CLOUDFLARE_API_TOKEN: ${CLOUDFLARE_API_TOKEN}
+  #   depends_on:
+  #     - jellyfin
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: cloudflare-tunnel
+    command: tunnel run
+    restart: unless-stopped
+    environment:
+      - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}

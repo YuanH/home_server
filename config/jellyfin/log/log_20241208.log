@@ -1,0 +1,543 @@
+[2024-12-08 00:01:39.070 -05:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:05:03.073 -05:00] [INF] [52] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:06:53.914 -05:00] [INF] [47] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was forbidden.
+[2024-12-08 00:07:51.067 -05:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:10:39.076 -05:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:14:03.077 -05:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:16:51.077 -05:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:19:39.019 -05:00] [INF] [57] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:23:03.016 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:25:51.020 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:28:39.008 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:32:03.007 -05:00] [INF] [3] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:34:51.006 -05:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:37:39.001 -05:00] [INF] [8] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:41:03.008 -05:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:42:56.874 -05:00] [INF] [20] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Infuse-Direct" "8.0.5" playing "宿敌01". Stopped at "2162520" ms
+[2024-12-08 00:43:03.257 -05:00] [INF] [20] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "a5luan" has succeeded.
+[2024-12-08 00:43:03.258 -05:00] [INF] [20] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "a5luan": 1/0
+[2024-12-08 00:43:03.259 -05:00] [INF] [20] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user a9f82627-0936-4192-8d96-e123c5274d57
+[2024-12-08 00:43:51.001 -05:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:46:38.996 -05:00] [INF] [34] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:50:02.992 -05:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:52:50.991 -05:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:55:38.986 -05:00] [INF] [61] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 00:59:02.991 -05:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:01:50.982 -05:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:04:38.980 -05:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:08:02.976 -05:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:10:50.973 -05:00] [INF] [25] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:13:38.980 -05:00] [INF] [66] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:17:02.969 -05:00] [INF] [66] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:19:50.967 -05:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:22:38.969 -05:00] [INF] [34] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:26:02.965 -05:00] [INF] [27] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:28:50.960 -05:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:31:38.945 -05:00] [INF] [68] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:35:02.942 -05:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:37:50.932 -05:00] [INF] [57] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:40:38.929 -05:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:44:02.922 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:46:50.920 -05:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:49:38.925 -05:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:53:02.914 -05:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:55:50.918 -05:00] [INF] [68] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:58:38.905 -05:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 01:59:59.938 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "Episode #1.9" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.949 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "Episode #1.8" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.953 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "Episode #1.7" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.957 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "Episode #1.1" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.960 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "Episode #1.2" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.963 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "Episode #1.3" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.966 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "Episode #1.4" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.969 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "宿敌05" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.971 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "Episode #1.5" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.974 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "宿敌06" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.976 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "宿敌07" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.978 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "Episode #1.6" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.981 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "宿敌09" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.984 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "宿敌10" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.988 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "宿敌11" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 01:59:59.990 -05:00] [INF] [54] Emby.Server.Implementations.MediaEncoder.EncodingManager: Skipping chapter image extraction for "宿敌12" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2024-12-08 02:00:00.017 -05:00] [INF] [54] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extract Chapter Images" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 02:00:00.892 -05:00] [INF] [55] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2024-12-09 02:00:00.000 -05:00, which is 23:59:59.1080187 from now.
+[2024-12-08 02:02:02.901 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:04:50.913 -05:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:07:38.910 -05:00] [INF] [21] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:11:02.913 -05:00] [INF] [33] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:13:50.904 -05:00] [INF] [61] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:16:38.901 -05:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:20:02.899 -05:00] [INF] [14] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:22:50.894 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:25:38.900 -05:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:29:02.896 -05:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:31:50.886 -05:00] [INF] [22] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:34:38.891 -05:00] [INF] [52] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:38:02.870 -05:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:40:50.874 -05:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:43:38.872 -05:00] [INF] [61] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:47:02.860 -05:00] [INF] [29] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:49:50.859 -05:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:52:38.853 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:56:02.849 -05:00] [INF] [28] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:58:50.853 -05:00] [INF] [52] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 02:59:59.887 -05:00] [INF] [44] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Generate Trickplay Images" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 03:00:00.839 -05:00] [INF] [44] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2024-12-09 03:00:00.000 -05:00, which is 23:59:59.1610463 from now.
+[2024-12-08 03:01:38.840 -05:00] [INF] [52] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:05:02.839 -05:00] [INF] [34] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:07:50.840 -05:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:10:38.831 -05:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:14:02.850 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:16:50.847 -05:00] [INF] [36] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:19:38.845 -05:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:23:02.847 -05:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:25:50.849 -05:00] [INF] [28] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:28:38.838 -05:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:32:02.842 -05:00] [INF] [47] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:34:50.836 -05:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:37:38.832 -05:00] [INF] [34] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:41:02.837 -05:00] [INF] [59] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:43:50.828 -05:00] [INF] [15] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:46:38.797 -05:00] [INF] [8] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:50:02.790 -05:00] [INF] [33] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:52:50.788 -05:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:55:38.791 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 03:59:02.784 -05:00] [INF] [55] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:01:50.777 -05:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:04:38.772 -05:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:08:02.769 -05:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:10:50.767 -05:00] [INF] [27] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:13:38.760 -05:00] [INF] [41] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:17:02.758 -05:00] [INF] [47] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:19:50.751 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:22:38.745 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:26:02.739 -05:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:28:50.735 -05:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:31:38.731 -05:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:35:02.730 -05:00] [INF] [21] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:37:50.730 -05:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:40:38.717 -05:00] [INF] [33] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:44:02.721 -05:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:46:50.709 -05:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:49:38.704 -05:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:53:02.709 -05:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:55:50.728 -05:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 04:58:38.722 -05:00] [INF] [9] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:02:02.716 -05:00] [INF] [15] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:04:50.712 -05:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:07:38.717 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:11:02.706 -05:00] [INF] [15] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:13:50.709 -05:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:16:38.697 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:20:02.705 -05:00] [INF] [34] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:22:50.691 -05:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:25:38.698 -05:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:29:02.708 -05:00] [INF] [15] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:31:50.709 -05:00] [INF] [57] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:34:38.707 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:38:02.708 -05:00] [INF] [42] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:40:50.714 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:43:38.707 -05:00] [INF] [37] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:47:02.706 -05:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:49:50.707 -05:00] [INF] [29] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:52:38.700 -05:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:56:02.705 -05:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 05:58:50.701 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:01:38.689 -05:00] [INF] [33] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:05:02.686 -05:00] [INF] [40] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:07:50.685 -05:00] [INF] [47] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:10:38.684 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:14:02.681 -05:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:16:50.675 -05:00] [INF] [37] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:19:38.678 -05:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:23:02.676 -05:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:25:50.679 -05:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:28:38.671 -05:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:32:02.667 -05:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:34:50.672 -05:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:37:38.637 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:41:02.621 -05:00] [INF] [58] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:43:50.618 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:46:38.614 -05:00] [INF] [40] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:50:02.609 -05:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:52:50.606 -05:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:55:38.602 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 06:59:02.595 -05:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:01:50.593 -05:00] [INF] [57] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:04:38.589 -05:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:08:02.584 -05:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:10:50.587 -05:00] [INF] [8] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:13:38.597 -05:00] [INF] [55] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:17:02.601 -05:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:19:50.593 -05:00] [INF] [21] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:22:38.595 -05:00] [INF] [21] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:26:02.585 -05:00] [INF] [61] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:28:50.587 -05:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:31:38.583 -05:00] [INF] [57] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:35:02.574 -05:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:37:50.572 -05:00] [INF] [47] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:40:38.569 -05:00] [INF] [34] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:40:44.635 -05:00] [INF] [58] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was forbidden.
+[2024-12-08 07:44:02.568 -05:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:46:50.562 -05:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:49:38.575 -05:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:53:02.574 -05:00] [INF] [3] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:55:50.574 -05:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 07:58:38.573 -05:00] [INF] [27] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:02:02.567 -05:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:04:50.572 -05:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:07:38.568 -05:00] [INF] [27] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:11:02.569 -05:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:13:50.566 -05:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:16:38.558 -05:00] [INF] [15] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:20:02.555 -05:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:22:50.560 -05:00] [INF] [24] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:25:38.526 -05:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:29:02.530 -05:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:31:50.517 -05:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:34:38.518 -05:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:38:02.510 -05:00] [INF] [42] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:40:50.512 -05:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:43:38.512 -05:00] [INF] [15] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:47:02.499 -05:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:49:50.503 -05:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:52:38.493 -05:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:56:02.496 -05:00] [INF] [21] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 08:58:50.493 -05:00] [INF] [42] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:01:38.496 -05:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:05:02.503 -05:00] [INF] [61] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:07:50.493 -05:00] [INF] [29] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:10:38.489 -05:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:14:02.487 -05:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:16:50.491 -05:00] [INF] [8] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:19:38.480 -05:00] [INF] [33] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:23:02.479 -05:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:25:50.484 -05:00] [INF] [27] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:28:38.476 -05:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:32:02.479 -05:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:34:50.476 -05:00] [INF] [36] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:37:38.469 -05:00] [INF] [29] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:41:02.470 -05:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:43:50.465 -05:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:46:38.463 -05:00] [INF] [22] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:50:02.463 -05:00] [INF] [59] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:52:50.458 -05:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:55:38.455 -05:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 09:56:35.398 -05:00] [INF] [27] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Infuse-Direct" "8.0.5" playing "宿敌01". Stopped at "2161400" ms
+[2024-12-08 09:56:37.690 -05:00] [INF] [23] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was forbidden.
+[2024-12-08 09:56:43.800 -05:00] [INF] [3] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "a5luan" has succeeded.
+[2024-12-08 09:56:43.800 -05:00] [INF] [3] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "a5luan": 2/0
+[2024-12-08 09:56:43.802 -05:00] [INF] [3] Emby.Server.Implementations.Session.SessionManager: Logging out access token "21c3834f43c14ee39785dc14ffd0040b"
+[2024-12-08 09:56:43.826 -05:00] [INF] [3] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user a9f82627-0936-4192-8d96-e123c5274d57
+[2024-12-08 09:56:44.691 -05:00] [INF] [64] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "yuan" has succeeded.
+[2024-12-08 09:56:44.692 -05:00] [INF] [64] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "yuan": 0/0
+[2024-12-08 09:56:44.692 -05:00] [INF] [64] Emby.Server.Implementations.Session.SessionManager: Logging out access token "3575332d0b544ad3ae46c431560557f2"
+[2024-12-08 09:56:44.705 -05:00] [INF] [64] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 1b2fb020-384d-4ed4-a039-8ae46be34673
+[2024-12-08 09:57:57.881 -05:00] [INF] [27] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Infuse-Direct" "8.0.5" playing "宿敌01". Stopped at "2230080" ms
+[2024-12-08 09:58:26.920 -05:00] [INF] [57] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was forbidden.
+[2024-12-08 09:59:02.459 -05:00] [INF] [27] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:01:50.452 -05:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:04:38.448 -05:00] [INF] [22] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:08:02.439 -05:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:10:50.439 -05:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:13:38.433 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:17:02.425 -05:00] [INF] [58] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:19:50.423 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:22:38.417 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:26:02.414 -05:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:28:50.415 -05:00] [INF] [61] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:31:38.410 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:35:02.412 -05:00] [INF] [52] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:37:50.403 -05:00] [INF] [52] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:40:38.415 -05:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:44:02.413 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:46:50.412 -05:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:49:38.404 -05:00] [INF] [34] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:53:02.399 -05:00] [INF] [42] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:55:50.396 -05:00] [INF] [61] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 10:58:38.402 -05:00] [INF] [37] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:02:02.394 -05:00] [INF] [14] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:04:50.392 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:07:38.394 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:11:02.383 -05:00] [INF] [50] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:13:50.389 -05:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:16:09.555 -05:00] [INF] [44] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/movies"
+[2024-12-08 11:16:09.558 -05:00] [INF] [44] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/ram"
+[2024-12-08 11:16:09.559 -05:00] [INF] [44] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/tv"
+[2024-12-08 11:16:09.563 -05:00] [INF] [44] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-12-08 11:16:09.829 -05:00] [INF] [38] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Media Segment Scan" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 11:16:09.903 -05:00] [WRN] [44] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-12-08 11:16:09.959 -05:00] [INF] [47] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/bf6b2599cc4041c698a975cdbab8cca2.png"
+[2024-12-08 11:16:10.173 -05:00] [INF] [47] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/bf6b2599cc4041c698a975cdbab8cca2.png"
+[2024-12-08 11:16:10.320 -05:00] [WRN] [52] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-12-08 11:16:11.941 -05:00] [INF] [44] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Before 2004 Sunset.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:11.942 -05:00] [INF] [20] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e04.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:11.942 -05:00] [INF] [52] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Preview/Before 2013 Midnight 1080p.BluRay.DTS.x264-PublicHD-1_preview.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:11.942 -05:00] [INF] [34] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Before 2013 Midnight.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:11.942 -05:00] [INF] [57] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Before 1995 Sunrise.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:11.943 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e02.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:11.950 -05:00] [INF] [30] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Preview/Before 1995 Sunrise 1080p WEB-DL.AAC2.0.h.264-fiend-1_preview.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:11.960 -05:00] [INF] [3] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Girl With The Dragon Tattoo 2011 720p BRRip AC3 x264 MacGuffin/macguffin-tgwtdt720p/The Girl With The Dragon Tattoo 2011 720p BRRip AC3 x264 MacGuffin.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:11.967 -05:00] [INF] [38] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Preview/Before 2004 Sunset 1080p hdtv engsub jbr-1_preview.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:11.998 -05:00] [INF] [20] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e03.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:12.001 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e01.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:12.123 -05:00] [INF] [38] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Alien.Romulus.2024.DUAL-AUDiO.SPA-ENG.2160p.WEB-DL.DV.DDP5.1.Atmos.HDR10.H.265-DMnT/alien.romulus.2024.dual-audio.spa-eng.2160p.web-dl.dv.ddp5.1.atmos.hdr10.h.265-dmnt.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:12.413 -05:00] [INF] [3] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Girl With The Dragon Tattoo 2011 720p BRRip AC3 x264 MacGuffin/macguffin-tgwtdt720p/The Girl With The Dragon Tattoo 2011 720p BRRip AC3 x264 MacGuffin.chs.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:13.338 -05:00] [INF] [51] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Girl With The Dragon Tattoo 2011 720p BRRip AC3 x264 MacGuffin/macguffin-tgwtdt720p/The Girl With The Dragon Tattoo 2011 720p BRRip AC3 x264 MacGuffin.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:13.469 -05:00] [INF] [20] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Before 2004 Sunset.eng.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:13.482 -05:00] [INF] [20] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e01.bdrip.xvid-demand.chs.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:13.491 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Before 1995 Sunrise.eng.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:13.499 -05:00] [INF] [20] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Before 2013 Midnight.eng.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:13.534 -05:00] [INF] [20] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Before 2004 Sunset.enghi.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:13.560 -05:00] [INF] [51] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Before 1995 Sunrise.enghi.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:13.574 -05:00] [INF] [51] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Before Sunrise-Sunset-Midnight Trilogy 1995-2013 720p x264 aac jbr/Before 2013 Midnight.enghi.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:13.737 -05:00] [ERR] [23] MediaBrowser.Providers.TV.SeriesMetadataService: Error in "The Open Movie Database"
+System.IO.IOException: The process cannot access the file '/cache/omdb/tt14452776.json' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Init(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Int64& fileLength, UnixFileMode& filePermissions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbProvider.EnsureItemInfo(String imdbId, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbProvider.GetRootObject(String imdbId, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbProvider.Fetch[T](MetadataResult`1 itemResult, String imdbId, String language, String country, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbItemProvider.GetResult[T](ItemLookupInfo info, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Manager.MetadataService`2.ExecuteRemoteProviders(MetadataResult`1 temp, String logName, Boolean replaceData, TIdType id, IEnumerable`1 providers, CancellationToken cancellationToken)
+[2024-12-08 11:16:13.790 -05:00] [ERR] [23] MediaBrowser.Providers.Movies.MovieMetadataService: Error in "The Open Movie Database"
+System.IO.IOException: The process cannot access the file '/cache/omdb/tt2422212.json' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Init(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Int64& fileLength, UnixFileMode& filePermissions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbProvider.EnsureItemInfo(String imdbId, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbProvider.GetRootObject(String imdbId, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbProvider.Fetch[T](MetadataResult`1 itemResult, String imdbId, String language, String country, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbItemProvider.GetResult[T](ItemLookupInfo info, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Manager.MetadataService`2.ExecuteRemoteProviders(MetadataResult`1 temp, String logName, Boolean replaceData, TIdType id, IEnumerable`1 providers, CancellationToken cancellationToken)
+[2024-12-08 11:16:13.790 -05:00] [ERR] [52] MediaBrowser.Providers.Movies.MovieMetadataService: Error in "The Open Movie Database"
+System.IO.IOException: The process cannot access the file '/cache/omdb/tt2422212.json' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Init(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Int64& fileLength, UnixFileMode& filePermissions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbProvider.EnsureItemInfo(String imdbId, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbProvider.GetRootObject(String imdbId, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbProvider.Fetch[T](MetadataResult`1 itemResult, String imdbId, String language, String country, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Plugins.Omdb.OmdbItemProvider.GetResult[T](ItemLookupInfo info, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Manager.MetadataService`2.ExecuteRemoteProviders(MetadataResult`1 temp, String logName, Boolean replaceData, TIdType id, IEnumerable`1 providers, CancellationToken cancellationToken)
+[2024-12-08 11:16:20.286 -05:00] [INF] [57] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e08.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:20.927 -05:00] [ERR] [30] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/metadata/People/A/Ayo Edebiri/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2024-12-08 11:16:20.986 -05:00] [INF] [24] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e07.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:21.351 -05:00] [INF] [20] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e06.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:22.861 -05:00] [INF] [16] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e05.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:24.430 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e11.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:24.876 -05:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e13.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:25.173 -05:00] [INF] [35] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e09.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:26.338 -05:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e12.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:27.487 -05:00] [INF] [62] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e10.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:31.056 -05:00] [INF] [26] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Fury.2014.1080p.Retail.Bluray.AC3.5.1.Sphinctone1.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:37.850 -05:00] [ERR] [38] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/metadata/People/Y/Yota Argyropoulou/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2024-12-08 11:16:38.138 -05:00] [ERR] [47] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/metadata/People/C/Christos V. Konstantakopoulos/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2024-12-08 11:16:38.378 -05:00] [INF] [8] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:16:38.537 -05:00] [ERR] [56] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/metadata/People/S/Sara Woodhatch/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2024-12-08 11:16:38.971 -05:00] [ERR] [56] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/metadata/People/L/Liz Glotzer/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2024-12-08 11:16:39.860 -05:00] [ERR] [56] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/metadata/People/J/Jacob Pechenik/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2024-12-08 11:16:40.190 -05:00] [ERR] [3] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/metadata/People/M/Martin Shafer/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2024-12-08 11:16:41.003 -05:00] [INF] [23] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/21.720p.BD5.x264-REFiNED/refined-21.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:41.837 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/127.Hours.2010.720p.BluRay.x264-Felony/f-127.hours.720.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:43.718 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/American.History.X.1998.720p.BluRay.x264-REVEiLLE/rev-ahx.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:44.550 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/22 Jump Street (2014) [1080p]/22.Jump.Street.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:49.011 -05:00] [INF] [22] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Batman The Dark Knight Returns Part 1 (2012)/Batman.The.Dark.Knight.Returns.Part.1.2012.720p.BRrip.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:49.160 -05:00] [INF] [22] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Batman The Dark Knight Returns Part 1 (2012)/Batman.The.Dark.Knight.Returns.Part.1.2012.720p.BRrip.x264.YIFY.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:49.568 -05:00] [INF] [56] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Batman.Begins.2005.720p.HDDVD.DTS.x264/Batman.Begins.2005.720p.HDDVD.DTS.x264.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:51.988 -05:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Batman The Dark Knight Returns Part 2 (2013) [1080p]/Batman.The.Dark.Knight.Part.2.2013.1080p.BRrip.x264.GAZ.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:52.108 -05:00] [INF] [56] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Batman The Dark Knight Returns Part 2 (2013) [1080p]/Batman.The.Dark.Knight.Part.2.2013.1080p.BRrip.x264.GAZ.YIFY.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:16:53.203 -05:00] [INF] [22] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Birdman (2014) [1080p]/Birdman.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:54.507 -05:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/District.9.720p.BluRay.x264-METiS/m-district9-720p.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:56.005 -05:00] [ERR] [38] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/metadata/People/M/Michael Uslan/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2024-12-08 11:16:56.288 -05:00] [ERR] [38] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/metadata/People/A/Alan Burnett/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2024-12-08 11:16:57.334 -05:00] [INF] [56] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Big Hero 6 (2014) [1080p]/Big.Hero.6.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:57.608 -05:00] [INF] [38] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Gone Girl (2014) [1080p]/Gone.Girl.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:16:58.575 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Edge of Tomorrow (2014) [1080p]/Edge.of.Tomorrow.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:01.085 -05:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Joker Folie a Deux 2024 REPACK 2160p WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX/Joker Folie a Deux 2024 REPACK 2160p WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:06.504 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Inception.720p.BluRay.x264-CROSSBOW/crossbow.inception.720p.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:07.719 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Kingdom.Of.The.Planet.Of.The.Apes.2024.REPACK.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-XEBEC[TGx]/Kingdom.Of.The.Planet.Of.The.Apes.2024.REPACK.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-XEBEC.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:07.995 -05:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Lucy (2014) [1080p]/Lucy.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:12.935 -05:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Midnight.in.Paris.720p.BluRay.x264-MHD/mhd-mip.720p.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:13.106 -05:00] [INF] [62] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Lost In Translation.2003.DVDRip.x264-VGL/Lost In Translation.2003.DVDRip.x264-VGL.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:14.222 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Paperman.2012.720p.BluRay.DTS.x264-PublicHD/paperman.2012.720p.bluray.dts.x264-publichd.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:15.805 -05:00] [INF] [62] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/No.Country.for.Old.Men.720p.Bluray.x264-Chakra/ck-nocountry.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:17.200 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/RocknRolla.720p.BluRay.x264-SEPTiC/rnr-septic.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:18.593 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Quantum.of.Solace.720p.BluRay.x264-REFiNED/refined-qos-blu720p.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:20.355 -05:00] [INF] [22] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Salmon.Fishing.In.The.Yemen.2011.720p.BluRay.X264-BLOW [PublicHD]/Salmon.Fishing.In.The.Yemen.2011.720p.BluRay.X264-BLOW.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:23.544 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Ratatouille.2007.nHD.720.x264.NhaNc3-1/Ratatouille.2007.nHD.720.x264.NhaNc3.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:24.874 -05:00] [INF] [38] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Sin City A Dame to Kill For (2014) [1080p]/Sin.City.A.Dame.to.Kill.For.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:27.881 -05:00] [INF] [3] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Slumdog.Millionaire.720p.BluRay.x264-REFiNED/refined-slumdog-blu720p.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:29.578 -05:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Ted 2 2015 UNCENSORED 1080p HC HDRip x264 AAC-JYK/Ted 2 2015 UNCENSORED 1080p HC HDRip x264 AAC-JYK.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:31.744 -05:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Amazing Spider Man 2 (2014) [1080p]/The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:32.025 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Amazing Spider Man 2 (2014) [1080p]/The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.chs.ass\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:17:34.597 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Bourne Supremacy (2004) [1080p]/The.Bourne.Supremacy.2004.1080p.BrRip.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:34.755 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Bourne Supremacy (2004) [1080p]/The.Bourne.Supremacy.2004.1080p.BrRip.x264.YIFY.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:17:35.611 -05:00] [INF] [62] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Sin.City.2005.HDTV.x264.AAC.MatRoska.NhaNc3/Sin.City.2005.HDTV.x264.AAC.MatRoska.NhaNc3.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:37.685 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The.Dark.Knight.720p.BluRay.x264-iNFAMOUS/inf-tdk.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:41.183 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Imitation Game (2014) [1080p]/The.Imitation.Game.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:43.404 -05:00] [INF] [62] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Hateful Eight 2015 1080p BluRay x264 DTS-JYK/The Hateful Eight 2015 1080p BluRay x264 DTS-JYK.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:43.868 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The.Bourne.Ultimatum.720p.HDDVD.x264-SEPTiC/s-tbu.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:45.870 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Theory of Everything (2014) [1080p]/The.Theory.of.Everything.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:46.100 -05:00] [INF] [3] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Theory of Everything (2014) [1080p]/The.Theory.of.Everything.2014.1080p.BluRay.x264.YIFY.chs.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:17:49.363 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The.Bank.Job.720p.Bluray.x264-SEPTiC/s-tbj.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:51.217 -05:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The.Ministry.of.Ungentlemanly.Warfare.2024.HDR.2160p.WEB.H265-WhisperingCobraOfTotalStrength[TGx]/the.ministry.of.ungentlemanly.warfare.2024.hdr.2160p.web.h265-whisperingcobraoftotalstrength.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:52.206 -05:00] [INF] [38] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The.First.Slam.Dunk [1080p]/The.First.Slam.Dunk.2023.1080p.DVDRIP.JAPANESE+CHINESE+LATINO.Dual.Audio.x264 -BOTHD.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:54.175 -05:00] [INF] [22] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Venom.Let.There.Be.Carnage.2021.2160p.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-NOGRP/Venom.Let.There.Be.Carnage.2021.2160p.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-NOGRP.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:55.361 -05:00] [WRN] [22] Emby.Server.Implementations.Library.LibraryManager: Cannot fetch image from "https://image.tmdb.org/t/p/original/jWamJns0w6Q6KAkBfnbSYy1dPYx.jpg"
+System.InvalidOperationException: Unable to convert any images to local
+   at Emby.Server.Implementations.Library.LibraryManager.ConvertImageToLocal(BaseItem item, ItemImageInfo image, Int32 imageIndex, Boolean removeOnFailure)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2024-12-08 11:17:59.161 -05:00] [INF] [64] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Transformers Age of Extinction (2014) [1080p]/Transformers.Age.of.Extinction.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:59.467 -05:00] [INF] [23] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Whiplash (2014) [1080p]/Whiplash.2014.1080p.BluRay.x264.YIFY.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:17:59.666 -05:00] [INF] [8] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/Whiplash (2014) [1080p]/Whiplash.2014.1080p.BluRay.x264.YIFY.chs.srt\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:18:04.030 -05:00] [INF] [3] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/[放·逐].Exiled.2006.DVDRip.X264.DTS.iNT-ZY-Sub Folder/zy-exiled-cd1.mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:18:04.116 -05:00] [INF] [22] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/[放·逐].Exiled.2006.DVDRip.X264.DTS.iNT-ZY-Sub Folder/zy-exiled-cd1.sub\" -threads 0 -v warning -print_format json -show_streams -show_format"
+[2024-12-08 11:18:04.961 -05:00] [INF] [23] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/The Wild Robot (2024) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 r00t)/The Wild Robot (2024) (2160p BluRay x265 10bit DV HDR r00t).mkv\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 11:18:29.258 -05:00] [INF] [23] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/f2e56a12dc3f460088b1d9d55820e654.png"
+[2024-12-08 11:18:29.693 -05:00] [INF] [23] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/f2e56a12dc3f460088b1d9d55820e654.png"
+[2024-12-08 11:18:29.858 -05:00] [INF] [23] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/fc48b55b4aa645b0b1ee09a6423a718d.png"
+[2024-12-08 11:18:29.980 -05:00] [INF] [23] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/fc48b55b4aa645b0b1ee09a6423a718d.png"
+[2024-12-08 11:18:30.137 -05:00] [INF] [8] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/32cabf16f18b45fe8975152df3f5c388.png"
+[2024-12-08 11:18:30.225 -05:00] [INF] [8] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/32cabf16f18b45fe8975152df3f5c388.png"
+[2024-12-08 11:18:30.410 -05:00] [INF] [8] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/1144447f56924a20bc90b416f783849a.png"
+[2024-12-08 11:18:30.574 -05:00] [INF] [8] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/1144447f56924a20bc90b416f783849a.png"
+[2024-12-08 11:18:30.697 -05:00] [INF] [38] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/07f23551cee34461ba5e1ffbc0a7045c.png"
+[2024-12-08 11:18:30.830 -05:00] [INF] [38] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/07f23551cee34461ba5e1ffbc0a7045c.png"
+[2024-12-08 11:18:31.471 -05:00] [INF] [22] Jellyfin.Drawing.ImageProcessor: Creating image collage and saving to "/tmp/jellyfin/69bc5b3f47c346be89fa4e3f79495dd9.png"
+[2024-12-08 11:18:31.545 -05:00] [INF] [22] Jellyfin.Drawing.ImageProcessor: Completed creation of image collage and saved to "/tmp/jellyfin/69bc5b3f47c346be89fa4e3f79495dd9.png"
+[2024-12-08 11:18:58.749 -05:00] [INF] [64] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 2 minute(s) and 49 seconds
+[2024-12-08 11:18:58.902 -05:00] [INF] [38] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/tv"
+[2024-12-08 11:18:59.136 -05:00] [INF] [22] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/movies"
+[2024-12-08 11:18:59.155 -05:00] [INF] [8] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/ram"
+[2024-12-08 11:20:02.376 -05:00] [INF] [8] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:22:50.381 -05:00] [INF] [41] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:25:38.380 -05:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:29:02.377 -05:00] [INF] [58] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:31:50.365 -05:00] [INF] [9] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:34:38.364 -05:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:38:02.369 -05:00] [INF] [51] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:40:50.358 -05:00] [INF] [19] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:43:38.356 -05:00] [INF] [19] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:47:02.360 -05:00] [INF] [37] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:49:50.353 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:52:38.357 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:56:02.360 -05:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 11:58:15.082 -05:00] [WRN] [63] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "172.23.0.1" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2024-12-08 11:58:15.158 -05:00] [INF] [63] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.23.0.1" closed
+[2024-12-08 13:01:02.585 -05:00] [INF] [53] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "a5luan" has succeeded.
+[2024-12-08 13:01:02.585 -05:00] [INF] [53] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "a5luan": 2/0
+[2024-12-08 13:01:02.585 -05:00] [INF] [53] Emby.Server.Implementations.Session.SessionManager: Logging out access token "8c3d8fdc93984e0c8b112cf77ac365ad"
+[2024-12-08 13:01:02.603 -05:00] [INF] [53] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user a9f82627-0936-4192-8d96-e123c5274d57
+[2024-12-08 13:02:57.650 -05:00] [INF] [41] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Infuse-Direct" "8.0.5" playing "Episode #1.1". Stopped at "11520" ms
+[2024-12-08 18:57:35.030 -05:00] [INF] [49] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was forbidden.
+[2024-12-08 19:04:03.249 -05:00] [INF] [3] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Infuse-Direct" "8.0.5" playing "宿敌01". Stopped at "2607840" ms
+[2024-12-08 19:06:16.409 -05:00] [INF] [43] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Infuse-Direct" "8.0.5" playing "X-Art - Stay for a While - Carrie [1080p]". Stopped at "64040" ms
+[2024-12-08 21:41:37.985 -05:00] [INF] [60] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.23.0.1" request
+[2024-12-08 21:50:14.065 -05:00] [INF] [85] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 21:50:26.070 -05:00] [INF] [86] Emby.Server.Implementations.Session.SessionWebSocketListener: Lost 1 WebSockets.
+[2024-12-08 21:52:13.295 -05:00] [INF] [30] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" request
+[2024-12-08 21:53:18.022 -05:00] [WRN] [45] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "172.23.0.1" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2024-12-08 21:53:18.058 -05:00] [INF] [45] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.23.0.1" closed
+[2024-12-08 21:54:42.803 -05:00] [WRN] [81] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "100.8.92.253" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2024-12-08 21:54:42.814 -05:00] [INF] [81] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" closed
+[2024-12-08 21:54:48.951 -05:00] [INF] [82] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" request
+[2024-12-08 21:57:37.200 -05:00] [INF] [77] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 21:59:18.751 -05:00] [INF] [74] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" closed
+[2024-12-08 21:59:28.569 -05:00] [INF] [76] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" request
+[2024-12-08 22:00:12.536 -05:00] [INF] [39] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" closed
+[2024-12-08 22:00:35.122 -05:00] [INF] [59] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" request
+[2024-12-08 22:03:04.992 -05:00] [INF] [80] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "a5luan" has succeeded.
+[2024-12-08 22:03:04.993 -05:00] [INF] [80] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "a5luan": 3/0
+[2024-12-08 22:03:04.994 -05:00] [INF] [80] Emby.Server.Implementations.Session.SessionManager: Logging out access token "d038e73b5d6f483488dd29b5c2b86c17"
+[2024-12-08 22:03:05.019 -05:00] [INF] [80] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user a9f82627-0936-4192-8d96-e123c5274d57
+[2024-12-08 22:03:05.972 -05:00] [INF] [37] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "yuan" has succeeded.
+[2024-12-08 22:03:05.972 -05:00] [INF] [37] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "yuan": 1/0
+[2024-12-08 22:03:05.972 -05:00] [INF] [37] Emby.Server.Implementations.Session.SessionManager: Logging out access token "fb2ba16bd9304a419bceee9cd2759688"
+[2024-12-08 22:03:05.989 -05:00] [INF] [37] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 1b2fb020-384d-4ed4-a039-8ae46be34673
+[2024-12-08 22:03:28.127 -05:00] [INF] [60] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was forbidden.
+[2024-12-08 22:03:59.126 -05:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 22:06:47.127 -05:00] [INF] [66] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 22:08:41.344 -05:00] [INF] [21] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" closed
+[2024-12-08 22:08:41.505 -05:00] [INF] [40] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.23.0.1" request
+[2024-12-08 22:09:00.781 -05:00] [INF] [21] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.23.0.1" closed
+[2024-12-08 22:12:23.778 -05:00] [INF] [55] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" request
+[2024-12-08 22:15:59.783 -05:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 22:18:47.779 -05:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-12-08 22:19:50.704 -05:00] [INF] [69] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" closed
+[2024-12-08 22:20:26.983 -05:00] [INF] [16] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "a5luan" has succeeded.
+[2024-12-08 22:20:26.984 -05:00] [INF] [16] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "a5luan": 1/0
+[2024-12-08 22:20:26.984 -05:00] [INF] [16] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user a9f82627-0936-4192-8d96-e123c5274d57
+[2024-12-08 22:20:27.098 -05:00] [INF] [76] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" request
+[2024-12-08 22:20:36.643 -05:00] [INF] [71] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" closed
+[2024-12-08 22:22:35.930 -05:00] [INF] [52] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Infuse-Direct" "8.0.5" playing "Episode #1.2". Stopped at "2279" ms
+[2024-12-08 23:16:08.913 -05:00] [INF] [85] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Download missing subtitles" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 23:16:09.031 -05:00] [INF] [69] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Download missing lyrics" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 23:16:09.033 -05:00] [INF] [43] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Optimizing and vacuuming jellyfin.db...
+[2024-12-08 23:16:09.035 -05:00] [INF] [49] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Transcode Directory" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 23:16:09.071 -05:00] [INF] [75] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Audio Normalization" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 23:16:09.138 -05:00] [INF] [69] Emby.Server.Implementations.ScheduledTasks.TaskManager: "TasksRefreshChannels" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 23:16:09.185 -05:00] [INF] [85] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Log Directory" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 23:16:09.315 -05:00] [INF] [43] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: jellyfin.db optimized successfully!
+[2024-12-08 23:16:09.315 -05:00] [INF] [43] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimize database" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 23:16:09.506 -05:00] [INF] [55] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Cache Directory" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 23:16:09.582 -05:00] [INF] [77] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Update Plugins" Completed after 0 minute(s) and 0 seconds
+[2024-12-08 23:16:12.268 -05:00] [INF] [55] Jellyfin.LiveTv.Guide.GuideManager: Refreshing guide with 7 days of guide data
+[2024-12-08 23:16:12.280 -05:00] [INF] [55] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Guide" Completed after 0 minute(s) and 3 seconds
+[2024-12-08 23:17:09.983 -05:00] [INF] [77] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/movies"
+[2024-12-08 23:17:09.988 -05:00] [INF] [77] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/ram"
+[2024-12-08 23:17:09.990 -05:00] [INF] [77] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/tv"
+[2024-12-08 23:17:09.991 -05:00] [INF] [77] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-12-08 23:17:11.403 -05:00] [WRN] [77] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-12-08 23:17:11.444 -05:00] [WRN] [66] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-12-08 23:17:11.493 -05:00] [INF] [55] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Media Segment Scan" Completed after 0 minute(s) and 1 seconds
+[2024-12-08 23:17:13.100 -05:00] [INF] [55] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e02.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 23:17:13.105 -05:00] [INF] [55] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/movies/House Of Cards 2013 S01 BDRip XviD-DEMAND[ettv]/house.of.cards.2013.s01e04.bdrip.xvid-demand.avi\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-12-08 23:17:18.152 -05:00] [INF] [24] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 8 seconds
+[2024-12-08 23:17:18.157 -05:00] [INF] [76] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/tv"
+[2024-12-08 23:17:18.241 -05:00] [INF] [61] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/ram"
+[2024-12-08 23:17:18.301 -05:00] [INF] [86] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/movies"
+[2024-12-08 23:26:53.509 -05:00] [INF] [35] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" request
+[2024-12-08 23:26:55.070 -05:00] [INF] [45] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" closed
+[2024-12-08 23:26:56.014 -05:00] [INF] [90] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" request
+[2024-12-08 23:27:21.182 -05:00] [INF] [35] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.8.92.253" closed

@@ -1,0 +1,108 @@
+{"Protocol":0,"Id":"4db07da42c7d2d21635ac25d6e393da9","Path":"/media/ram/2014 X-ART/[X-Art] 2013-11-27 Lisa And Bailey - I Want to Tell You [MP4][1920x1080]/x-art_lisa_bailey_i_want_to_tell_you-1080.mp4","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mov,mp4,m4a,3gp,3g2,mj2","Size":599582678,"Name":"x-art_lisa_bailey_i_want_to_tell_you-1080","IsRemote":false,"ETag":"363e031f5b467e031a278f7704763146","RunTimeTicks":8905600000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"mpeg4","CodecTag":"mp4v","Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/25","CodecTimeBase":null,"Title":null,"VideoRange":1,"VideoRangeType":1,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"DisplayTitle":"1080p MPEG4 SDR","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":5262104,"BitDepth":8,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":1080,"Width":1920,"AverageFrameRate":25,"RealFrameRate":25,"ReferenceFrameRate":25,"Profile":"Simple Profile","Type":1,"AspectRatio":"16:9","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p","Level":1,"IsAnamorphic":false},{"Codec":"aac","CodecTag":"mp4a","Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/48000","CodecTimeBase":null,"Title":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"English - AAC - Stereo - Default","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":119435,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"LC","Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":5386118,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":false}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G -ss 00:02:18.000 -noaccurate_seek  -i file:"/media/ram/2014 X-ART/[X-Art] 2013-11-27 Lisa And Bailey - I Want to Tell You [MP4][1920x1080]/x-art_lisa_bailey_i_want_to_tell_you-1080.mp4" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 libx264 -preset veryfast -crf 23 -maxrate 5262104 -bufsize 10524208 -profile:v:0 high -level 51 -x264opts:0 subme=0:me_range=16:rc_lookahead=10:me=hex:open_gop=0 -force_key_frames:0 "expr:gte(t,n_forced*3)" -sc_threshold:v:0 0 -vf "setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,scale=trunc(min(max(iw\,ih*a)\,min(1920\,1080*a))/2)*2:trunc(min(max(iw/a\,ih)\,min(1920/a\,1080))/2)*2,format=yuv420p" -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type fmp4 -hls_fmp4_init_filename "1c30a5f3191b5cc5115ac96c191c9cfe-1.mp4" -start_number 46 -hls_segment_filename "/cache/transcodes/1c30a5f3191b5cc5115ac96c191c9cfe%d.mp4" -hls_playlist_type vod -hls_list_size 0 -y "/cache/transcodes/1c30a5f3191b5cc5115ac96c191c9cfe.m3u8"
+
+
+ffmpeg version 7.0.2-Jellyfin Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 12 (Debian 12.2.0-14)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-ptx-compression --disable-static --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=arm64 --cross-prefix=/usr/bin/aarch64-linux-gnu- --toolchain=hardened --enable-cross-compile --enable-rkmpp --enable-rkrga
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'file:/media/ram/2014 X-ART/[X-Art] 2013-11-27 Lisa And Bailey - I Want to Tell You [MP4][1920x1080]/x-art_lisa_bailey_i_want_to_tell_you-1080.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf54.22.100
+  Duration: 00:14:50.56, start: 0.000000, bitrate: 5386 kb/s
+  Stream #0:0[0x1](eng): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 5262 kb/s, 25 fps, 25 tbr, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 119 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (mpeg4 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[libx264 @ 0xaaab105033b0] using SAR=1/1
+[libx264 @ 0xaaab105033b0] using cpu capabilities: ARMv8 NEON
+[libx264 @ 0xaaab105033b0] profile High, level 5.1, 4:2:0, 8-bit
+[libx264 @ 0xaaab105033b0] 264 - core 164 r3095 baee400 - H.264/MPEG-4 AVC codec - Copyleft 2003-2022 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=6 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=0 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 vbv_maxrate=5262 vbv_bufsize=10524 crf_max=0.0 nal_hrd=none filler=0 ip_ratio=1.40 aq=1:1.00
+[hls @ 0xaaab1052c640] Opening '/cache/transcodes/1c30a5f3191b5cc5115ac96c191c9cfe-1.mp4' for writing
+Output #0, hls, to '/cache/transcodes/1c30a5f3191b5cc5115ac96c191c9cfe.m3u8':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: h264, yuv420p(bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 25 fps, 12800 tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 5262000/0/0 buffer size: 10524000 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 119 kb/s (default)
+frame=    0 fps=0.0 q=0.0 size=N/A time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=N/A time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=N/A time=N/A bitrate=N/A speed=N/A    
+frame=    4 fps=2.0 q=28.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+frame=    9 fps=3.6 q=28.0 size=N/A time=00:00:00.20 bitrate=N/A speed=0.0796x    
+frame=   16 fps=5.3 q=28.0 size=N/A time=00:00:00.48 bitrate=N/A speed=0.159x    
+frame=   24 fps=6.8 q=28.0 size=N/A time=00:00:00.80 bitrate=N/A speed=0.227x    
+frame=   30 fps=7.5 q=28.0 size=N/A time=00:00:01.04 bitrate=N/A speed=0.259x    
+frame=   37 fps=8.2 q=28.0 size=N/A time=00:00:01.32 bitrate=N/A speed=0.292x    
+frame=   49 fps=9.8 q=28.0 size=N/A time=00:00:01.80 bitrate=N/A speed=0.359x    
+frame=   61 fps= 11 q=28.0 size=N/A time=00:00:02.28 bitrate=N/A speed=0.413x    
+frame=   68 fps= 11 q=28.0 size=N/A time=00:00:02.56 bitrate=N/A speed=0.425x    
+frame=   75 fps= 11 q=28.0 size=N/A time=00:00:02.84 bitrate=N/A speed=0.435x    
+[hls @ 0xaaab1052c640] Opening '/cache/transcodes/1c30a5f3191b5cc5115ac96c191c9cfe46.mp4' for writing
+frame=   83 fps= 12 q=28.0 size=N/A time=00:00:03.16 bitrate=N/A speed=0.45x    
+frame=   91 fps= 12 q=28.0 size=N/A time=00:00:03.48 bitrate=N/A speed=0.462x    
+frame=   98 fps= 12 q=28.0 size=N/A time=00:00:03.76 bitrate=N/A speed=0.468x    
+frame=  104 fps= 12 q=28.0 size=N/A time=00:00:04.00 bitrate=N/A speed=0.469x    
+frame=  112 fps= 12 q=28.0 size=N/A time=00:00:04.32 bitrate=N/A speed=0.478x    
+frame=  119 fps= 12 q=28.0 size=N/A time=00:00:04.60 bitrate=N/A speed=0.483x    
+frame=  124 fps= 12 q=28.0 size=N/A time=00:00:04.80 bitrate=N/A speed=0.479x    
+frame=  131 fps= 12 q=28.0 size=N/A time=00:00:05.08 bitrate=N/A speed=0.482x    
+frame=  136 fps= 12 q=28.0 size=N/A time=00:00:05.28 bitrate=N/A speed=0.479x    
+frame=  143 fps= 12 q=28.0 size=N/A time=00:00:05.56 bitrate=N/A speed=0.482x    
+frame=  150 fps= 12 q=28.0 size=N/A time=00:00:05.84 bitrate=N/A speed=0.485x    
+[hls @ 0xaaab1052c640] Opening '/cache/transcodes/1c30a5f3191b5cc5115ac96c191c9cfe47.mp4' for writing
+frame=  151 fps= 12 q=28.0 size=N/A time=00:00:05.88 bitrate=N/A speed=0.469x    
+frame=  158 fps= 12 q=28.0 size=N/A time=00:00:06.16 bitrate=N/A speed=0.473x    
+frame=  166 fps= 12 q=28.0 size=N/A time=00:00:06.48 bitrate=N/A speed=0.479x    
+frame=  174 fps= 12 q=28.0 size=N/A time=00:00:06.80 bitrate=N/A speed=0.485x    
+frame=  179 fps= 12 q=28.0 size=N/A time=00:00:07.00 bitrate=N/A speed=0.482x    
+frame=  184 fps= 12 q=28.0 size=N/A time=00:00:07.20 bitrate=N/A speed=0.479x    
+frame=  186 fps= 12 q=28.0 size=N/A time=00:00:07.28 bitrate=N/A speed=0.469x    
+frame=  194 fps= 12 q=28.0 size=N/A time=00:00:07.60 bitrate=N/A speed=0.474x    
+frame=  202 fps= 12 q=28.0 size=N/A time=00:00:07.92 bitrate=N/A speed=0.479x    
+frame=  206 fps= 12 q=28.0 size=N/A time=00:00:08.08 bitrate=N/A speed=0.474x    
+frame=  211 fps= 12 q=28.0 size=N/A time=00:00:08.28 bitrate=N/A speed=0.472x    
+
+[q] command received. Exiting.
+
+[hls @ 0xaaab1052c640] Opening '/cache/transcodes/1c30a5f3191b5cc5115ac96c191c9cfe48.mp4' for writing
+[hls @ 0xaaab1052c640] Opening '/cache/transcodes/1c30a5f3191b5cc5115ac96c191c9cfe49.mp4' for writing
+[out#0/hls @ 0xaaab105012e0] video:1624KiB audio:160KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  256 fps= 12 q=-1.0 Lsize=N/A time=00:00:10.08 bitrate=N/A speed=0.479x    
+[libx264 @ 0xaaab105033b0] frame I:4     Avg QP:15.15  size: 50296
+[libx264 @ 0xaaab105033b0] frame P:65    Avg QP:19.35  size: 15152
+[libx264 @ 0xaaab105033b0] frame B:187   Avg QP:21.12  size:  2547
+[libx264 @ 0xaaab105033b0] consecutive B-frames:  1.6%  3.1%  0.0% 95.3%
+[libx264 @ 0xaaab105033b0] mb I  I16..4: 42.0% 41.1% 16.9%
+[libx264 @ 0xaaab105033b0] mb P  I16..4:  4.8%  8.6%  0.6%  P16..4: 21.0%  9.3%  3.3%  0.0%  0.0%    skip:52.4%
+[libx264 @ 0xaaab105033b0] mb B  I16..4:  0.5%  0.2%  0.0%  B16..8:  7.5%  1.5%  0.1%  direct: 3.5%  skip:86.8%  L0:43.7% L1:48.8% BI: 7.5%
+[libx264 @ 0xaaab105033b0] 8x8 transform intra:52.9% inter:49.3%
+[libx264 @ 0xaaab105033b0] coded y,uvDC,uvAC intra: 31.2% 38.1% 3.8% inter: 1.5% 7.2% 0.0%
+[libx264 @ 0xaaab105033b0] i16 v,h,dc,p: 43% 21% 11% 25%
+[libx264 @ 0xaaab105033b0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 20% 24%  4%  8%  6%  8%  5% 10%
+[libx264 @ 0xaaab105033b0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 21% 30% 14%  4%  7%  4%  6%  4% 10%
+[libx264 @ 0xaaab105033b0] i8c dc,h,v,p: 43% 27% 22%  9%
+[libx264 @ 0xaaab105033b0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0xaaab105033b0] kb/s:1298.68

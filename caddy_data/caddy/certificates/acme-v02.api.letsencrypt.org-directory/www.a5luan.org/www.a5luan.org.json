@@ -1,0 +1,18 @@
+{
+	"sans": [
+		"www.a5luan.org"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/03b2b4d26812cc36794c08edadf535d9f4ec",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory",
+		"renewal_info": {
+			"suggestedWindow": {
+				"start": "2025-02-06T13:25:31Z",
+				"end": "2025-02-08T13:25:31Z"
+			},
+			"_uniqueIdentifier": "nytfzzwhT50Et-0rLMTGcIvS1w0.A7K00mgSzDZ5TAjtrfU12fTs",
+			"_retryAfter": "2024-12-09T20:04:33.215217923Z",
+			"_selectedTime": "2025-02-07T18:43:31Z"
+		}
+	}
+}

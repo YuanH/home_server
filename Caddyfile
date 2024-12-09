@@ -1,0 +1,6 @@
+a5luan.org, www.a5luan.org {
+    reverse_proxy jellyfin:8096
+    tls {
+        dns cloudflare {env.CLOUDFLARE_API_TOKEN}
+    }
+}

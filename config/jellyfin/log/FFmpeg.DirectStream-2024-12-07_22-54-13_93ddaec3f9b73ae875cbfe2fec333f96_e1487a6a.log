@@ -1,0 +1,122 @@
+{"Protocol":0,"Id":"93ddaec3f9b73ae875cbfe2fec333f96","Path":"/media/movies/Alien.Romulus.2024.DUAL-AUDiO.SPA-ENG.2160p.WEB-DL.DV.DDP5.1.Atmos.HDR10.H.265-DMnT/alien.romulus.2024.dual-audio.spa-eng.2160p.web-dl.dv.ddp5.1.atmos.hdr10.h.265-dmnt.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":23714573043,"Name":"alien.romulus.2024.dual-audio.spa-eng.2160p.web-dl.dv.ddp5.1.atmos.hdr10.h.265-dmnt","IsRemote":false,"ETag":"fe626b833edfc5194f3a0a640d9ebbfb","RunTimeTicks":71338240000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"hevc","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":"bt2020nc","ColorTransfer":"smpte2084","ColorPrimaries":"bt2020","DvVersionMajor":1,"DvVersionMinor":0,"DvProfile":8,"DvLevel":6,"RpuPresentFlag":1,"ElPresentFlag":0,"BlPresentFlag":1,"DvBlSignalCompatibilityId":1,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"outr0x [dem3nt3 / DMnT]","VideoRange":2,"VideoRangeType":5,"VideoDoViTitle":"Dolby Vision Profile 8.1 (HDR10)","AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"DisplayTitle":"outr0x [dem3nt3 / DMnT] - 4K - HEVC - Dolby Vision Profile 8.1 (HDR10)","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":26593953,"BitDepth":10,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":1606,"Width":3840,"AverageFrameRate":24,"RealFrameRate":24,"ReferenceFrameRate":24,"Profile":"Main 10","Type":1,"AspectRatio":"2.40:1","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p10le","Level":150,"IsAnamorphic":false},{"Codec":"ac3","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Espa\u00F1ol Latino AC3 5.1","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"Espa\u00F1ol Latino AC3 5.1 - Spanish - Dolby Digital","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"5.1","BitRate":640000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"eac3","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Espa\u00F1ol Latino E-AC3 7.1","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"Espa\u00F1ol Latino E-AC3 7.1 - Spanish - Dolby Digital\u002B - Default","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"7.1","BitRate":640000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":8,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"eac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"English","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":1,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"English - Dolby Digital Plus \u002B Dolby Atmos - 5.1","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"5.1","BitRate":768000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"Dolby Digital Plus \u002B Dolby Atmos","Type":0,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Espa\u00F1ol Latino (Forzados)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"Espa\u00F1ol Latino (Forzados) - Spanish - Hearing Impaired - Default - Forced - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":true,"IsHearingImpaired":true,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":4,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Espa\u00F1ol Latino","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"Espa\u00F1ol Latino - Spanish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":5,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":28641953,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":false}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G -fflags +genpts  -i file:"/media/movies/Alien.Romulus.2024.DUAL-AUDiO.SPA-ENG.2160p.WEB-DL.DV.DDP5.1.Atmos.HDR10.H.265-DMnT/alien.romulus.2024.dual-audio.spa-eng.2160p.web-dl.dv.ddp5.1.atmos.hdr10.h.265-dmnt.mkv" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:2 -map -0:s -codec:v:0 copy -tag:v:0 dvh1 -strict -2 -bsf:v hevc_mp4toannexb -start_at_zero -codec:a:0 libfdk_aac -ac 6 -ab 640000 -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 6 -hls_segment_type fmp4 -hls_fmp4_init_filename "28956f2fd1d401112a8a9c1e3613fcce-1.mp4" -start_number 0 -hls_segment_filename "/cache/transcodes/28956f2fd1d401112a8a9c1e3613fcce%d.mp4" -hls_playlist_type vod -hls_list_size 0 -y "/cache/transcodes/28956f2fd1d401112a8a9c1e3613fcce.m3u8"
+
+
+ffmpeg version 7.0.2-Jellyfin Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 12 (Debian 12.2.0-14)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-ptx-compression --disable-static --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=arm64 --cross-prefix=/usr/bin/aarch64-linux-gnu- --toolchain=hardened --enable-cross-compile --enable-rkmpp --enable-rkrga
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+Input #0, matroska,webm, from 'file:/media/movies/Alien.Romulus.2024.DUAL-AUDiO.SPA-ENG.2160p.WEB-DL.DV.DDP5.1.Atmos.HDR10.H.265-DMnT/alien.romulus.2024.dual-audio.spa-eng.2160p.web-dl.dv.ddp5.1.atmos.hdr10.h.265-dmnt.mkv':
+  Metadata:
+    title           : alien.romulus.2024.dual-audio.spa-eng.2160p.web-dl.dv.ddp5.1.atmos.hdr10.h.265-dmnt
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-10-14T17:56:39.000000Z
+  Duration: 01:58:53.82, start: 0.000000, bitrate: 26593 kb/s
+  Stream #0:0(eng): Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1606 [SAR 1:1 DAR 1920:803], 24 fps, 24 tbr, 1k tbn (default) (original)
+      Metadata:
+        title           : outr0x [dem3nt3 / DMnT]
+        BPS             : 24543122
+        DURATION        : 01:58:53.792000000
+        NUMBER_OF_FRAMES: 171211
+        NUMBER_OF_BYTES : 21885691360
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-10-14 17:56:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 8, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 1
+  Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s
+      Metadata:
+        title           : Español Latino AC3 5.1
+        BPS             : 640000
+        DURATION        : 01:58:53.824000000
+        NUMBER_OF_FRAMES: 222932
+        NUMBER_OF_BYTES : 570705920
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-10-14 17:56:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(spa): Audio: eac3, 48000 Hz, 7.1, fltp, 640 kb/s (default)
+      Metadata:
+        title           : Español Latino E-AC3 7.1
+        BPS             : 640000
+        DURATION        : 01:58:53.792000000
+        NUMBER_OF_FRAMES: 222931
+        NUMBER_OF_BYTES : 570703360
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-10-14 17:56:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s
+      Metadata:
+        title           : English
+        BPS             : 768000
+        DURATION        : 01:58:53.792000000
+        NUMBER_OF_FRAMES: 222931
+        NUMBER_OF_BYTES : 684844032
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-10-14 17:56:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(spa): Subtitle: subrip (srt) (default) (forced) (hearing impaired)
+      Metadata:
+        title           : Español Latino (Forzados)
+        BPS             : 2
+        DURATION        : 01:49:41.708000000
+        NUMBER_OF_FRAMES: 66
+        NUMBER_OF_BYTES : 1876
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-10-14 17:56:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Español Latino
+        BPS             : 40
+        DURATION        : 01:49:59.583000000
+        NUMBER_OF_FRAMES: 1207
+        NUMBER_OF_BYTES : 33589
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-10-14 17:56:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:2 -> #0:1 (eac3 (native) -> aac (libfdk_aac))
+Press [q] to stop, [?] for help
+[hls @ 0xaaaae59aa410] Opening '/cache/transcodes/28956f2fd1d401112a8a9c1e3613fcce-1.mp4' for writing
+[hls @ 0xaaaae59aa410] Stream HEVC is not hvc1, you should use tag:v hvc1 to set it.
+Output #0, hls, to '/cache/transcodes/28956f2fd1d401112a8a9c1e3613fcce.m3u8':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: hevc (Main 10) (dvh1 / 0x31687664), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1606 [SAR 1:1 DAR 1920:803], q=2-31, 24 fps, 24 tbr, 12288 tbn (default) (original)
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 8, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 1
+  Stream #0:1: Audio: aac, 48000 Hz, 5.1, s16, 640 kb/s (default)
+      Metadata:
+        encoder         : Lavc61.3.100 libfdk_aac
+size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+[hls @ 0xaaaae59aa410] Opening '/cache/transcodes/28956f2fd1d401112a8a9c1e3613fcce0.mp4' for writing
+size=N/A time=00:00:01.55 bitrate=N/A speed=1.56x    
+size=N/A time=00:00:07.95 bitrate=N/A speed= 5.3x    
+[hls @ 0xaaaae59aa410] Opening '/cache/transcodes/28956f2fd1d401112a8a9c1e3613fcce1.mp4' for writing
+size=N/A time=00:00:11.45 bitrate=N/A speed=5.73x    
+[hls @ 0xaaaae59aa410] Opening '/cache/transcodes/28956f2fd1d401112a8a9c1e3613fcce2.mp4' for writing
+size=N/A time=00:00:11.75 bitrate=N/A speed= 4.7x    
+size=N/A time=00:00:11.87 bitrate=N/A speed=3.96x    
+size=N/A time=00:00:12.58 bitrate=N/A speed=3.59x    
+size=N/A time=00:00:14.16 bitrate=N/A speed=3.54x    
+size=N/A time=00:00:15.08 bitrate=N/A speed=3.35x    
+size=N/A time=00:00:18.53 bitrate=N/A speed= 3.7x    
+[hls @ 0xaaaae59aa410] Opening '/cache/transcodes/28956f2fd1d401112a8a9c1e3613fcce3.mp4' for writing
+size=N/A time=00:00:18.85 bitrate=N/A speed=3.42x    
+size=N/A time=00:00:18.85 bitrate=N/A speed=3.14x    
+size=N/A time=00:00:18.85 bitrate=N/A speed= 2.9x    
+
+[q] command received. Exiting.
+
+[hls @ 0xaaaae59aa410] Opening '/cache/transcodes/28956f2fd1d401112a8a9c1e3613fcce4.mp4' for writing
+[out#0/hls @ 0xaaaae59af050] video:48113KiB audio:2227KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:21.04 bitrate=N/A speed=2.55x    
