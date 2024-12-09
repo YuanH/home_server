@@ -3,9 +3,11 @@
 
 # Ignore cache directories
 cache/*
+!cache/.gitkeep
 
 # Ignore local machine-specific config directories
 config/jellyfin/*
+!config/jellyfin/.gitkeep
 
 # Ignore Caddy directories where certificates and state are stored
 caddy_data/*
