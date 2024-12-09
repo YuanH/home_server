@@ -18,6 +18,9 @@ services:
       - type: bind
         source: /Volumes/ExtremePro/RAM
         target: /media/ram
+      - type: bind
+        source: /Users/yuan/Development/kindle/Kindle_download_helper
+        target: /media/books
     environment:
       - TZ=America/New_York
       - JELLYFIN_PublishedServerUrl=https://a5luan.org
