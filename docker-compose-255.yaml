@@ -4,7 +4,8 @@ services:
     container_name: jellyfin
     restart: unless-stopped
     # network_mode: 'bridge'
-    user: ${UID}:${GID}
+    # user: ${UID}:${GID}
+    # user: 501:20
     volumes:
       # This directory will store Jellyfin config and metadata
       - ./config/jellyfin:/config
@@ -24,6 +25,8 @@ services:
     environment:
       - TZ=America/New_York
       - JELLYFIN_PublishedServerUrl=https://a5luan.org
+      - PUID=0
+      - PGID=0
 
     ports:
       - "8096:8096"

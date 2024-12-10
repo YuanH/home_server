@@ -11,9 +11,11 @@ eval "$(op signin)"
 CLOUDFLARE_API_TOKEN="$(op item get "Cloudflare Caddy API Token" --field credential --reveal)"
 CLOUDFLARE_TUNNEL_TOKEN="$(op item get "cloudflare-tunnel-255" --field credential --reveal)"
 
+
 # 3. Export them as environment variables
 export CLOUDFLARE_API_TOKEN
 export CLOUDFLARE_TUNNEL_TOKEN
+
 
 # 4. Run docker-compose with these environment variables
 docker compose -f docker-compose-255.yaml up -d
