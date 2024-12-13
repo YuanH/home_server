@@ -43,6 +43,7 @@ services:
     volumes:
       - ${COMMON_PATH_88}:${COMMON_PATH_88}
       - ./config/qbittorrent:/config
+      - ${COMMON_PATH_88}/torrents:/downloads
     ports:
       - 8080:8080
       - 6881:6881
@@ -72,6 +73,7 @@ services:
     volumes:
       - ${COMMON_PATH_88}:${COMMON_PATH_88}
       - ./config/sonarr:/config
+      - ${COMMON_PATH_88}/torrents:/downloads
     ports:
       - 8989:8989
     restart: unless-stopped
@@ -85,6 +87,7 @@ services:
     volumes:
       - ${COMMON_PATH_88}:${COMMON_PATH_88}
       - ./config/radarr:/config
+      - ${COMMON_PATH_88}/torrents:/downloads
     ports:
       - 7878:7878
     restart: unless-stopped
