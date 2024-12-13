@@ -14,6 +14,6 @@ CLOUDFLARE_TUNNEL_TOKEN="$(op item get "cloudflare-tunnel-88" --field credential
 # 3. Export them as environment variables
 # export CLOUDFLARE_API_TOKEN
 export CLOUDFLARE_TUNNEL_TOKEN
-
+echo $CLOUDFLARE_TUNNEL_TOKEN
 # 4. Run docker-compose with these environment variables
-docker compose -f docker-compose-88.yaml up -d
+docker compose -f docker-compose-88.yml up -d

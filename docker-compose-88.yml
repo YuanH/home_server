@@ -1,27 +1,27 @@
 services:
-  jellyfin:
-    image: jellyfin/jellyfin:latest
-    container_name: jellyfin
-    restart: unless-stopped
-    # network_mode: 'bridge'
-    user: ${UID}:${GID}
-    volumes:
-      # This directory will store Jellyfin config and metadata
-      - ./config/jellyfin:/config
-      - ./cache:/cache
-      - type: bind
-        source: /Volumes/ExtremePro/Movies
-        target: /media/movies
-      - type: bind
-        source: /Volumes/ExtremePro/TV
-        target: /media/tv
-    environment:
-      - TZ=America/New_York
-      - JELLYFIN_PublishedServerUrl=https://88morgan.a5luan.org
+  # jellyfin:
+  #   image: jellyfin/jellyfin:latest
+  #   container_name: jellyfin
+  #   restart: unless-stopped
+  #   # network_mode: 'bridge'
+  #   user: "501:20"
+  #   volumes:
+  #     # This directory will store Jellyfin config and metadata
+  #     - ./config/jellyfin:/config
+  #     - ./cache:/cache
+  #     - type: bind
+  #       source: /Volumes/ExtremeSSD/Movies
+  #       target: /media/movies
+  #     - type: bind
+  #       source: /Volumes/ExtremeSSD/TV
+  #       target: /media/tv
+  #   environment:
+  #     - TZ=America/New_York
+  #     - JELLYFIN_PublishedServerUrl=https://88morgan.a5luan.org
 
-    ports:
-      - "8096:8096"
-      - "8920:8920"
+  #   ports:
+  #     - "8096:8096"
+  #     - "8920:8920"
 
   cloudflared:
     image: cloudflare/cloudflared:latest
@@ -30,3 +30,72 @@ services:
     restart: unless-stopped
     environment:
       - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}
+
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    environment:
+      - WEBUI_PORT=8080
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+      # - DOCKER_MODS=ghcr.io/gabe565/linuxserver-mod-vuetorrent
+    volumes:
+      - ${COMMON_PATH_88}:${COMMON_PATH_88}
+      - ./config/qbittorrent:/config
+    ports:
+      - 8080:8080
+      - 6881:6881
+      - 6881:6881/udp
+    restart: unless-stopped
+
+  prowlarr:
+    image: lscr.io/linuxserver/prowlarr:latest
+    container_name: prowlarr
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ./config/prowlarr:/config
+    ports:
+      - 9696:9696
+    restart: unless-stopped
+
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ${COMMON_PATH_88}:${COMMON_PATH_88}
+      - ./config/sonarr:/config
+    ports:
+      - 8989:8989
+    restart: unless-stopped
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ${COMMON_PATH_88}:${COMMON_PATH_88}
+      - ./config/radarr:/config
+    ports:
+      - 7878:7878
+    restart: unless-stopped
+  flaresolverr:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    environment:
+      - LOG_LEVEL=${LOG_LEVEL:-info}
+      - LOG_HTML=${LOG_HTML:-false}
+      - CAPTCHA_SOLVER=${CAPTCHA_SOLVER:-none}
+      - TZ=${TZ}
+    ports:
+      - 8191:8191
+    restart: unless-stopped
