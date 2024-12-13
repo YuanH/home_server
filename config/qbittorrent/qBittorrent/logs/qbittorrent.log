@@ -1,0 +1,48 @@
+(N) 2024-12-12T11:39:49 - qBittorrent v5.0.2 started. Process ID: 142
+(N) 2024-12-12T11:39:49 - Using config directory: /config/qBittorrent
+(N) 2024-12-12T11:39:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-12-12T11:39:49 - Peer ID: "-qB5020-"
+(I) 2024-12-12T11:39:49 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-12-12T11:39:49 - Distributed Hash Table (DHT) support: ON
+(I) 2024-12-12T11:39:49 - Local Peer Discovery support: ON
+(I) 2024-12-12T11:39:49 - Peer Exchange (PeX) support: ON
+(I) 2024-12-12T11:39:49 - Anonymous mode: OFF
+(I) 2024-12-12T11:39:49 - Encryption support: ON
+(I) 2024-12-12T11:39:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-12-12T11:39:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-12-12T11:39:49 - Successfully listening on IP. IP: "172.18.0.7". Port: "TCP/6881"
+(I) 2024-12-12T11:39:49 - Successfully listening on IP. IP: "172.18.0.7". Port: "UTP/6881"
+(I) 2024-12-12T11:39:49 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-12-12T11:39:49 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2024-12-12T11:39:49 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-12-12T11:39:49 - Using built-in WebUI.
+(W) 2024-12-12T11:39:49 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-12-12T11:39:49 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-12-12T11:39:49 - Detected external IP. IP: "100.8.92.253"
+(I) 2024-12-12T11:39:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Nov 30 21:19:17 2024.
+(I) 2024-12-12T11:39:49 - Successfully updated IP geolocation database.
+(N) 2024-12-12T11:49:13 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2024-12-12T11:50:02 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-12-12T11:57:41 - WebAPI login success. IP: ::ffff:172.18.0.6
+(N) 2024-12-12T12:03:09 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2024-12-12T12:08:50 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2024-12-12T12:12:04 - Added new torrent. Torrent: "THE FIRST SLAM DUNK (2022) [BluRay.2160p.AV1.FLAC.ITA.OPUS.JPNx2.Subs.Ita.Eng.Jpn] by stress.mkv"
+(N) 2024-12-12T13:01:48 - Torrent download finished. Torrent: "THE FIRST SLAM DUNK (2022) [BluRay.2160p.AV1.FLAC.ITA.OPUS.JPNx2.Subs.Ita.Eng.Jpn] by stress.mkv"
+(N) 2024-12-12T15:02:09 - Torrent stopped. Torrent: "THE FIRST SLAM DUNK (2022) [BluRay.2160p.AV1.FLAC.ITA.OPUS.JPNx2.Subs.Ita.Eng.Jpn] by stress.mkv"
+(N) 2024-12-12T15:27:55 - Added new torrent. Torrent: "The.Dark.Knight.Rises.2012.IMAX.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM"
+(N) 2024-12-12T15:28:46 - Torrent removed. Torrent: "THE FIRST SLAM DUNK (2022) [BluRay.2160p.AV1.FLAC.ITA.OPUS.JPNx2.Subs.Ita.Eng.Jpn] by stress.mkv"
+(I) 2024-12-12T17:35:44 - Found Python executable. Name: "python3". Version: "3.12.7"
+(N) 2024-12-12T21:59:41 - Added new torrent. Torrent: "Bad.Boys.Ride.Or.Die.2024.2160p.BluRay.REMUX.DV.P7.HDR.ENG.LATINO.ITALIAN.HINDI.CHINESE.TrueHD.Atmos.7.1.H265-BEN.THE.MEN"
+(N) 2024-12-12T22:01:10 - Added new torrent. Torrent: "Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6"
+(N) 2024-12-12T22:01:21 - Added new torrent. Torrent: "Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG"
+(N) 2024-12-12T22:01:25 - Added new torrent. Torrent: "The.Bikeriders.2023.Eng.Fre.Ger.Ita.Spa.2160p.BluRay.Hybrid.Remux.DV.HDR.HEVC.Atmos-SGF.mkv"
+(N) 2024-12-12T22:01:28 - Added new torrent. Torrent: "Batman The Dark Knight Returns (Deluxe Edition) (2013) + Extras (1080p BluRay x265 HEVC 10bit AC3 5.1 SAMPA)"
+(N) 2024-12-12T22:01:41 - Added new torrent. Torrent: "Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR"
+(N) 2024-12-12T22:47:50 - Torrent download finished. Torrent: "The.Dark.Knight.Rises.2012.IMAX.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM"
+(N) 2024-12-13T03:00:55 - Torrent download finished. Torrent: "Bad.Boys.Ride.Or.Die.2024.2160p.BluRay.REMUX.DV.P7.HDR.ENG.LATINO.ITALIAN.HINDI.CHINESE.TrueHD.Atmos.7.1.H265-BEN.THE.MEN"
+(N) 2024-12-13T03:55:27 - Torrent download finished. Torrent: "The.Bikeriders.2023.Eng.Fre.Ger.Ita.Spa.2160p.BluRay.Hybrid.Remux.DV.HDR.HEVC.Atmos-SGF.mkv"
+(N) 2024-12-13T04:31:22 - Torrent download finished. Torrent: "Batman The Dark Knight Returns (Deluxe Edition) (2013) + Extras (1080p BluRay x265 HEVC 10bit AC3 5.1 SAMPA)"
+(N) 2024-12-13T08:44:48 - Torrent removed. Torrent: "Batman The Dark Knight Returns (Deluxe Edition) (2013) + Extras (1080p BluRay x265 HEVC 10bit AC3 5.1 SAMPA)"
+(N) 2024-12-13T08:46:02 - Torrent removed. Torrent: "The.Dark.Knight.Rises.2012.IMAX.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM"
+(N) 2024-12-13T08:46:02 - Torrent removed. Torrent: "Bad.Boys.Ride.Or.Die.2024.2160p.BluRay.REMUX.DV.P7.HDR.ENG.LATINO.ITALIAN.HINDI.CHINESE.TrueHD.Atmos.7.1.H265-BEN.THE.MEN"
+(N) 2024-12-13T08:46:03 - Torrent removed. Torrent: "The.Bikeriders.2023.Eng.Fre.Ger.Ita.Spa.2160p.BluRay.Hybrid.Remux.DV.HDR.HEVC.Atmos-SGF.mkv"

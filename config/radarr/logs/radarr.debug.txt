@@ -1,0 +1,120 @@
+2024-12-13 10:31:10.0|Debug|Parser|Unable to parse 2024年12月麻豆BT最新域名 938956.xyz 国产自拍精品，浙江颜值情侣最强喷水，【xingnu】高价付费VIP全套，江南淑女人妻也疯狂，刺激！
+2024-12-13 10:31:10.3|Debug|DownloadDecisionMaker|Processing release '2024年12月麻豆BT最新域名 938956.xyz 操的骚逼水声哗哗气质美少妇约健壮炮友骚话不断操到头晕干到浴室太骚了' from '52BT (Prowlarr)'
+2024-12-13 10:31:10.4|Debug|Parser|Parsing string '2024年12月麻豆BT最新域名 938956.xyz 操的骚逼水声哗哗气质美少妇约健壮炮友骚话不断操到头晕干到浴室太骚了'
+2024-12-13 10:31:10.4|Debug|Parser|Unable to parse 2024年12月麻豆BT最新域名 938956.xyz 操的骚逼水声哗哗气质美少妇约健壮炮友骚话不断操到头晕干到浴室太骚了
+2024-12-13 10:31:10.4|Debug|DownloadDecisionMaker|Processing release '2024年12月麻豆BT最新域名 938956.xyz 年轻漂亮留学生妹子与洋男友浴室开着淋浴激情啪啪啪高难度69式还是洋Q猛口爆颜射1080P原版' from '52BT (Prowlarr)'
+2024-12-13 10:31:10.4|Debug|Parser|Parsing string '2024年12月麻豆BT最新域名 938956.xyz 年轻漂亮留学生妹子与洋男友浴室开着淋浴激情啪啪啪高难度69式还是洋Q猛口爆颜射1080P原版'
+2024-12-13 10:31:10.4|Debug|Parser|Unable to parse 2024年12月麻豆BT最新域名 938956.xyz 年轻漂亮留学生妹子与洋男友浴室开着淋浴激情啪啪啪高难度69式还是洋Q猛口爆颜射1080P原版
+2024-12-13 10:31:10.4|Debug|DownloadDecisionMaker|Processing release '2024年12月麻豆BT最新域名 236696.xyz 【开心探花】搞熟女技师，骑在身上按摩，摸摸搞搞，口硬骑乘位，翘起屁股后入' from '52BT (Prowlarr)'
+2024-12-13 10:31:10.4|Debug|Parser|Parsing string '2024年12月麻豆BT最新域名 236696.xyz 【开心探花】搞熟女技师，骑在身上按摩，摸摸搞搞，口硬骑乘位，翘起屁股后入'
+2024-12-13 10:31:10.4|Debug|Parser|Unable to parse 2024年12月麻豆BT最新域名 236696.xyz 【开心探花】搞熟女技师，骑在身上按摩，摸摸搞搞，口硬骑乘位，翘起屁股后入
+2024-12-13 10:31:10.4|Debug|DownloadDecisionMaker|Processing release '2024年12月麻豆BT最新域名 938956.xyz 米拉和主人的幸福生活先一个人自慰再啪啪，开档肉丝无毛肥逼，翘起双腿振动棒插入，口交大屌骑乘整根插入猛操' from '52BT (Prowlarr)'
+2024-12-13 10:31:10.4|Debug|Parser|Parsing string '2024年12月麻豆BT最新域名 938956.xyz 米拉和主人的幸福生活先一个人自慰再啪啪，开档肉丝无毛肥逼，翘起双腿振动棒插入，口交大屌骑乘整根插入猛操'
+2024-12-13 10:31:10.4|Debug|Parser|Unable to parse 2024年12月麻豆BT最新域名 938956.xyz 米拉和主人的幸福生活先一个人自慰再啪啪，开档肉丝无毛肥逼，翘起双腿振动棒插入，口交大屌骑乘整根插入猛操
+2024-12-13 10:31:10.4|Debug|DownloadDecisionMaker|Processing release 'Red.One.2024.1080p.WEB.H264-AccomplishedYak' from '52BT (Prowlarr)'
+2024-12-13 10:31:10.4|Debug|Parser|Parsing string 'Red.One.2024.1080p.WEB.H264-AccomplishedYak'
+2024-12-13 10:31:10.4|Debug|Parser|Movie Parsed. Red One - 2024 
+2024-12-13 10:31:10.4|Debug|Parser|Release Group parsed: AccomplishedYak
+2024-12-13 10:31:10.4|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:31:10.4|Debug|QualityParser|Trying to parse quality for 'Red.One.2024.1080p.WEB.H264-AccomplishedYak'
+2024-12-13 10:31:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2024-12-13 10:31:10.4|Debug|Parser|Edition parsed: 
+2024-12-13 10:31:10.4|Debug|ParsingService|No matching movie for titles 'Red One (2024)'
+2024-12-13 10:31:10.5|Debug|DownloadDecisionMaker|Release 'Red.One.2024.1080p.WEB.H264-AccomplishedYak' from '52BT (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2024-12-13 10:31:10.5|Debug|DownloadDecisionMaker|Processing release 'Dune.Prophecy.2024.S01E03.720p.10bit.WEB-DL.H265.MKV.AC3-5.1 Lektor PL-ENG-Napisy PL [StarLord]' from '52BT (Prowlarr)'
+2024-12-13 10:31:10.5|Debug|Parser|Parsing string 'Dune.Prophecy.2024.S01E03.720p.10bit.WEB-DL.H265.MKV.AC3-5.1 Lektor PL-ENG-Napisy PL [StarLord]'
+2024-12-13 10:31:10.5|Debug|Parser|Movie Parsed. Dune Prophecy - 2024 
+2024-12-13 10:31:10.5|Debug|Parser|Release Group parsed: StarLord
+2024-12-13 10:31:10.5|Debug|Parser|Languages parsed: Polish, English
+2024-12-13 10:31:10.5|Debug|QualityParser|Trying to parse quality for 'Dune.Prophecy.2024.S01E03.720p.10bit.WEB-DL.H265.MKV.AC3-5.1 Lektor PL-ENG-Napisy PL [StarLord]'
+2024-12-13 10:31:10.5|Debug|Parser|Quality parsed: WEBDL-720p v1
+2024-12-13 10:31:10.5|Debug|Parser|Edition parsed: 
+2024-12-13 10:31:10.5|Debug|ParsingService|No matching movie for titles 'Dune Prophecy (2024)'
+2024-12-13 10:31:10.5|Debug|DownloadDecisionMaker|Release 'Dune.Prophecy.2024.S01E03.720p.10bit.WEB-DL.H265.MKV.AC3-5.1 Lektor PL-ENG-Napisy PL [StarLord]' from '52BT (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie
+2024-12-13 10:31:10.5|Info|RssSyncService|RSS Sync Completed. Reports found: 54, Reports grabbed: 0
+2024-12-13 10:31:10.5|Debug|PendingReleaseService|Removing failed releases from pending
+2024-12-13 10:31:10.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:31:10.6|Debug|Api|[GET] /api/v3/command: 200.OK (22 ms)
+2024-12-13 10:31:15.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:31:15.6|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:31:45.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2024-12-13 10:31:45.7|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:31:45.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:31:45.7|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 10:31:45.7|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2024-12-13 10:31:45.7|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 10:31:45.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:31:45.7|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:31:45.7|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:31:45.7|Debug|Parser|Edition parsed: 
+2024-12-13 10:31:45.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:31:45.7|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:31:45.7|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:31:45.7|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 10:31:45.7|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 10:31:45.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:31:45.7|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:31:45.7|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 10:31:45.7|Debug|Parser|Edition parsed: 
+2024-12-13 10:31:45.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:31:45.7|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:31:45.7|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:31:45.7|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 10:31:45.7|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 10:31:45.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:31:45.7|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:31:45.7|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:31:45.7|Debug|Parser|Edition parsed: 
+2024-12-13 10:31:45.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:31:45.7|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:31:45.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:31:45.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:31:45.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:31:45.7|Debug|Api|[GET] /api/v3/queue/details: 200.OK (6 ms)
+2024-12-13 10:31:45.7|Debug|Api|[GET] /api/v3/queue?page=1&pageSize=20&sortDirection=ascending&sortKey=timeleft&includeUnknownMovieItems=true: 200.OK (7 ms)
+2024-12-13 10:31:45.7|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 10:31:45.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:31:45.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:31:45.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:31:45.7|Debug|Api|[GET] /api/v3/queue/details: 200.OK (6 ms)
+2024-12-13 10:31:45.7|Debug|Api|[GET] /api/v3/queue?page=1&pageSize=20&sortDirection=ascending&sortKey=timeleft&includeUnknownMovieItems=true: 200.OK (10 ms)
+2024-12-13 10:31:45.7|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)
+2024-12-13 10:33:15.7|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:33:15.7|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 10:33:15.7|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 10:33:15.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:33:15.7|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:33:15.7|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:33:15.7|Debug|Parser|Edition parsed: 
+2024-12-13 10:33:15.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:33:15.7|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:33:15.7|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:33:15.7|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 10:33:15.7|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 10:33:15.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:33:15.7|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:33:15.7|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 10:33:15.7|Debug|Parser|Edition parsed: 
+2024-12-13 10:33:15.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:33:15.7|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:33:15.7|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:33:15.7|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 10:33:15.7|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 10:33:15.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:33:15.7|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:33:15.7|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:33:15.7|Debug|Parser|Edition parsed: 
+2024-12-13 10:33:15.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:33:15.7|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:33:15.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:33:15.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:33:15.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:33:15.8|Debug|Api|[GET] /api/v3/queue?page=1&pageSize=20&sortDirection=ascending&sortKey=timeleft&includeUnknownMovieItems=true: 200.OK (9 ms)
+2024-12-13 10:33:15.8|Debug|Api|[GET] /api/v3/queue/details: 200.OK (9 ms)
+2024-12-13 10:33:15.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:33:15.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:33:15.8|Debug|Api|[GET] /api/v3/command: 200.OK (11 ms)
+2024-12-13 10:33:15.8|Debug|Api|[GET] /api/v3/queue?page=1&pageSize=20&sortDirection=ascending&sortKey=timeleft&includeUnknownMovieItems=true: 200.OK (3 ms)
+2024-12-13 10:33:15.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:33:15.8|Debug|Api|[GET] /api/v3/queue/details: 200.OK (5 ms)
+2024-12-13 10:33:15.8|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
