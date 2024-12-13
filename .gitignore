@@ -1,5 +1,4 @@
 # Ignore environment files containing secrets
-.env
 
 # Ignore cache directories
 cache/*
@@ -8,6 +7,14 @@ cache/*
 # Ignore local machine-specific config directories
 config/jellyfin/*
 !config/jellyfin/.gitkeep
+config/prowlarr/*
+!config/prowlarr/.gitkeep
+config/qbittorrent/*
+!config/qbittorrent/.gitkeep
+config/radarr/*
+!config/radarr/.gitkeep
+config/sonarr/*
+!config/sonarr/.gitkeep
 
 # Ignore Caddy directories where certificates and state are stored
 caddy_data/*

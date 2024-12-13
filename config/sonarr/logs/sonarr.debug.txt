@@ -2744,3 +2744,212 @@
 2024-12-13 10:34:22.0|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
 2024-12-13 10:34:22.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
 2024-12-13 10:34:22.0|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:35:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:35:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:35:52.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (15 ms)
+2024-12-13 10:35:52.0|Debug|Api|[GET] /api/v3/command: 200.OK (17 ms)
+2024-12-13 10:35:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:35:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:35:52.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (4 ms)
+2024-12-13 10:35:52.0|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 10:35:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:35:52.0|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 10:35:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:35:52.0|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 10:36:22.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:36:22.0|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2024-12-13 10:36:22.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:36:22.0|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:36:52.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2024-12-13 10:36:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:36:52.0|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 10:36:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:36:52.0|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:37:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:37:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:37:22.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (8 ms)
+2024-12-13 10:37:22.1|Debug|Api|[GET] /api/v3/command: 200.OK (11 ms)
+2024-12-13 10:37:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:37:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:37:22.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2024-12-13 10:37:22.1|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2024-12-13 10:37:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:37:22.1|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:37:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:37:22.1|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:38:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:38:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:38:52.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (11 ms)
+2024-12-13 10:38:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (11 ms)
+2024-12-13 10:38:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:38:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:38:52.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2024-12-13 10:38:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2024-12-13 10:38:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:38:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:38:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:38:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:39:22.0|Info|RssSyncService|Starting RSS Sync
+2024-12-13 10:39:22.1|Debug|FetchAndParseRssService|Available indexers 3
+2024-12-13 10:39:22.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 10:39:22.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 10:39:22.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/3/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 10:39:22.7|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/2/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100: 500.InternalServerError (4943 bytes)
+{
+  "message": "SQL logic error\nno such table: Indexers",
+  "description": "code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error\nno such table: Indexers\n   at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String\u0026 strRemain)\n   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()\n   at System.Data.SQLite.SQLiteDataReader.NextResult()\n   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)\n   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)\n   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1142\n   at Dapper.SqlMapper.ExecuteReaderImpl(IDbConnection cnn, CommandDefinition\u0026 command, CommandBehavior commandBehavior, IDbCommand\u0026 cmd) in /_/Dapper/SqlMapper.cs:line 2993\n   at NzbDrone.Core.ThingiProvider.ProviderRepository\u00601.Query(SqlBuilder builder) in ./Prowlarr.Core/ThingiProvider/ProviderRepository.cs:line 47\n   at NzbDrone.Core.Datastore.BasicRepository\u00601.Find(Int32 id) in ./Prowlarr.Core/Datastore/BasicRepository.cs:line 93\n   at NzbDrone.Core.Datastore.BasicRepository\u00601.Get(Int32 id) in ./Prowlarr.Core/Datastore/BasicRepository.cs:line 104\n   at NzbDrone.Core.Indexers.IndexerFactory.Get(Int32 id) in ./Prowlarr.Core/Indexers/IndexerFactory.cs:line 83\n   at NzbDrone.Api.V1.Indexers.NewznabController.GetNewznabResponse(Int32 id, NewznabRequest request) in ./Prowlarr.Api.V1/Indexers/NewznabController.cs:line 117\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.\u003CInvokeActionMethodAsync\u003Eg__Awaited|12_0(ControllerActionInvoker invoker, ValueTask\u00601 actionResultValueTask)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.\u003CInvokeNextActionFilterAsync\u003Eg__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state, Boolean\u0026 isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()\n--- End of stack trace from previous location ---\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeFilterPipelineAsync\u003Eg__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\n   at Microsoft.AspNetCore.Routing.EndpointMiddleware.\u003CInvoke\u003Eg__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)\n   at Prowlarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/BufferingMiddleware.cs:line 28\n   at Prowlarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/IfModifiedMiddleware.cs:line 41\n   at Prowlarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33\n   at Prowlarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/StartingUpMiddleware.cs:line 38\n   at Prowlarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/UrlBaseMiddleware.cs:line 29\n   at Prowlarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/VersionMiddleware.cs:line 29\n   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)\n   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)\n   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\n   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.\u003CInvoke\u003Eg__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)"
+}
+2024-12-13 10:39:22.7|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100: 500.InternalServerError (4943 bytes)
+{
+  "message": "SQL logic error\nno such table: Indexers",
+  "description": "code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error\nno such table: Indexers\n   at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String\u0026 strRemain)\n   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()\n   at System.Data.SQLite.SQLiteDataReader.NextResult()\n   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)\n   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)\n   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1142\n   at Dapper.SqlMapper.ExecuteReaderImpl(IDbConnection cnn, CommandDefinition\u0026 command, CommandBehavior commandBehavior, IDbCommand\u0026 cmd) in /_/Dapper/SqlMapper.cs:line 2993\n   at NzbDrone.Core.ThingiProvider.ProviderRepository\u00601.Query(SqlBuilder builder) in ./Prowlarr.Core/ThingiProvider/ProviderRepository.cs:line 47\n   at NzbDrone.Core.Datastore.BasicRepository\u00601.Find(Int32 id) in ./Prowlarr.Core/Datastore/BasicRepository.cs:line 93\n   at NzbDrone.Core.Datastore.BasicRepository\u00601.Get(Int32 id) in ./Prowlarr.Core/Datastore/BasicRepository.cs:line 104\n   at NzbDrone.Core.Indexers.IndexerFactory.Get(Int32 id) in ./Prowlarr.Core/Indexers/IndexerFactory.cs:line 83\n   at NzbDrone.Api.V1.Indexers.NewznabController.GetNewznabResponse(Int32 id, NewznabRequest request) in ./Prowlarr.Api.V1/Indexers/NewznabController.cs:line 117\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.\u003CInvokeActionMethodAsync\u003Eg__Awaited|12_0(ControllerActionInvoker invoker, ValueTask\u00601 actionResultValueTask)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.\u003CInvokeNextActionFilterAsync\u003Eg__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state, Boolean\u0026 isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()\n--- End of stack trace from previous location ---\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeFilterPipelineAsync\u003Eg__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\n   at Microsoft.AspNetCore.Routing.EndpointMiddleware.\u003CInvoke\u003Eg__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)\n   at Prowlarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/BufferingMiddleware.cs:line 28\n   at Prowlarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/IfModifiedMiddleware.cs:line 41\n   at Prowlarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33\n   at Prowlarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/StartingUpMiddleware.cs:line 38\n   at Prowlarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/UrlBaseMiddleware.cs:line 29\n   at Prowlarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/VersionMiddleware.cs:line 29\n   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)\n   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)\n   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\n   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.\u003CInvoke\u003Eg__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)"
+}
+2024-12-13 10:39:22.8|Warn|Torznab|Unable to connect to 52BT (Prowlarr) at [http://prowlarr:9696/2/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100]. Indexer's server is unavailable. Try again later. HTTP request failed: [500:InternalServerError] [GET] at [http://prowlarr:9696/2/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 10:39:22.8|Warn|Torznab|Unable to connect to 1337x (Prowlarr) at [http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100]. Indexer's server is unavailable. Try again later. HTTP request failed: [500:InternalServerError] [GET] at [http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 10:39:23.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/3/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100: 500.InternalServerError (5501 bytes)
+{
+  "message": "SQL logic error\nno such table: IndexerStatus",
+  "description": "code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error\nno such table: IndexerStatus\n   at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String\u0026 strRemain)\n   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()\n   at System.Data.SQLite.SQLiteDataReader.NextResult()\n   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)\n   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)\n   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1142\n   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)\u002BMoveNext() in /_/Dapper/SqlMapper.cs:line 1161\n   at System.Collections.Generic.List\u00601..ctor(IEnumerable\u00601 collection)\n   at System.Linq.Enumerable.ToList[TSource](IEnumerable\u00601 source)\n   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable\u00601 commandTimeout, Nullable\u00601 commandType) in /_/Dapper/SqlMapper.cs:line 801\n   at NzbDrone.Core.Datastore.SqlMapperExtensions.Query[T](IDatabase db, String sql, Object param) in ./Prowlarr.Core/Datastore/Extensions/SqlMapperExtensions.cs:line 17\n   at NzbDrone.Core.Datastore.BasicRepository\u00601.Query(SqlBuilder builder) in ./Prowlarr.Core/Datastore/BasicRepository.cs:line 72\n   at NzbDrone.Core.ThingiProvider.Status.ProviderStatusServiceBase\u00602.GetBlockedProviders() in ./Prowlarr.Core/ThingiProvider/Status/ProviderStatusServiceBase.cs:line 45\n   at NzbDrone.Api.V1.Indexers.NewznabController.GetBlockedIndexerStatus(IIndexer indexer) in ./Prowlarr.Api.V1/Indexers/NewznabController.cs:line 344\n   at NzbDrone.Api.V1.Indexers.NewznabController.GetNewznabResponse(Int32 id, NewznabRequest request) in ./Prowlarr.Api.V1/Indexers/NewznabController.cs:line 180\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.\u003CInvokeActionMethodAsync\u003Eg__Awaited|12_0(ControllerActionInvoker invoker, ValueTask\u00601 actionResultValueTask)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.\u003CInvokeNextActionFilterAsync\u003Eg__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state, Boolean\u0026 isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.\u003CInvokeInnerFilterAsync\u003Eg__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeFilterPipelineAsync\u003Eg__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\n   at Microsoft.AspNetCore.Routing.EndpointMiddleware.\u003CInvoke\u003Eg__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)\n   at Prowlarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/BufferingMiddleware.cs:line 28\n   at Prowlarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/IfModifiedMiddleware.cs:line 41\n   at Prowlarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33\n   at Prowlarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/StartingUpMiddleware.cs:line 38\n   at Prowlarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/UrlBaseMiddleware.cs:line 29\n   at Prowlarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Prowlarr.Http/Middleware/VersionMiddleware.cs:line 29\n   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)\n   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)\n   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\n   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.\u003CInvoke\u003Eg__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)"
+}
+2024-12-13 10:39:23.1|Warn|Torznab|Unable to connect to Badass Torrents (Prowlarr) at [http://prowlarr:9696/3/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100]. Indexer's server is unavailable. Try again later. HTTP request failed: [500:InternalServerError] [GET] at [http://prowlarr:9696/3/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 10:39:23.1|Debug|FetchAndParseRssService|Found 0 reports
+2024-12-13 10:39:23.1|Info|DownloadDecisionMaker|No results found
+2024-12-13 10:39:23.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2024-12-13 10:39:23.1|Debug|PendingReleaseService|Removing failed releases from pending
+2024-12-13 10:39:23.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:39:23.2|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 10:39:23.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:39:23.2|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2024-12-13 10:39:27.9|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 10:40:22 due to recent failures.
+2024-12-13 10:39:27.9|Debug|IndexerFactory|Temporarily ignoring indexer 52BT (Prowlarr) till 12/13/2024 10:40:22 due to recent failures.
+2024-12-13 10:39:27.9|Debug|IndexerFactory|Temporarily ignoring indexer Badass Torrents (Prowlarr) till 12/13/2024 10:40:23 due to recent failures.
+2024-12-13 10:39:27.9|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 10:40:22 due to recent failures.
+2024-12-13 10:39:27.9|Debug|IndexerFactory|Temporarily ignoring indexer 52BT (Prowlarr) till 12/13/2024 10:40:22 due to recent failures.
+2024-12-13 10:39:27.9|Debug|IndexerFactory|Temporarily ignoring indexer Badass Torrents (Prowlarr) till 12/13/2024 10:40:23 due to recent failures.
+2024-12-13 10:39:27.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:39:27.9|Debug|Api|[GET] /api/v3/health: 200.OK (7 ms)
+2024-12-13 10:39:27.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:39:27.9|Debug|Api|[GET] /api/v3/health: 200.OK (3 ms)
+2024-12-13 10:40:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:40:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:40:22.1|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 10:40:22.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (11 ms)
+2024-12-13 10:40:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:40:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:40:22.1|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:40:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:40:22.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2024-12-13 10:40:22.1|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 10:40:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:40:22.1|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:41:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:41:22.1|Debug|Api|[GET] /api/v3/command: 200.OK (10 ms)
+2024-12-13 10:41:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:41:22.1|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:41:52.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2024-12-13 10:41:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:41:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:41:52.2|Debug|Api|[GET] /api/v3/command: 200.OK (30 ms)
+2024-12-13 10:41:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:41:52.2|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:41:52.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (11 ms)
+2024-12-13 10:41:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:41:52.2|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2024-12-13 10:41:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:41:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:41:52.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2024-12-13 10:41:52.2|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 10:41:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:41:52.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:41:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:41:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:43:22.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:43:22.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:43:22.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (14 ms)
+2024-12-13 10:43:22.2|Debug|Api|[GET] /api/v3/command: 200.OK (16 ms)
+2024-12-13 10:43:22.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:43:22.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:43:22.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (4 ms)
+2024-12-13 10:43:22.2|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 10:43:22.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:43:22.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:43:22.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:43:22.2|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:44:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:44:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:44:52.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (9 ms)
+2024-12-13 10:44:52.2|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)
+2024-12-13 10:44:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:44:52.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:44:52.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (12 ms)
+2024-12-13 10:44:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (14 ms)
+2024-12-13 10:44:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:44:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:44:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:44:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:46:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:46:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:46:22.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (9 ms)
+2024-12-13 10:46:22.3|Debug|Api|[GET] /api/v3/command: 200.OK (12 ms)
+2024-12-13 10:46:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:46:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:46:22.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (4 ms)
+2024-12-13 10:46:22.3|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 10:46:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:46:22.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:46:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:46:22.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:46:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:46:22.3|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:46:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:46:22.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:46:52.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2024-12-13 10:46:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:46:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2024-12-13 10:46:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:46:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:47:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:47:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:47:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (11 ms)
+2024-12-13 10:47:52.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (15 ms)
+2024-12-13 10:47:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:47:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:47:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 10:47:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:47:52.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (5 ms)
+2024-12-13 10:47:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (12 ms)
+2024-12-13 10:47:52.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:47:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:49:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:49:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:49:22.3|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2024-12-13 10:49:22.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (8 ms)
+2024-12-13 10:49:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:49:22.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:49:22.4|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 10:49:22.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (8 ms)
+2024-12-13 10:49:22.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:49:22.4|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:49:22.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:49:22.4|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:50:52.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:50:52.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:50:52.4|Debug|Api|[GET] /api/v3/command: 200.OK (14 ms)
+2024-12-13 10:50:52.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (15 ms)
+2024-12-13 10:50:52.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:50:52.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:50:52.4|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2024-12-13 10:50:52.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:50:52.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (7 ms)
+2024-12-13 10:50:52.4|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 10:50:52.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:50:52.4|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2024-12-13 10:51:22.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:51:22.4|Debug|Api|[GET] /api/v3/command: 200.OK (14 ms)
+2024-12-13 10:51:22.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:51:22.4|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:51:52.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2024-12-13 10:51:52.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:51:52.4|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 10:51:52.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:51:52.4|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
