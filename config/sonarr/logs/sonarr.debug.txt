@@ -2953,3 +2953,1106 @@
 2024-12-13 10:51:52.4|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
 2024-12-13 10:51:52.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
 2024-12-13 10:51:52.4|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:52:22.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:52:22.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:52:22.5|Debug|Api|[GET] /api/v3/command: 200.OK (12 ms)
+2024-12-13 10:52:22.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (12 ms)
+2024-12-13 10:52:22.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:52:22.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:52:22.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (10 ms)
+2024-12-13 10:52:22.5|Debug|Api|[GET] /api/v3/command: 200.OK (12 ms)
+2024-12-13 10:52:22.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:52:22.5|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)
+2024-12-13 10:52:22.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:52:22.5|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:53:52.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:53:52.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:53:52.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (39 ms)
+2024-12-13 10:53:52.5|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2024-12-13 10:53:52.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:53:52.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:53:52.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (9 ms)
+2024-12-13 10:53:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (12 ms)
+2024-12-13 10:53:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:53:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 10:53:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:53:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 10:54:52.4|Info|RssSyncService|Starting RSS Sync
+2024-12-13 10:54:52.5|Debug|FetchAndParseRssService|Available indexers 3
+2024-12-13 10:54:52.5|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 10:54:52.5|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 10:54:52.5|Debug|Torznab|Downloading Feed http://prowlarr:9696/3/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 10:54:52.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 10:54:52.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/2/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 10:54:52.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/3/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 10:54:52.6|Warn|Torznab|1337x (Prowlarr) HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 10:54:52.6|Warn|Torznab|52BT (Prowlarr) HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/2/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 10:54:52.6|Warn|Torznab|Badass Torrents (Prowlarr) HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/3/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 10:54:52.6|Debug|FetchAndParseRssService|Found 0 reports
+2024-12-13 10:54:52.6|Info|DownloadDecisionMaker|No results found
+2024-12-13 10:54:52.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2024-12-13 10:54:52.6|Debug|PendingReleaseService|Removing failed releases from pending
+2024-12-13 10:54:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:54:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 10:54:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:54:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:54:57.6|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 10:59:52 due to recent failures.
+2024-12-13 10:54:57.6|Debug|IndexerFactory|Temporarily ignoring indexer 52BT (Prowlarr) till 12/13/2024 10:59:52 due to recent failures.
+2024-12-13 10:54:57.6|Debug|IndexerFactory|Temporarily ignoring indexer Badass Torrents (Prowlarr) till 12/13/2024 10:59:52 due to recent failures.
+2024-12-13 10:54:57.6|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 10:59:52 due to recent failures.
+2024-12-13 10:54:57.6|Debug|IndexerFactory|Temporarily ignoring indexer 52BT (Prowlarr) till 12/13/2024 10:59:52 due to recent failures.
+2024-12-13 10:54:57.6|Debug|IndexerFactory|Temporarily ignoring indexer Badass Torrents (Prowlarr) till 12/13/2024 10:59:52 due to recent failures.
+2024-12-13 10:54:57.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:54:57.6|Debug|Api|[GET] /api/v3/health: 200.OK (2 ms)
+2024-12-13 10:54:57.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:54:57.6|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2024-12-13 10:55:22.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:22.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:22.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (18 ms)
+2024-12-13 10:55:22.6|Debug|Api|[GET] /api/v3/command: 200.OK (18 ms)
+2024-12-13 10:55:22.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:22.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:22.6|Debug|Api|[GET] /api/v3/command: 200.OK (21 ms)
+2024-12-13 10:55:22.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (24 ms)
+2024-12-13 10:55:22.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:22.6|Debug|Api|[GET] /api/v3/command: 200.OK (26 ms)
+2024-12-13 10:55:22.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:22.6|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 10:55:54.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:54.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:54.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:54.8|Debug|Api|[GET] /api/v3/health: 200.OK (18 ms)
+2024-12-13 10:55:54.9|Debug|Api|[GET] /api/v3/system/status: 200.OK (53 ms)
+2024-12-13 10:55:54.9|Debug|Api|[GET] /api/v3/diskspace: 200.OK (73 ms)
+2024-12-13 10:56:02.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:02.5|Debug|Api|[GET] /api/v3/wanted/missing?page=1&pageSize=20&sortDirection=descending&sortKey=episodes.airDateUtc&monitored=true: 200.OK (117 ms)
+2024-12-13 10:56:02.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:02.6|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1351&episodeIds=1350&episodeIds=492&episodeIds=491&episodeIds=490&episodeIds=489&episodeIds=488&episodeIds=487&episodeIds=1349&episodeIds=486&episodeIds=485&episodeIds=484&episodeIds=483&episodeIds=482&episodeIds=481&episodeIds=480&episodeIds=1348&episodeIds=479&episodeIds=477: 200.OK (6 ms)
+2024-12-13 10:56:04.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:04.4|Debug|Api|[GET] /api/v3/health: 200.OK (5 ms)
+2024-12-13 10:56:04.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:04.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:04.5|Debug|Api|[GET] /api/v3/system/status: 200.OK (21 ms)
+2024-12-13 10:56:04.5|Debug|Api|[GET] /api/v3/diskspace: 200.OK (26 ms)
+2024-12-13 10:56:07.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:07.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:07.4|Debug|Api|[GET] /api/v3/config/indexer: 200.OK (8 ms)
+2024-12-13 10:56:07.4|Debug|Api|[GET] /api/v3/indexer: 200.OK (44 ms)
+2024-12-13 10:56:09.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:09.4|Debug|Api|[POST] /api/v3/indexer/action/newznabCategories: 200.OK (193 ms)
+2024-12-13 10:56:12.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:12.6|Debug|Api|[POST] /api/v3/indexer/action/newznabCategories: 200.OK (17 ms)
+2024-12-13 10:56:18.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:18.2|Debug|Api|[POST] /api/v3/indexer/action/newznabCategories: 200.OK (17 ms)
+2024-12-13 10:56:19.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:19.3|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 10:56:19.3|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 10:56:19.3|Warn|Torznab|Unable to connect to indexer
+
+[v4.0.11.2680] NzbDrone.Common.Http.HttpException: HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 119
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 363
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 347
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 383
+
+
+2024-12-13 10:56:19.4|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, invalid credentials. HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100].
+2024-12-13 10:56:19.4|Debug|Api|[POST] /api/v3/indexer/test: 400.BadRequest (152 ms)
+2024-12-13 10:56:22.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:22.6|Debug|Api|[GET] /api/v3/command: 200.OK (10 ms)
+2024-12-13 10:56:22.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:22.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:56:24.4|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 11:11:19 due to recent failures.
+2024-12-13 10:56:24.4|Debug|IndexerFactory|Temporarily ignoring indexer 52BT (Prowlarr) till 12/13/2024 10:59:52 due to recent failures.
+2024-12-13 10:56:24.4|Debug|IndexerFactory|Temporarily ignoring indexer Badass Torrents (Prowlarr) till 12/13/2024 10:59:52 due to recent failures.
+2024-12-13 10:56:24.4|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 11:11:19 due to recent failures.
+2024-12-13 10:56:24.4|Debug|IndexerFactory|Temporarily ignoring indexer 52BT (Prowlarr) till 12/13/2024 10:59:52 due to recent failures.
+2024-12-13 10:56:24.4|Debug|IndexerFactory|Temporarily ignoring indexer Badass Torrents (Prowlarr) till 12/13/2024 10:59:52 due to recent failures.
+2024-12-13 10:56:24.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:24.4|Debug|Api|[GET] /api/v3/health: 200.OK (3 ms)
+2024-12-13 10:56:24.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:24.5|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2024-12-13 10:56:52.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2024-12-13 10:56:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 10:56:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:56:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:56:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:56:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:56:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:58:22.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:58:22.6|Debug|Api|[GET] /api/v3/command: 200.OK (20 ms)
+2024-12-13 10:58:22.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:58:22.7|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:58:22.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:58:22.7|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:58:22.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:58:22.7|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 10:59:52.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:59:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (14 ms)
+2024-12-13 10:59:52.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:59:52.7|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:59:52.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:59:52.7|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 10:59:52.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:59:52.7|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 11:00:08.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:00:08.7|Debug|Api|[GET] /api/v3/indexer/schema: 200.OK (37 ms)
+2024-12-13 11:00:15.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:00:15.1|Debug|Api|[GET] /api/v3/config/host: 200.OK (55 ms)
+2024-12-13 11:00:52.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:00:52.7|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2024-12-13 11:00:52.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:00:52.7|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 11:00:52.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:00:52.7|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:00:52.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:00:52.7|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 11:01:22.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:22.7|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 11:01:22.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:22.8|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:01:31.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:31.0|Debug|Api|[GET] /api/v3/indexer/schema: 200.OK (16 ms)
+2024-12-13 11:01:31.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:31.1|Debug|NewznabCapabilitiesProvider|Failed to get newznab api capabilities from http://localhost:9696/0/
+
+[v4.0.11.2680] System.Net.Http.HttpRequestException: Connection refused (localhost:9696)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 338
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 314
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+
+2024-12-13 11:01:31.2|Debug|NewznabCapabilitiesProvider|Failed to get newznab api capabilities from http://localhost:9696/0/
+
+[v4.0.11.2680] System.Net.Http.HttpRequestException: Connection refused (localhost:9696)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 338
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 314
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+
+2024-12-13 11:01:31.2|Warn|Newznab|Unable to connect to indexer
+
+[v4.0.11.2680] System.Net.Http.HttpRequestException: Connection refused (localhost:9696)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 338
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 314
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Sonarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 37
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Sonarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 197
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 376
+
+2024-12-13 11:01:31.2|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, please check your DNS settings and ensure that IPv6 is working or disabled. Connection refused (localhost:9696).
+2024-12-13 11:01:31.2|Debug|Api|[POST] /api/v3/indexer/test: 400.BadRequest (102 ms)
+2024-12-13 11:01:36.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:37.0|Debug|Newznab|Downloading Feed http://prowlarr:9696/0/api?t=tvsearch&cat=5000,5010,5020,5030,5040,5045,5050,5090,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:01:37.0|Debug|Api|[POST] /api/v3/indexer/test: 200.OK (89 ms)
+2024-12-13 11:01:52.7|Debug|ImportListSyncService|No import lists with automatic add enabled
+2024-12-13 11:01:52.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:52.7|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 11:01:52.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:52.7|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:02:04.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:04.4|Debug|Newznab|Downloading Feed http://prowlarr:9696/0/api?t=tvsearch&cat=5000,5010,5020,5030,5040,5045,5050,5090,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:02:04.4|Debug|Api|[POST] /api/v3/indexer/test: 200.OK (33 ms)
+2024-12-13 11:02:04.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:04.5|Debug|Api|[GET] /api/v3/indexer: 200.OK (12 ms)
+2024-12-13 11:02:04.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:04.5|Debug|Api|[GET] /api/v3/indexer/1: 200.OK (2 ms)
+2024-12-13 11:02:04.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:04.6|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- Name: Should be unique
+2024-12-13 11:02:04.6|Debug|Api|[POST] /api/v3/indexer: 400.BadRequest (18 ms)
+2024-12-13 11:02:04.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:04.6|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- Name: Should be unique
+2024-12-13 11:02:04.6|Debug|Api|[POST] /api/v3/indexer?forceSave=true: 400.BadRequest (5 ms)
+2024-12-13 11:02:04.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:04.6|Debug|Api|[GET] /api/v3/indexer/2: 200.OK (2 ms)
+2024-12-13 11:02:04.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:04.7|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:02:05.2|Debug|Api|[PUT] /api/v3/indexer/2: 202.Accepted (525 ms)
+2024-12-13 11:02:05.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:05.2|Debug|Api|[GET] /api/v3/indexer/3: 200.OK (2 ms)
+2024-12-13 11:02:05.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:05.2|Debug|Api|[DELETE] /api/v3/indexer/3: 200.OK (20 ms)
+2024-12-13 11:02:10.2|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 11:11:19 due to recent failures.
+2024-12-13 11:02:10.2|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 11:11:19 due to recent failures.
+2024-12-13 11:02:10.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:10.2|Debug|Api|[GET] /api/v3/health: 200.OK (3 ms)
+2024-12-13 11:02:10.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:10.2|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2024-12-13 11:02:22.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:22.8|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 11:02:22.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:22.8|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:02:22.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:22.8|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 11:02:22.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:22.8|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 11:03:02.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:02.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:02.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:02.4|Debug|Api|[GET] /api/v3/health: 200.OK (12 ms)
+2024-12-13 11:03:02.4|Debug|Api|[GET] /api/v3/system/status: 200.OK (24 ms)
+2024-12-13 11:03:02.4|Debug|Api|[GET] /api/v3/diskspace: 200.OK (32 ms)
+2024-12-13 11:03:09.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:09.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:09.8|Debug|Api|[GET] /api/v3/config/indexer: 200.OK (18 ms)
+2024-12-13 11:03:09.8|Debug|Api|[GET] /api/v3/indexer: 200.OK (28 ms)
+2024-12-13 11:03:12.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:12.3|Debug|Api|[POST] /api/v3/indexer/action/newznabCategories: 200.OK (16 ms)
+2024-12-13 11:03:16.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:16.3|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:03:16.4|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 11:03:16.4|Warn|Torznab|Unable to connect to indexer
+
+[v4.0.11.2680] NzbDrone.Common.Http.HttpException: HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 119
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 363
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 347
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 383
+
+
+2024-12-13 11:03:16.4|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, invalid credentials. HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100].
+2024-12-13 11:03:16.4|Debug|Api|[POST] /api/v3/indexer/test?forceTest=true: 400.BadRequest (72 ms)
+2024-12-13 11:03:21.4|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 11:33:16 due to recent failures.
+2024-12-13 11:03:21.4|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 11:33:16 due to recent failures.
+2024-12-13 11:03:21.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:21.4|Debug|Api|[GET] /api/v3/health: 200.OK (5 ms)
+2024-12-13 11:03:21.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:21.5|Debug|Api|[GET] /api/v3/health: 200.OK (5 ms)
+2024-12-13 11:03:33.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:33.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:33.0|Debug|Api|[POST] /api/v3/indexer/action/newznabCategories: 200.OK (16 ms)
+2024-12-13 11:03:33.0|Debug|Api|[GET] /api/v3/downloadclient: 200.OK (32 ms)
+2024-12-13 11:03:35.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:35.6|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:03:35.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 11:03:35.6|Warn|Torznab|Unable to connect to indexer
+
+[v4.0.11.2680] NzbDrone.Common.Http.HttpException: HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 119
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 363
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 347
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 383
+
+
+2024-12-13 11:03:35.6|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, invalid credentials. HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100].
+2024-12-13 11:03:35.6|Debug|Api|[POST] /api/v3/indexer/test?forceTest=true: 400.BadRequest (41 ms)
+2024-12-13 11:03:40.6|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 12:03:35 due to recent failures.
+2024-12-13 11:03:40.6|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 12:03:35 due to recent failures.
+2024-12-13 11:03:40.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:40.6|Debug|Api|[GET] /api/v3/health: 200.OK (3 ms)
+2024-12-13 11:03:40.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:40.6|Debug|Api|[GET] /api/v3/health: 200.OK (2 ms)
+2024-12-13 11:03:45.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:45.8|Debug|Api|[DELETE] /api/v3/indexer/1: 200.OK (7 ms)
+2024-12-13 11:03:50.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:50.9|Debug|Api|[GET] /api/v3/health: 200.OK (4 ms)
+2024-12-13 11:03:50.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:50.9|Debug|Api|[GET] /api/v3/health: 200.OK (2 ms)
+2024-12-13 11:03:52.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:52.8|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 11:03:52.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:52.8|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 11:03:52.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:52.8|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 11:03:52.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:52.8|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 11:04:16.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:16.3|Debug|Api|[GET] /api/v3/indexer: 200.OK (27 ms)
+2024-12-13 11:04:16.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:16.3|Debug|Api|[GET] /api/v3/indexer/1: 404.NotFound (37 ms)
+2024-12-13 11:04:16.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:16.4|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:04:24.6|Debug|Api|[POST] /api/v3/indexer: 201.Created (8216 ms)
+2024-12-13 11:04:24.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:24.6|Debug|Torznab|Downloading Feed http://prowlarr:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:04:29.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:29.6|Debug|Api|[GET] /api/v3/health: 200.OK (7 ms)
+2024-12-13 11:04:29.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:29.6|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2024-12-13 11:04:44.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:44.6|Debug|Api|[GET] /api/v3/calendar?start=2024-12-01T05%3A00%3A00.000Z&end=2024-12-22T04%3A59%3A59.999Z&unmonitored=false: 200.OK (45 ms)
+2024-12-13 11:04:44.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:44.7|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (7 ms)
+2024-12-13 11:05:22.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:22.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:22.8|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (8 ms)
+2024-12-13 11:05:22.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:22.8|Debug|Api|[GET] /api/v3/command: 200.OK (13 ms)
+2024-12-13 11:05:22.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:22.8|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (4 ms)
+2024-12-13 11:05:22.8|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2024-12-13 11:05:29.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+2024-12-13 11:05:29.9|Warn|Torznab|Unable to connect to indexer
+
+[v4.0.11.2680] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 363
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 347
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 383
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+
+2024-12-13 11:05:29.9|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100]. Check the log surrounding this error for details
+2024-12-13 11:05:29.9|Debug|Api|[POST] /api/v3/indexer: 400.BadRequest (65313 ms)
+2024-12-13 11:05:29.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:29.9|Debug|Torznab|Downloading Feed http://prowlarr:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:05:29.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+2024-12-13 11:05:29.9|Warn|Torznab|Unable to connect to indexer
+
+[v4.0.11.2680] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 363
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 347
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 383
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+
+2024-12-13 11:05:29.9|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100]. Check the log surrounding this error for details
+2024-12-13 11:05:29.9|Debug|Api|[POST] /api/v3/indexer?forceSave=true: 400.BadRequest (22 ms)
+2024-12-13 11:05:30.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:30.0|Debug|Api|[GET] /api/v3/indexer/2: 200.OK (2 ms)
+2024-12-13 11:05:30.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:30.0|Debug|Api|[PUT] /api/v3/indexer/2: 202.Accepted (6 ms)
+2024-12-13 11:06:22.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:22.9|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)
+2024-12-13 11:06:52.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2024-12-13 11:06:52.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:52.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:52.9|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (7 ms)
+2024-12-13 11:06:52.9|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 11:06:52.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:52.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:52.9|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:06:52.9|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (5 ms)
+2024-12-13 11:06:52.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:52.9|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2024-12-13 11:08:22.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:08:22.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:08:22.9|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2024-12-13 11:08:22.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:08:22.9|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 11:08:22.9|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (15 ms)
+2024-12-13 11:08:22.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:08:22.9|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (4 ms)
+2024-12-13 11:09:52.9|Info|RssSyncService|Starting RSS Sync
+2024-12-13 11:09:53.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:09:53.0|Debug|FetchAndParseRssService|Available indexers 2
+2024-12-13 11:09:53.0|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (12 ms)
+2024-12-13 11:09:53.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:09:53.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:09:53.0|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (4 ms)
+2024-12-13 11:09:53.0|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:09:53.0|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 11:09:53.0|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:09:53.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:09:53.0|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 11:09:53.4|Warn|Torznab|Indexer ACG.RIP (Prowlarr) rss sync didn't cover the period between 12/12/2024 16:00:00 and 12/13/2024 00:23:21 UTC. Search may be required.
+2024-12-13 11:09:58.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:09:58.5|Debug|Api|[GET] /api/v3/health: 200.OK (2 ms)
+2024-12-13 11:10:00.0|Debug|FetchAndParseRssService|Found 50 reports
+2024-12-13 11:10:00.0|Info|DownloadDecisionMaker|Processing 50 releases
+2024-12-13 11:10:00.0|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 在地下城尋求邂逅是否搞錯了什麼 第五季 / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 10 (ABEMA 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.0|Debug|Parser|Parsing string '[Up to 21°C] 在地下城尋求邂逅是否搞錯了什麼 第五季 / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 10 (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.0|Debug|Parser|Substituted with [Up to 21°C] Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 10  (ABEMA 1920x1080 AVC AAC MP4)
+2024-12-13 11:10:00.0|Debug|Parser|Episode Parsed. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 010 
+2024-12-13 11:10:00.0|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.0|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 在地下城尋求邂逅是否搞錯了什麼 第五季 / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 10 (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 10  (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V. TVDB ID for mapping: 289882
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 10  (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V. TVDB ID for mapping: 289882
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 在地下城尋求邂逅是否搞錯了什麼 第五季 / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 10 (ABEMA 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V matches an alias for series with TVDB ID: 289882
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [LoliHouse][ 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023)][35][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [LoliHouse] Rurouni Kenshin (2023) - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. Rurouni Kenshin (2023) - 035 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: LoliHouse
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series Rurouni Kenshin (2023)
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 女神降临（日配版） / Yeosin Gangnim (Japanese Audio) - 11 (CR 1920x1080 AVC AAC MKV)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 女神降临（日配版） / Yeosin Gangnim (Japanese Audio) - 11 (CR 1920x1080 AVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [Up to 21°C] Yeosin Gangnim (Japanese Audio) - 11  (CR 1920x1080 AVC AAC MKV)
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. Yeosin Gangnim (Japanese Audio) - 011 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 女神降临（日配版） / Yeosin Gangnim (Japanese Audio) - 11 (CR 1920x1080 AVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] Yeosin Gangnim (Japanese Audio) - 11  (CR 1920x1080 AVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Yeosin Gangnim. TVDB ID for mapping: 442363
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series Yeosin Gangnim (Japanese Audio)
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 女神降临（日配版） / Yeosin Gangnim (Japanese Audio) - 11 (CR 1920x1080 AVC AAC MKV)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '【极影字幕·毁片党】你们还真就结婚啦？第11集 GB_CN HEVC_opus 1080p' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '【极影字幕·毁片党】你们还真就结婚啦？第11集 GB_CN HEVC_opus 1080p'
+2024-12-13 11:10:00.1|Debug|Parser|Unable to parse 【极影字幕·毁片党】你们还真就结婚啦？第11集 GB_CN HEVC_opus 1080p
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '【极影字幕·毁片党】你们还真就结婚啦？第11集 GB_CN HEVC_opus 1080p'
+2024-12-13 11:10:00.1|Debug|Parser|Unable to parse 【极影字幕·毁片党】你们还真就结婚啦？第11集 GB_CN HEVC_opus 1080p
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series 【极影字幕·毁片党】你们还真就结婚啦？第11集 GB_CN HEVC_opus 1080p
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[LoliHouse] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[LoliHouse] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [LoliHouse][ 2.5次元的诱惑 / 2.5-jigen no Ririsa][24][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [LoliHouse] 2.5-jigen no Ririsa - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. 2 5-jigen no Ririsa - 024 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[LoliHouse] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: LoliHouse
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[LoliHouse] 2.5-jigen no Ririsa - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: 2 5-jigen no Ririsa. TVDB ID for mapping: 428168
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series 2 5-jigen no Ririsa
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[LoliHouse] 2.5-jigen no Ririsa - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: 2 5-jigen no Ririsa. TVDB ID for mapping: 428168
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[LoliHouse] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] 2 5-jigen no Ririsa matches an alias for series with TVDB ID: 428168
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 刀劍神域外傳 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 11 (ABEMA 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 刀劍神域外傳 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 11 (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [Up to 21°C] Sword Art Online Alternative: Gun Gale Online II - 11  (ABEMA 1920x1080 AVC AAC MP4)
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. Sword Art Online Alternative: Gun Gale Online II - 011 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 刀劍神域外傳 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 11 (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] Sword Art Online Alternative: Gun Gale Online II - 11  (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Sword Art Online Alternative: Gun Gale Online II. TVDB ID for mapping: 335815
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series Sword Art Online Alternative: Gun Gale Online II
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] Sword Art Online Alternative: Gun Gale Online II - 11  (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Sword Art Online Alternative: Gun Gale Online II. TVDB ID for mapping: 335815
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 刀劍神域外傳 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 11 (ABEMA 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Sword Art Online Alternative: Gun Gale Online II matches an alias for series with TVDB ID: 335815
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[DBD-Raws][偶像梦幻祭/Ensemble Stars!/あんさんぶるスターズ!][01-24TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[DBD-Raws][偶像梦幻祭/Ensemble Stars!/あんさんぶるスターズ!][01-24TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]'
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. [01 - 024 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[DBD-Raws][偶像梦幻祭/Ensemble Stars!/あんさんぶるスターズ!][01-24TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: Bluray-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: DBD-Raws
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series [01
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[DBD-Raws][偶像梦幻祭/Ensemble Stars!/あんさんぶるスターズ!][01-24TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[猎户压制部] 唯愿来世不相识 / Raise wa Tanin ga Ii [10] [1080p] [繁日内嵌] [2024年10月番]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[猎户压制部] 唯愿来世不相识 / Raise wa Tanin ga Ii [10] [1080p] [繁日内嵌] [2024年10月番]'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [猎户压制部] Raise wa Tanin ga Ii  - 10  [1080p] [繁日内嵌] [2024年10月番]
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. Raise wa Tanin ga Ii - 010 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[猎户压制部] 唯愿来世不相识 / Raise wa Tanin ga Ii [10] [1080p] [繁日内嵌] [2024年10月番]'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: 猎户压制部
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[猎户压制部] Raise wa Tanin ga Ii  - 10  [1080p] [繁日内嵌] [2024年10月番]'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Raise wa Tanin ga Ii. TVDB ID for mapping: 441190
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series Raise wa Tanin ga Ii
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[猎户压制部] Raise wa Tanin ga Ii  - 10  [1080p] [繁日内嵌] [2024年10月番]'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Raise wa Tanin ga Ii. TVDB ID for mapping: 441190
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[猎户压制部] 唯愿来世不相识 / Raise wa Tanin ga Ii [10] [1080p] [繁日内嵌] [2024年10月番]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Raise wa Tanin ga Ii matches an alias for series with TVDB ID: 441190
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[猎户压制部] 唯愿来世不相识 / Raise wa Tanin ga Ii [10] [1080p] [简日内嵌] [2024年10月番]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[猎户压制部] 唯愿来世不相识 / Raise wa Tanin ga Ii [10] [1080p] [简日内嵌] [2024年10月番]'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [猎户压制部] Raise wa Tanin ga Ii  - 10  [1080p] [简日内嵌] [2024年10月番]
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. Raise wa Tanin ga Ii - 010 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[猎户压制部] 唯愿来世不相识 / Raise wa Tanin ga Ii [10] [1080p] [简日内嵌] [2024年10月番]'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: 猎户压制部
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[猎户压制部] Raise wa Tanin ga Ii  - 10  [1080p] [简日内嵌] [2024年10月番]'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Raise wa Tanin ga Ii. TVDB ID for mapping: 441190
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series Raise wa Tanin ga Ii
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[猎户压制部] Raise wa Tanin ga Ii  - 10  [1080p] [简日内嵌] [2024年10月番]'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Raise wa Tanin ga Ii. TVDB ID for mapping: 441190
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[猎户压制部] 唯愿来世不相识 / Raise wa Tanin ga Ii [10] [1080p] [简日内嵌] [2024年10月番]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Raise wa Tanin ga Ii matches an alias for series with TVDB ID: 441190
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 宝可梦 地平线 / Pokemon (2023) - 77 (ABEMA 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 宝可梦 地平线 / Pokemon (2023) - 77 (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [Up to 21°C] Pokemon (2023) - 77  (ABEMA 1920x1080 AVC AAC MP4)
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. Pokemon (2023) - 077 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 宝可梦 地平线 / Pokemon (2023) - 77 (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series Pokemon (2023)
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 宝可梦 地平线 / Pokemon (2023) - 77 (ABEMA 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[LoliHouse] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[LoliHouse] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [LoliHouse][ 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei][11][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [LoliHouse] Sayounara Ryuusei, Konnichiwa Jinsei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. Sayounara Ryuusei, Konnichiwa Jinsei - 011 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[LoliHouse] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: LoliHouse
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[LoliHouse] Sayounara Ryuusei, Konnichiwa Jinsei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Sayounara Ryuusei, Konnichiwa Jinsei. TVDB ID for mapping: 447609
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series Sayounara Ryuusei, Konnichiwa Jinsei
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[LoliHouse] Sayounara Ryuusei, Konnichiwa Jinsei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: Sayounara Ryuusei, Konnichiwa Jinsei. TVDB ID for mapping: 447609
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[LoliHouse] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Sayounara Ryuusei, Konnichiwa Jinsei matches an alias for series with TVDB ID: 447609
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (ABEMA 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [Up to 21°C] 2.5-jigen no Ririsa - 24  (ABEMA 1920x1080 AVC AAC MP4)
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. 2 5-jigen no Ririsa - 024 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5-jigen no Ririsa - 24  (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: 2 5-jigen no Ririsa. TVDB ID for mapping: 428168
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series 2 5-jigen no Ririsa
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5-jigen no Ririsa - 24  (ABEMA 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: 2 5-jigen no Ririsa. TVDB ID for mapping: 428168
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (ABEMA 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] 2 5-jigen no Ririsa matches an alias for series with TVDB ID: 428168
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (CR 1920x1080 AVC AAC MKV)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (CR 1920x1080 AVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [Up to 21°C] 2.5-jigen no Ririsa - 24  (CR 1920x1080 AVC AAC MKV)
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. 2 5-jigen no Ririsa - 024 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (CR 1920x1080 AVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5-jigen no Ririsa - 24  (CR 1920x1080 AVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: 2 5-jigen no Ririsa. TVDB ID for mapping: 428168
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series 2 5-jigen no Ririsa
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5-jigen no Ririsa - 24  (CR 1920x1080 AVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: 2 5-jigen no Ririsa. TVDB ID for mapping: 428168
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (CR 1920x1080 AVC AAC MKV)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] 2 5-jigen no Ririsa matches an alias for series with TVDB ID: 428168
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (Baha 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (Baha 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [Up to 21°C] 2.5-jigen no Ririsa - 24  (Baha 1920x1080 AVC AAC MP4)
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. 2 5-jigen no Ririsa - 024 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (Baha 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5-jigen no Ririsa - 24  (Baha 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: 2 5-jigen no Ririsa. TVDB ID for mapping: 428168
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series 2 5-jigen no Ririsa
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5-jigen no Ririsa - 24  (Baha 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: 2 5-jigen no Ririsa. TVDB ID for mapping: 428168
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 2.5 次元的誘惑 / 2.5-jigen no Ririsa - 24 (Baha 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] 2 5-jigen no Ririsa matches an alias for series with TVDB ID: 428168
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[ANi] 25jigen no Ririsa /  2.5 次元的誘惑 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[ANi] 25jigen no Ririsa /  2.5 次元的誘惑 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [ANi] 25jigen no Ririsa - 2 .5 次元的誘惑 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. 25jigen no Ririsa - 2  5 次元的誘惑 - 024 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[ANi] 25jigen no Ririsa /  2.5 次元的誘惑 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: ANi
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series 25jigen no Ririsa - 2  5 次元的誘惑
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[ANi] 25jigen no Ririsa /  2.5 次元的誘惑 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 24 (B-Global 1920x1080 HEVC AAC MKV)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 24 (B-Global 1920x1080 HEVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [Up to 21°C] 2.5-jigen no Ririsa - 24  (B-Global 1920x1080 HEVC AAC MKV)
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. 2 5-jigen no Ririsa - 024 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 24 (B-Global 1920x1080 HEVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5-jigen no Ririsa - 24  (B-Global 1920x1080 HEVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: 2 5-jigen no Ririsa. TVDB ID for mapping: 428168
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series 2 5-jigen no Ririsa
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 2.5-jigen no Ririsa - 24  (B-Global 1920x1080 HEVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|SceneMappingService|Found scene mapping for: 2 5-jigen no Ririsa. TVDB ID for mapping: 428168
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 24 (B-Global 1920x1080 HEVC AAC MKV)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] 2 5-jigen no Ririsa matches an alias for series with TVDB ID: 428168
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 百姓貴族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (ADN 1920x1080 AVC AAC MKV)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 百姓貴族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (ADN 1920x1080 AVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [Up to 21°C] Hyakushou Kizoku 2nd Season - 11  (ADN 1920x1080 AVC AAC MKV)
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. Hyakushou Kizoku 2nd Season - 011 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 百姓貴族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (ADN 1920x1080 AVC AAC MKV)'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series Hyakushou Kizoku 2nd Season
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 百姓貴族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (ADN 1920x1080 AVC AAC MKV)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[ANi]  百姓貴族 2nd Season - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[ANi]  百姓貴族 2nd Season - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]'
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. 百姓貴族 2nd Season - 011 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.1|Debug|QualityParser|Trying to parse quality for '[ANi]  百姓貴族 2nd Season - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]'
+2024-12-13 11:10:00.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2024-12-13 11:10:00.1|Debug|Parser|Release Group parsed: ANi
+2024-12-13 11:10:00.1|Debug|ParsingService|No matching series 百姓貴族 2nd Season
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Release '[ANi]  百姓貴族 2nd Season - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.1|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 百姓貴族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (Baha 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.1|Debug|Parser|Parsing string '[Up to 21°C] 百姓貴族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (Baha 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.1|Debug|Parser|Substituted with [Up to 21°C] Hyakushou Kizoku 2nd Season - 11  (Baha 1920x1080 AVC AAC MP4)
+2024-12-13 11:10:00.1|Debug|Parser|Episode Parsed. Hyakushou Kizoku 2nd Season - 011 
+2024-12-13 11:10:00.1|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 百姓貴族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (Baha 1920x1080 AVC AAC MP4)'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Hyakushou Kizoku 2nd Season
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 百姓貴族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (Baha 1920x1080 AVC AAC MP4)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[丸子家族][國民動畫盛會：海螺小姐55周年特別篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][BIG5][1080P][MP4]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[丸子家族][國民動畫盛會：海螺小姐55周年特別篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][BIG5][1080P][MP4]'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. [國民動畫盛會：海螺小姐55周年特別篇(National Anime Festival Sazae-san - 055 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[丸子家族][國民動畫盛會：海螺小姐55周年特別篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][BIG5][1080P][MP4]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: 丸子家族
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series [國民動畫盛會：海螺小姐55周年特別篇(National Anime Festival Sazae-san
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[丸子家族][國民動畫盛會：海螺小姐55周年特別篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][BIG5][1080P][MP4]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[丸子家族][国民动画盛会：海螺小姐55周年特别篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][GB][1080P][MP4]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[丸子家族][国民动画盛会：海螺小姐55周年特别篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][GB][1080P][MP4]'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. [国民动画盛会：海螺小姐55周年特别篇(National Anime Festival Sazae-san - 055 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[丸子家族][国民动画盛会：海螺小姐55周年特别篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][GB][1080P][MP4]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: 丸子家族
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series [国民动画盛会：海螺小姐55周年特别篇(National Anime Festival Sazae-san
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[丸子家族][国民动画盛会：海螺小姐55周年特别篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][GB][1080P][MP4]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[星空字幕组&VCB-Studio] 勇气爆发 BANG BRAVERN / Yuuki Bakuhatsu BANG BRAVERN / 勇気爆発バーンブレイバーン 10-bit 1080p HEVC BDRip [Fin]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[星空字幕组&VCB-Studio] 勇气爆发 BANG BRAVERN / Yuuki Bakuhatsu BANG BRAVERN / 勇気爆発バーンブレイバーン 10-bit 1080p HEVC BDRip [Fin]'
+2024-12-13 11:10:00.2|Debug|Parser|Substituted with [星空字幕组&VCB-Studio] 勇气爆发 BANG BRAVERN - 10 -bit 1080p HEVC BDRip [Fin]
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. 勇气爆发 BANG BRAVERN - 010 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[星空字幕组&VCB-Studio] 勇气爆发 BANG BRAVERN / Yuuki Bakuhatsu BANG BRAVERN / 勇気爆発バーンブレイバーン 10-bit 1080p HEVC BDRip [Fin]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: Bluray-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: 星空字幕组&VCB-Studio
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series 勇气爆发 BANG BRAVERN
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[星空字幕组&VCB-Studio] 勇气爆发 BANG BRAVERN / Yuuki Bakuhatsu BANG BRAVERN / 勇気爆発バーンブレイバーン 10-bit 1080p HEVC BDRip [Fin]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[奇怪机翻组] 贵宾室里…第一部分 / VIPルームで…パート① [2024.12.10 As109] [WebRip] [1080P HEVC-10Bit AAC 2.0] [简繁內封字幕]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[奇怪机翻组] 贵宾室里…第一部分 / VIPルームで…パート① [2024.12.10 As109] [WebRip] [1080P HEVC-10Bit AAC 2.0] [简繁內封字幕]'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. 贵宾室里…第一部分 / VIPルームで…パート① [2024 - [Unknown Special] 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[奇怪机翻组] 贵宾室里…第一部分 / VIPルームで…パート① [2024.12.10 As109] [WebRip] [1080P HEVC-10Bit AAC 2.0] [简繁內封字幕]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: 奇怪机翻组
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[奇怪机翻组] 贵宾室里…第一部分 / VIPルームで…パート① [2024.12.10 As109] [WebRip] [1080P HEVC-10Bit AAC 2.0] [简繁內封字幕]'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. 贵宾室里…第一部分 / VIPルームで…パート① [2024 - [Unknown Special] 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[奇怪机翻组] 贵宾室里…第一部分 / VIPルームで…パート① [2024.12.10 As109] [WebRip] [1080P HEVC-10Bit AAC 2.0] [简繁內封字幕]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: 奇怪机翻组
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series [奇怪机翻组] 贵宾室里…第一部分 / VIPルームで…パート① [2024.12.10 As109] [WebRip] [1080P HEVC-10Bit AAC 2.0] [简繁內封字幕]
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series 贵宾室里…第一部分 / VIPルームで…パート① [2024
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[奇怪机翻组] 贵宾室里…第一部分 / VIPルームで…パート① [2024.12.10 As109] [WebRip] [1080P HEVC-10Bit AAC 2.0] [简繁內封字幕]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[DBD-Raws][蔚蓝档案 The Animation/Blue Archive the Animation/ブルーアーカイブ The Animation][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[DBD-Raws][蔚蓝档案 The Animation/Blue Archive the Animation/ブルーアーカイブ The Animation][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV]'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. [01 - 012 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[DBD-Raws][蔚蓝档案 The Animation/Blue Archive the Animation/ブルーアーカイブ The Animation][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: Bluray-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: DBD-Raws
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series [01
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[DBD-Raws][蔚蓝档案 The Animation/Blue Archive the Animation/ブルーアーカイブ The Animation][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[DBD-Raws][机动战士高达SEED Destiny HD重制版/Mobile Suit Gundam SEED Destiny HD Remaster][01-50TV全集+特别版+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[DBD-Raws][机动战士高达SEED Destiny HD重制版/Mobile Suit Gundam SEED Destiny HD Remaster][01-50TV全集+特别版+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. [01 - 050 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[DBD-Raws][机动战士高达SEED Destiny HD重制版/Mobile Suit Gundam SEED Destiny HD Remaster][01-50TV全集+特别版+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: Bluray-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: DBD-Raws
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series [01
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[DBD-Raws][机动战士高达SEED Destiny HD重制版/Mobile Suit Gundam SEED Destiny HD Remaster][01-50TV全集+特别版+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[LoliHouse] 真的要结婚吗 / 結婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[LoliHouse] 真的要结婚吗 / 結婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.2|Debug|Parser|Substituted with [LoliHouse][ 真的要结婚吗 / 結婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding][11][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]
+2024-12-13 11:10:00.2|Debug|Parser|Substituted with [LoliHouse] Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding - 011 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[LoliHouse] 真的要结婚吗 / 結婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: LoliHouse
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[LoliHouse] 真的要结婚吗 / 結婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)'
+2024-12-13 11:10:00.2|Debug|Parser|Substituted with [Up to 21°C] Mythical Creatures Are My Dinners - 29  (B-Global Donghua 1920x1080 HEVC AAC MKV)
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Mythical Creatures Are My Dinners - 029 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: Up to 21°C
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Mythical Creatures Are My Dinners
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[LoliHouse] 机械手臂 / Mecha-Ude - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：机械臂)' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[LoliHouse] 机械手臂 / Mecha-Ude - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：机械臂)'
+2024-12-13 11:10:00.2|Debug|Parser|Substituted with [LoliHouse][ 机械手臂 / Mecha-Ude][11][WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：机械臂)
+2024-12-13 11:10:00.2|Debug|Parser|Substituted with [LoliHouse] Mecha-Ude - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：机械臂)
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Mecha-Ude - 011 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[LoliHouse] 机械手臂 / Mecha-Ude - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：机械臂)'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: LoliHouse
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[LoliHouse] Mecha-Ude - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：机械臂)'
+2024-12-13 11:10:00.2|Debug|SceneMappingService|Found scene mapping for: Mecha-Ude. TVDB ID for mapping: 437206
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Mecha-Ude
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[LoliHouse] Mecha-Ude - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：机械臂)'
+2024-12-13 11:10:00.2|Debug|SceneMappingService|Found scene mapping for: Mecha-Ude. TVDB ID for mapping: 437206
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[LoliHouse] 机械手臂 / Mecha-Ude - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：机械臂)' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Mecha-Ude matches an alias for series with TVDB ID: 437206
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[LoliHouse] 在地下城寻求邂逅是否搞错了什么 第五季 / DanMachi S5 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[LoliHouse] 在地下城寻求邂逅是否搞错了什么 第五季 / DanMachi S5 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.2|Debug|Parser|Substituted with [LoliHouse][ 在地下城寻求邂逅是否搞错了什么 第五季 / DanMachi S5][10][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]
+2024-12-13 11:10:00.2|Debug|Parser|Substituted with [LoliHouse] DanMachi S5 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. DanMachi S5 - 010 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[LoliHouse] 在地下城寻求邂逅是否搞错了什么 第五季 / DanMachi S5 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: LoliHouse
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[LoliHouse] DanMachi S5 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.2|Debug|SceneMappingService|Found scene mapping for: DanMachi S5. TVDB ID for mapping: 289882
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series DanMachi S5
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[LoliHouse] DanMachi S5 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.2|Debug|SceneMappingService|Found scene mapping for: DanMachi S5. TVDB ID for mapping: 289882
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[LoliHouse] 在地下城寻求邂逅是否搞错了什么 第五季 / DanMachi S5 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] DanMachi S5 matches an alias for series with TVDB ID: 289882
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release '[LoliHouse] 悲喜渔生 / Negative Positive Angler - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]' from 'ACG.RIP (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string '[LoliHouse] 悲喜渔生 / Negative Positive Angler - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.2|Debug|Parser|Substituted with [LoliHouse][ 悲喜渔生 / Negative Positive Angler][11][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]
+2024-12-13 11:10:00.2|Debug|Parser|Substituted with [LoliHouse] Negative Positive Angler - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Negative Positive Angler - 011 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Chinese
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for '[LoliHouse] 悲喜渔生 / Negative Positive Angler - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: LoliHouse
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Negative Positive Angler
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release '[LoliHouse] 悲喜渔生 / Negative Positive Angler - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]' from 'ACG.RIP (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'The.Noite.com.Danilo.Gentili.2024.12.12.720p.WEB.x264 Skylane77.mp4' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'The.Noite.com.Danilo.Gentili.2024.12.12.720p.WEB.x264 Skylane77.mp4'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. The Noite com Danilo Gentili - 2024-12-12 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'The.Noite.com.Danilo.Gentili.2024.12.12.720p.WEB.x264 Skylane77.mp4'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: 
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series The Noite com Danilo Gentili
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'The.Noite.com.Danilo.Gentili.2024.12.12.720p.WEB.x264 Skylane77.mp4' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'Dexter.Original.Sin.S01E01.720p.x265-TiPEX' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Dexter.Original.Sin.S01E01.720p.x265-TiPEX'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Dexter Original Sin - S01E01 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'Dexter.Original.Sin.S01E01.720p.x265-TiPEX'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: HDTV-720p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: TiPEX
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Dexter Original Sin
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'Dexter.Original.Sin.S01E01.720p.x265-TiPEX' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'Bookie.2023.S02E01.1080p.x265-ELiTE' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Bookie.2023.S02E01.1080p.x265-ELiTE'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Bookie 2023 - S02E01 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'Bookie.2023.S02E01.1080p.x265-ELiTE'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: ELiTE
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Bookie.2023.S02E01.1080p.x265-ELiTE'
+2024-12-13 11:10:00.2|Debug|SceneMappingService|Found scene mapping for: Bookie 2023. TVDB ID for mapping: 425692
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Bookie 2023
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Bookie.2023.S02E01.1080p.x265-ELiTE'
+2024-12-13 11:10:00.2|Debug|SceneMappingService|Found scene mapping for: Bookie 2023. TVDB ID for mapping: 425692
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'Bookie.2023.S02E01.1080p.x265-ELiTE' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Bookie 2023 matches an alias for series with TVDB ID: 425692
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'Bookie.2023.S02E01.720p.x265-TiPEX' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Bookie.2023.S02E01.720p.x265-TiPEX'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Bookie 2023 - S02E01 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'Bookie.2023.S02E01.720p.x265-TiPEX'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: HDTV-720p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: TiPEX
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Bookie.2023.S02E01.720p.x265-TiPEX'
+2024-12-13 11:10:00.2|Debug|SceneMappingService|Found scene mapping for: Bookie 2023. TVDB ID for mapping: 425692
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Bookie 2023
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Bookie.2023.S02E01.720p.x265-TiPEX'
+2024-12-13 11:10:00.2|Debug|SceneMappingService|Found scene mapping for: Bookie 2023. TVDB ID for mapping: 425692
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'Bookie.2023.S02E01.720p.x265-TiPEX' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Bookie 2023 matches an alias for series with TVDB ID: 425692
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'Dexter.Original.Sin.S01E01.480p.x264-RUBiK' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Dexter.Original.Sin.S01E01.480p.x264-RUBiK'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Dexter Original Sin - S01E01 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'Dexter.Original.Sin.S01E01.480p.x264-RUBiK'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: SDTV v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: RUBiK
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Dexter Original Sin
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'Dexter.Original.Sin.S01E01.480p.x264-RUBiK' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'Bookie.2023.S02E01.480p.x264-RUBiK' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Bookie.2023.S02E01.480p.x264-RUBiK'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Bookie 2023 - S02E01 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'Bookie.2023.S02E01.480p.x264-RUBiK'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: SDTV v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: RUBiK
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Bookie.2023.S02E01.480p.x264-RUBiK'
+2024-12-13 11:10:00.2|Debug|SceneMappingService|Found scene mapping for: Bookie 2023. TVDB ID for mapping: 425692
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Bookie 2023
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Bookie.2023.S02E01.480p.x264-RUBiK'
+2024-12-13 11:10:00.2|Debug|SceneMappingService|Found scene mapping for: Bookie 2023. TVDB ID for mapping: 425692
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'Bookie.2023.S02E01.480p.x264-RUBiK' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Bookie 2023 matches an alias for series with TVDB ID: 425692
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'Rubble.and.Crew.S02E39E40.1080p.AMZN.WEB-DL.DDP2.0.H.264-deadorbit' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Rubble.and.Crew.S02E39E40.1080p.AMZN.WEB-DL.DDP2.0.H.264-deadorbit'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Rubble and Crew - S02E39-40 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'Rubble.and.Crew.S02E39E40.1080p.AMZN.WEB-DL.DDP2.0.H.264-deadorbit'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: deadorbit
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Rubble and Crew
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'Rubble.and.Crew.S02E39E40.1080p.AMZN.WEB-DL.DDP2.0.H.264-deadorbit' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'Sweetpea (2024) S01 (1080p NOW WEB-DL x265 10bit EAC3 Atmos 5.1 Ghost) [QxR]' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Sweetpea (2024) S01 (1080p NOW WEB-DL x265 10bit EAC3 Atmos 5.1 Ghost) [QxR]'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Sweetpea (2024) - Season 01 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'Sweetpea (2024) S01 (1080p NOW WEB-DL x265 10bit EAC3 Atmos 5.1 Ghost) [QxR]'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: Ghost
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Sweetpea (2024)
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'Sweetpea (2024) S01 (1080p NOW WEB-DL x265 10bit EAC3 Atmos 5.1 Ghost) [QxR]' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'Top of the Pops (1964)   Complete 1979 Set   TOTP BBC TV Music Series' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Top of the Pops (1964)   Complete 1979 Set   TOTP BBC TV Music Series'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Top of the Pops (1964)   Complete - S19E79 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'Top of the Pops (1964)   Complete 1979 Set   TOTP BBC TV Music Series'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: Unknown v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: 
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Top of the Pops (1964)   Complete
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'Top of the Pops (1964)   Complete 1979 Set   TOTP BBC TV Music Series' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'The Day of the Jackal S01E09 Episodio 9 ITA ENG 2160p PCOK WEB-DL DDP 5.1 DV HDR H 265 MeM GP-mkv' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'The Day of the Jackal S01E09 Episodio 9 ITA ENG 2160p PCOK WEB-DL DDP 5.1 DV HDR H 265 MeM GP-mkv'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. The Day of the Jackal - S01E09 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Italian, English
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'The Day of the Jackal S01E09 Episodio 9 ITA ENG 2160p PCOK WEB-DL DDP 5.1 DV HDR H 265 MeM GP-mkv'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: mkv
+2024-12-13 11:10:00.2|Debug|AggregateLanguages|Selected languages: Italian, English
+2024-12-13 11:10:00.2|Debug|AcceptableSizeSpecification|Beginning size check for: The Day of the Jackal S01E09 Episodio 9 ITA ENG 2160p PCOK WEB-DL DDP 5.1 DV HDR H 265 MeM GP-mkv
+2024-12-13 11:10:00.2|Debug|AcceptableSizeSpecification|Max size is unlimited, skipping size check
+2024-12-13 11:10:00.2|Debug|AcceptableSizeSpecification|Item: The Day of the Jackal S01E09 Episodio 9 ITA ENG 2160p PCOK WEB-DL DDP 5.1 DV HDR H 265 MeM GP-mkv, meets size constraints
+2024-12-13 11:10:00.2|Debug|AlreadyImportedSpecification|Performing already imported check on report
+2024-12-13 11:10:00.2|Debug|MaximumSizeSpecification|Maximum size is not set.
+2024-12-13 11:10:00.2|Debug|MinimumAgeSpecification|Not checking minimum age requirement for non-usenet report
+2024-12-13 11:10:00.2|Debug|QualityAllowedByProfileSpecification|Checking if report meets quality requirements. WEBDL-2160p v1
+2024-12-13 11:10:00.2|Debug|ReleaseRestrictionsSpecification|Checking if release meets restrictions: The Day of the Jackal S01E09 Episodio 9 ITA ENG 2160p PCOK WEB-DL DDP 5.1 DV HDR H 265 MeM GP-mkv
+2024-12-13 11:10:00.2|Debug|ReleaseRestrictionsSpecification|[The Day of the Jackal S01E09 Episodio 9 ITA ENG 2160p PCOK WEB-DL DDP 5.1 DV HDR H 265 MeM GP-mkv] No restrictions apply, allowing
+2024-12-13 11:10:00.2|Debug|RetentionSpecification|Not checking retention requirement for non-usenet report
+2024-12-13 11:10:00.2|Debug|SceneMappingSpecification|No applicable scene mapping, skipping.
+2024-12-13 11:10:00.2|Debug|UpgradeAllowedSpecification|Comparing file quality with report. Existing file is WEBDL-2160p v1
+2024-12-13 11:10:00.2|Debug|UpgradeDiskSpecification|Comparing file quality with report. Existing file is WEBDL-2160p v1.
+2024-12-13 11:10:00.2|Debug|UpgradableSpecification|Existing item meets cut-off, skipping. Existing: WEBDL-2160p v1 [] (0)
+2024-12-13 11:10:00.2|Debug|UpgradeDiskSpecification|Cutoff already met, rejecting.
+2024-12-13 11:10:00.2|Debug|DelaySpecification|QualityProfile does not require a waiting period before download for Torrent.
+2024-12-13 11:10:00.2|Debug|HistorySpecification|Performing history status check on report
+2024-12-13 11:10:00.2|Debug|HistorySpecification|Checking current status of episode [53] in history
+2024-12-13 11:10:00.2|Debug|MonitoredEpisodeSpecification|Episode is not monitored. Rejecting
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'The Day of the Jackal S01E09 Episodio 9 ITA ENG 2160p PCOK WEB-DL DDP 5.1 DV HDR H 265 MeM GP-mkv' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Existing file meets cutoff: HDTV-2160p, [Permanent] Episode is not monitored
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'Dexter Original Sin S01E01 In principio ITA ENG 2160p WEB-DL DDP 2.0 DV HDR H 265 MeM GP-mkv' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'Dexter Original Sin S01E01 In principio ITA ENG 2160p WEB-DL DDP 2.0 DV HDR H 265 MeM GP-mkv'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. Dexter Original Sin - S01E01 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Italian, English
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'Dexter Original Sin S01E01 In principio ITA ENG 2160p WEB-DL DDP 2.0 DV HDR H 265 MeM GP-mkv'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: mkv
+2024-12-13 11:10:00.2|Debug|ParsingService|No matching series Dexter Original Sin
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Release 'Dexter Original Sin S01E01 In principio ITA ENG 2160p WEB-DL DDP 2.0 DV HDR H 265 MeM GP-mkv' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.2|Debug|DownloadDecisionMaker|Processing release 'The Day Of The Jackal Season 1 COMPLETE 1080p AMZN WEB-DL x264 ESubs 7GB MP4 S01-FULL' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.2|Debug|Parser|Parsing string 'The Day Of The Jackal Season 1 COMPLETE 1080p AMZN WEB-DL x264 ESubs 7GB MP4 S01-FULL'
+2024-12-13 11:10:00.2|Debug|Parser|Episode Parsed. The Day Of The Jackal - Season 01 
+2024-12-13 11:10:00.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.2|Debug|QualityParser|Trying to parse quality for 'The Day Of The Jackal Season 1 COMPLETE 1080p AMZN WEB-DL x264 ESubs 7GB MP4 S01-FULL'
+2024-12-13 11:10:00.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2024-12-13 11:10:00.2|Debug|Parser|Release Group parsed: FULL
+2024-12-13 11:10:00.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2024-12-13 11:10:00.3|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:10:00.3|Debug|AcceptableSizeSpecification|Beginning size check for: The Day Of The Jackal Season 1 COMPLETE 1080p AMZN WEB-DL x264 ESubs 7GB MP4 S01-FULL
+2024-12-13 11:10:00.3|Debug|AcceptableSizeSpecification|Item: The Day Of The Jackal Season 1 COMPLETE 1080p AMZN WEB-DL x264 ESubs 7GB MP4 S01-FULL, meets size constraints
+2024-12-13 11:10:00.3|Debug|AlreadyImportedSpecification|Performing already imported check on report
+2024-12-13 11:10:00.3|Debug|FullSeasonSpecification|Checking if all episodes in full season release have aired. The Day Of The Jackal Season 1 COMPLETE 1080p AMZN WEB-DL x264 ESubs 7GB MP4 S01-FULL
+2024-12-13 11:10:00.3|Debug|MaximumSizeSpecification|Maximum size is not set.
+2024-12-13 11:10:00.3|Debug|MinimumAgeSpecification|Not checking minimum age requirement for non-usenet report
+2024-12-13 11:10:00.3|Debug|QualityAllowedByProfileSpecification|Checking if report meets quality requirements. WEBDL-1080p v1
+2024-12-13 11:10:00.3|Debug|QualityAllowedByProfileSpecification|Quality WEBDL-1080p v1 rejected by Series' quality profile
+2024-12-13 11:10:00.3|Debug|ReleaseRestrictionsSpecification|Checking if release meets restrictions: The Day Of The Jackal Season 1 COMPLETE 1080p AMZN WEB-DL x264 ESubs 7GB MP4 S01-FULL
+2024-12-13 11:10:00.3|Debug|ReleaseRestrictionsSpecification|[The Day Of The Jackal Season 1 COMPLETE 1080p AMZN WEB-DL x264 ESubs 7GB MP4 S01-FULL] No restrictions apply, allowing
+2024-12-13 11:10:00.3|Debug|RetentionSpecification|Not checking retention requirement for non-usenet report
+2024-12-13 11:10:00.3|Debug|SceneMappingSpecification|No applicable scene mapping, skipping.
+2024-12-13 11:10:00.3|Debug|UpgradeAllowedSpecification|Comparing file quality with report. Existing file is HDTV-1080p v1
+2024-12-13 11:10:00.3|Debug|UpgradableSpecification|Quality profile does not allow upgrades, skipping
+2024-12-13 11:10:00.3|Debug|UpgradeAllowedSpecification|Upgrading is not allowed by the quality profile
+2024-12-13 11:10:00.3|Debug|UpgradeDiskSpecification|Comparing file quality with report. Existing file is HDTV-1080p v1.
+2024-12-13 11:10:00.3|Debug|UpgradableSpecification|New item has a better quality. Existing: HDTV-1080p v1. New: WEBDL-1080p v1
+2024-12-13 11:10:00.3|Debug|UpgradeDiskSpecification|Comparing file quality with report. Existing file is HDTV-1080p v1.
+2024-12-13 11:10:00.3|Debug|UpgradableSpecification|New item has a better quality. Existing: HDTV-1080p v1. New: WEBDL-1080p v1
+2024-12-13 11:10:00.3|Debug|UpgradeDiskSpecification|Comparing file quality with report. Existing file is HDTV-1080p v2.
+2024-12-13 11:10:00.3|Debug|UpgradableSpecification|New item has a better quality. Existing: HDTV-1080p v2. New: WEBDL-1080p v1
+2024-12-13 11:10:00.3|Debug|UpgradeDiskSpecification|Comparing file quality with report. Existing file is HDTV-1080p v1.
+2024-12-13 11:10:00.3|Debug|UpgradableSpecification|New item has a better quality. Existing: HDTV-1080p v1. New: WEBDL-1080p v1
+2024-12-13 11:10:00.3|Debug|UpgradeDiskSpecification|Comparing file quality with report. Existing file is HDTV-1080p v1.
+2024-12-13 11:10:00.3|Debug|UpgradableSpecification|New item has a better quality. Existing: HDTV-1080p v1. New: WEBDL-1080p v1
+2024-12-13 11:10:00.3|Debug|UpgradeDiskSpecification|Comparing file quality with report. Existing file is HDTV-1080p v1.
+2024-12-13 11:10:00.3|Debug|UpgradableSpecification|New item has a better quality. Existing: HDTV-1080p v1. New: WEBDL-1080p v1
+2024-12-13 11:10:00.3|Debug|UpgradeDiskSpecification|Comparing file quality with report. Existing file is WEBDL-1080p v1.
+2024-12-13 11:10:00.3|Debug|UpgradableSpecification|New item's custom formats [] (0) do not improve on [] (0), skipping
+2024-12-13 11:10:00.3|Debug|DelaySpecification|QualityProfile does not require a waiting period before download for Torrent.
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Performing history status check on report
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Checking current status of episode [45] in history
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Checking current status of episode [46] in history
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Checking current status of episode [47] in history
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Checking current status of episode [48] in history
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Checking current status of episode [49] in history
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Checking current status of episode [50] in history
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Checking current status of episode [51] in history
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Checking current status of episode [52] in history
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Checking current status of episode [53] in history
+2024-12-13 11:10:00.3|Debug|HistorySpecification|Checking current status of episode [54] in history
+2024-12-13 11:10:00.3|Debug|MonitoredEpisodeSpecification|No episodes in the release are monitored. Rejecting
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Release 'The Day Of The Jackal Season 1 COMPLETE 1080p AMZN WEB-DL x264 ESubs 7GB MP4 S01-FULL' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] WEBDL-1080p is not wanted in profile, [Permanent] Existing file and the Quality profile does not allow upgrades, [Permanent] Existing file on disk has a equal or higher Custom Format score: 0, [Permanent] One or more episodes is not monitored
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Processing release 'Elsbeth.S02E07.720p.AMZN.WEB-DL.x264.ESubs.[300MB].[MP4]' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.3|Debug|Parser|Parsing string 'Elsbeth.S02E07.720p.AMZN.WEB-DL.x264.ESubs.[300MB].[MP4]'
+2024-12-13 11:10:00.3|Debug|Parser|Episode Parsed. Elsbeth - S02E07 
+2024-12-13 11:10:00.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.3|Debug|QualityParser|Trying to parse quality for 'Elsbeth.S02E07.720p.AMZN.WEB-DL.x264.ESubs.[300MB].[MP4]'
+2024-12-13 11:10:00.3|Debug|Parser|Quality parsed: WEBDL-720p v1
+2024-12-13 11:10:00.3|Debug|Parser|Release Group parsed: MP4
+2024-12-13 11:10:00.3|Debug|ParsingService|No matching series Elsbeth
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Release 'Elsbeth.S02E07.720p.AMZN.WEB-DL.x264.ESubs.[300MB].[MP4]' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Processing release 'Matlock.2024.S01E08.720p.AMZN.WEB-DL.x264.ESubs.[310MB].[MP4]' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.3|Debug|Parser|Parsing string 'Matlock.2024.S01E08.720p.AMZN.WEB-DL.x264.ESubs.[310MB].[MP4]'
+2024-12-13 11:10:00.3|Debug|Parser|Episode Parsed. Matlock 2024 - S01E08 
+2024-12-13 11:10:00.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.3|Debug|QualityParser|Trying to parse quality for 'Matlock.2024.S01E08.720p.AMZN.WEB-DL.x264.ESubs.[310MB].[MP4]'
+2024-12-13 11:10:00.3|Debug|Parser|Quality parsed: WEBDL-720p v1
+2024-12-13 11:10:00.3|Debug|Parser|Release Group parsed: MP4
+2024-12-13 11:10:00.3|Debug|ParsingService|No matching series Matlock 2024
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Release 'Matlock.2024.S01E08.720p.AMZN.WEB-DL.x264.ESubs.[310MB].[MP4]' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Processing release 'Dexter.Original.Sin.S01E01.1080p.WEB-DL.x264.ESubs.[900MB].[MP4]' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.3|Debug|Parser|Parsing string 'Dexter.Original.Sin.S01E01.1080p.WEB-DL.x264.ESubs.[900MB].[MP4]'
+2024-12-13 11:10:00.3|Debug|Parser|Episode Parsed. Dexter Original Sin - S01E01 
+2024-12-13 11:10:00.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.3|Debug|QualityParser|Trying to parse quality for 'Dexter.Original.Sin.S01E01.1080p.WEB-DL.x264.ESubs.[900MB].[MP4]'
+2024-12-13 11:10:00.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2024-12-13 11:10:00.3|Debug|Parser|Release Group parsed: MP4
+2024-12-13 11:10:00.3|Debug|ParsingService|No matching series Dexter Original Sin
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Release 'Dexter.Original.Sin.S01E01.1080p.WEB-DL.x264.ESubs.[900MB].[MP4]' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Processing release 'Dexter.Original.Sin.S01E01.720p.WEB-DL.x264.ESubs.[430MB].[MP4]' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.3|Debug|Parser|Parsing string 'Dexter.Original.Sin.S01E01.720p.WEB-DL.x264.ESubs.[430MB].[MP4]'
+2024-12-13 11:10:00.3|Debug|Parser|Episode Parsed. Dexter Original Sin - S01E01 
+2024-12-13 11:10:00.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.3|Debug|QualityParser|Trying to parse quality for 'Dexter.Original.Sin.S01E01.720p.WEB-DL.x264.ESubs.[430MB].[MP4]'
+2024-12-13 11:10:00.3|Debug|Parser|Quality parsed: WEBDL-720p v1
+2024-12-13 11:10:00.3|Debug|Parser|Release Group parsed: MP4
+2024-12-13 11:10:00.3|Debug|ParsingService|No matching series Dexter Original Sin
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Release 'Dexter.Original.Sin.S01E01.720p.WEB-DL.x264.ESubs.[430MB].[MP4]' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Processing release 'Mismatched.S03.1080p.NF.WEB-DL.DDP5.1.Atmos.H.265-REL1VIN' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.3|Debug|Parser|Parsing string 'Mismatched.S03.1080p.NF.WEB-DL.DDP5.1.Atmos.H.265-REL1VIN'
+2024-12-13 11:10:00.3|Debug|Parser|Episode Parsed. Mismatched - Season 03 
+2024-12-13 11:10:00.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.3|Debug|QualityParser|Trying to parse quality for 'Mismatched.S03.1080p.NF.WEB-DL.DDP5.1.Atmos.H.265-REL1VIN'
+2024-12-13 11:10:00.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2024-12-13 11:10:00.3|Debug|Parser|Release Group parsed: REL1VIN
+2024-12-13 11:10:00.3|Debug|ParsingService|No matching series Mismatched
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Release 'Mismatched.S03.1080p.NF.WEB-DL.DDP5.1.Atmos.H.265-REL1VIN' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Processing release 'Elsbeth.S02E07.1080p.x265-ELiTE' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.3|Debug|Parser|Parsing string 'Elsbeth.S02E07.1080p.x265-ELiTE'
+2024-12-13 11:10:00.3|Debug|Parser|Episode Parsed. Elsbeth - S02E07 
+2024-12-13 11:10:00.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.3|Debug|QualityParser|Trying to parse quality for 'Elsbeth.S02E07.1080p.x265-ELiTE'
+2024-12-13 11:10:00.3|Debug|Parser|Quality parsed: HDTV-1080p v1
+2024-12-13 11:10:00.3|Debug|Parser|Release Group parsed: ELiTE
+2024-12-13 11:10:00.3|Debug|ParsingService|No matching series Elsbeth
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Release 'Elsbeth.S02E07.1080p.x265-ELiTE' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Processing release 'Ant Anstead Born Mechanic S01E08 Land Rover A Favourite to Finish 1080p WEBRip x264-skorpion' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.3|Debug|Parser|Parsing string 'Ant Anstead Born Mechanic S01E08 Land Rover A Favourite to Finish 1080p WEBRip x264-skorpion'
+2024-12-13 11:10:00.3|Debug|Parser|Episode Parsed. Ant Anstead Born Mechanic - S01E08 
+2024-12-13 11:10:00.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.3|Debug|QualityParser|Trying to parse quality for 'Ant Anstead Born Mechanic S01E08 Land Rover A Favourite to Finish 1080p WEBRip x264-skorpion'
+2024-12-13 11:10:00.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2024-12-13 11:10:00.3|Debug|Parser|Release Group parsed: skorpion
+2024-12-13 11:10:00.3|Debug|ParsingService|No matching series Ant Anstead Born Mechanic
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Release 'Ant Anstead Born Mechanic S01E08 Land Rover A Favourite to Finish 1080p WEBRip x264-skorpion' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Processing release 'Elsbeth.S02E07.720p.x265-TiPEX' from '1337x (Prowlarr)'
+2024-12-13 11:10:00.3|Debug|Parser|Parsing string 'Elsbeth.S02E07.720p.x265-TiPEX'
+2024-12-13 11:10:00.3|Debug|Parser|Episode Parsed. Elsbeth - S02E07 
+2024-12-13 11:10:00.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:00.3|Debug|QualityParser|Trying to parse quality for 'Elsbeth.S02E07.720p.x265-TiPEX'
+2024-12-13 11:10:00.3|Debug|Parser|Quality parsed: HDTV-720p v1
+2024-12-13 11:10:00.3|Debug|Parser|Release Group parsed: TiPEX
+2024-12-13 11:10:00.3|Debug|ParsingService|No matching series Elsbeth
+2024-12-13 11:10:00.3|Debug|DownloadDecisionMaker|Release 'Elsbeth.S02E07.720p.x265-TiPEX' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2024-12-13 11:10:00.3|Info|RssSyncService|RSS Sync Completed. Reports found: 50, Reports grabbed: 0
+2024-12-13 11:10:00.3|Debug|PendingReleaseService|Removing failed releases from pending
+2024-12-13 11:10:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:10:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 11:11:23.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:11:23.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:11:23.0|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (8 ms)
+2024-12-13 11:11:23.0|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2024-12-13 11:11:23.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:11:23.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:11:23.0|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:11:23.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:11:23.0|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:11:23.0|Debug|Api|[GET] /api/v3/queue/details?episodeIds=1352&episodeIds=1353&episodeIds=1354: 200.OK (5 ms)
+2024-12-13 11:11:53.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2024-12-13 11:11:53.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:11:53.0|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)

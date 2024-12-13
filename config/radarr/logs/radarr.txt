@@ -5541,3 +5541,60 @@ disk I/O error
 
 2024-12-13 10:43:51.2|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
  -- : Unable to connect to indexer, indexer's server is unavailable. Try again later. HTTP request failed: [500:InternalServerError] [GET] at [http://prowlarr:9696/2/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 11:01:16.4|Info|RssSyncService|Starting RSS Sync
+2024-12-13 11:01:16.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/2/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 11:01:16.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/1/api?t=movie&cat=2000,2070,2030,2010,2040,2060,2045&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 11:01:16.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/3/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 11:01:16.5|Warn|Torznab|1337x (Prowlarr) HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/1/api?t=movie&cat=2000,2070,2030,2010,2040,2060,2045&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 11:01:16.5|Warn|Torznab|52BT (Prowlarr) HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/2/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 11:01:16.5|Warn|Torznab|Badass Torrents (Prowlarr) HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/3/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 11:01:16.5|Info|DownloadDecisionMaker|No results found
+2024-12-13 11:01:16.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2024-12-13 11:02:53.4|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- Name: Should be unique
+2024-12-13 11:02:53.5|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- Name: Should be unique
+2024-12-13 11:05:37.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+2024-12-13 11:05:37.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+2024-12-13 11:05:37.2|Warn|Torznab|Unable to connect to indexer
+
+[v5.15.1.9463] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Radarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 37
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Radarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 90
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 352
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+
+
+2024-12-13 11:05:37.2|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, check the log above the ValidationFailure for more details. HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)
+2024-12-13 11:05:37.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+2024-12-13 11:05:37.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+2024-12-13 11:05:37.2|Warn|Torznab|Unable to connect to indexer
+
+[v5.15.1.9463] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Radarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 37
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Radarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 90
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 352
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+
+
+2024-12-13 11:05:37.2|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, check the log above the ValidationFailure for more details. HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)

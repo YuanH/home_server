@@ -699,3 +699,669 @@
 2024-12-13 10:51:46.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
 2024-12-13 10:51:46.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
 2024-12-13 10:51:46.2|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 10:52:46.2|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:52:46.2|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 10:52:46.2|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 10:52:46.2|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:52:46.2|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:52:46.2|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:52:46.2|Debug|Parser|Edition parsed: 
+2024-12-13 10:52:46.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:52:46.3|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:52:46.3|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:52:46.3|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 10:52:46.3|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 10:52:46.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:52:46.3|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:52:46.3|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 10:52:46.3|Debug|Parser|Edition parsed: 
+2024-12-13 10:52:46.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:52:46.3|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:52:46.3|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:52:46.3|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 10:52:46.3|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 10:52:46.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:52:46.3|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:52:46.3|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:52:46.3|Debug|Parser|Edition parsed: 
+2024-12-13 10:52:46.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:52:46.3|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:52:46.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:52:46.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:52:46.3|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 10:52:46.3|Debug|Api|[GET] /api/v3/queue/details: 200.OK (7 ms)
+2024-12-13 10:52:46.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:52:46.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:52:46.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:52:46.3|Debug|Api|[GET] /api/v3/queue/details: 200.OK (4 ms)
+2024-12-13 10:54:16.3|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:54:16.3|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 10:54:16.3|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 10:54:16.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:54:16.3|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:54:16.3|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:54:16.3|Debug|Parser|Edition parsed: 
+2024-12-13 10:54:16.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:54:16.3|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:54:16.3|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:54:16.3|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 10:54:16.3|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 10:54:16.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:54:16.3|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:54:16.3|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 10:54:16.3|Debug|Parser|Edition parsed: 
+2024-12-13 10:54:16.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:54:16.3|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:54:16.3|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:54:16.3|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 10:54:16.3|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 10:54:16.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:54:16.3|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:54:16.3|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:54:16.3|Debug|Parser|Edition parsed: 
+2024-12-13 10:54:16.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:54:16.3|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:54:16.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:54:16.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:54:16.3|Debug|Api|[GET] /api/v3/queue/details: 200.OK (5 ms)
+2024-12-13 10:54:16.3|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 10:54:16.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:54:16.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:54:16.3|Debug|Api|[GET] /api/v3/queue/details: 200.OK (2 ms)
+2024-12-13 10:54:16.3|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2024-12-13 10:55:46.3|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:55:46.3|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 10:55:46.3|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 10:55:46.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:55:46.3|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:55:46.3|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:55:46.3|Debug|Parser|Edition parsed: 
+2024-12-13 10:55:46.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:55:46.3|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:55:46.3|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:55:46.3|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 10:55:46.3|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 10:55:46.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:55:46.3|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:55:46.3|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 10:55:46.3|Debug|Parser|Edition parsed: 
+2024-12-13 10:55:46.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:55:46.3|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:55:46.3|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:55:46.3|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 10:55:46.3|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 10:55:46.3|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:55:46.3|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:55:46.3|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:55:46.3|Debug|Parser|Edition parsed: 
+2024-12-13 10:55:46.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:55:46.3|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:55:46.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:46.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:46.4|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 10:55:46.4|Debug|Api|[GET] /api/v3/queue/details: 200.OK (10 ms)
+2024-12-13 10:55:46.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:46.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:55:46.4|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2024-12-13 10:55:46.4|Debug|Api|[GET] /api/v3/queue/details: 200.OK (8 ms)
+2024-12-13 10:56:16.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:16.4|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 10:56:46.3|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2024-12-13 10:56:46.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:56:46.4|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2024-12-13 10:57:16.4|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:57:16.4|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 10:57:16.4|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 10:57:16.4|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:57:16.4|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:57:16.4|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:57:16.4|Debug|Parser|Edition parsed: 
+2024-12-13 10:57:16.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:57:16.4|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:57:16.4|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:57:16.4|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 10:57:16.4|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 10:57:16.4|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:57:16.4|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:57:16.4|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 10:57:16.4|Debug|Parser|Edition parsed: 
+2024-12-13 10:57:16.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:57:16.4|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:57:16.4|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:57:16.4|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 10:57:16.4|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 10:57:16.4|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:57:16.4|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:57:16.4|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:57:16.4|Debug|Parser|Edition parsed: 
+2024-12-13 10:57:16.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:57:16.4|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:57:16.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:57:16.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:57:16.5|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2024-12-13 10:57:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:57:16.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (10 ms)
+2024-12-13 10:57:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:57:16.5|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 10:57:16.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (2 ms)
+2024-12-13 10:58:46.4|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:58:46.4|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 10:58:46.4|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 10:58:46.4|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:58:46.4|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 10:58:46.4|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:58:46.4|Debug|Parser|Edition parsed: 
+2024-12-13 10:58:46.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:58:46.4|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:58:46.4|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:58:46.4|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 10:58:46.4|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 10:58:46.4|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:58:46.4|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 10:58:46.4|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 10:58:46.4|Debug|Parser|Edition parsed: 
+2024-12-13 10:58:46.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:58:46.4|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:58:46.4|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:58:46.4|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 10:58:46.4|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 10:58:46.4|Debug|Parser|Languages parsed: Unknown
+2024-12-13 10:58:46.4|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 10:58:46.4|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 10:58:46.4|Debug|Parser|Edition parsed: 
+2024-12-13 10:58:46.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 10:58:46.4|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 10:58:46.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:58:46.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:58:46.5|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)
+2024-12-13 10:58:46.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (9 ms)
+2024-12-13 10:58:46.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:58:46.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 10:58:46.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (2 ms)
+2024-12-13 10:58:46.5|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 11:00:16.4|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:00:16.4|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 11:00:16.4|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 11:00:16.4|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:00:16.4|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:00:16.4|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:00:16.4|Debug|Parser|Edition parsed: 
+2024-12-13 11:00:16.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:00:16.4|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:00:16.4|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:00:16.4|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 11:00:16.4|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 11:00:16.4|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:00:16.4|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:00:16.4|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 11:00:16.4|Debug|Parser|Edition parsed: 
+2024-12-13 11:00:16.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:00:16.5|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:00:16.5|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:00:16.5|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 11:00:16.5|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 11:00:16.5|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:00:16.5|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:00:16.5|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:00:16.5|Debug|Parser|Edition parsed: 
+2024-12-13 11:00:16.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:00:16.5|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:00:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:00:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:00:16.5|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2024-12-13 11:00:16.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (6 ms)
+2024-12-13 11:00:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:00:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:00:16.5|Debug|Api|[GET] /api/v3/command: 200.OK (10 ms)
+2024-12-13 11:00:16.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (15 ms)
+2024-12-13 11:01:16.4|Info|RssSyncService|Starting RSS Sync
+2024-12-13 11:01:16.5|Debug|FetchAndParseRssService|Available indexers 3
+2024-12-13 11:01:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:16.5|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=movie&cat=2000,2070,2030,2010,2040,2060,2045&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:01:16.5|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 11:01:16.5|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:01:16.5|Debug|Torznab|Downloading Feed http://prowlarr:9696/3/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:01:16.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/2/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 11:01:16.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/1/api?t=movie&cat=2000,2070,2030,2010,2040,2060,2045&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 11:01:16.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/3/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100: 401.Unauthorized (0 bytes)
+2024-12-13 11:01:16.5|Warn|Torznab|1337x (Prowlarr) HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/1/api?t=movie&cat=2000,2070,2030,2010,2040,2060,2045&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 11:01:16.5|Warn|Torznab|52BT (Prowlarr) HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/2/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 11:01:16.5|Warn|Torznab|Badass Torrents (Prowlarr) HTTP request failed: [401:Unauthorized] [GET] at [http://prowlarr:9696/3/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100]
+2024-12-13 11:01:16.5|Debug|FetchAndParseRssService|Found 0 reports
+2024-12-13 11:01:16.5|Info|DownloadDecisionMaker|No results found
+2024-12-13 11:01:16.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2024-12-13 11:01:16.5|Debug|PendingReleaseService|Removing failed releases from pending
+2024-12-13 11:01:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:16.5|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 11:01:21.5|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 11:02:16 due to recent failures.
+2024-12-13 11:01:21.5|Debug|IndexerFactory|Temporarily ignoring indexer 52BT (Prowlarr) till 12/13/2024 11:06:16 due to recent failures.
+2024-12-13 11:01:21.5|Debug|IndexerFactory|Temporarily ignoring indexer Badass Torrents (Prowlarr) till 12/13/2024 11:02:16 due to recent failures.
+2024-12-13 11:01:21.5|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 12/13/2024 11:02:16 due to recent failures.
+2024-12-13 11:01:21.5|Debug|IndexerFactory|Temporarily ignoring indexer 52BT (Prowlarr) till 12/13/2024 11:06:16 due to recent failures.
+2024-12-13 11:01:21.5|Debug|IndexerFactory|Temporarily ignoring indexer Badass Torrents (Prowlarr) till 12/13/2024 11:02:16 due to recent failures.
+2024-12-13 11:01:21.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:21.5|Debug|Api|[GET] /api/v3/health: 200.OK (2 ms)
+2024-12-13 11:01:46.4|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2024-12-13 11:01:46.4|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:01:46.4|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 11:01:46.5|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 11:01:46.5|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:01:46.5|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:01:46.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:46.5|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:01:46.5|Debug|Parser|Edition parsed: 
+2024-12-13 11:01:46.5|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2024-12-13 11:01:46.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:01:46.5|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:01:46.5|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:01:46.5|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 11:01:46.5|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 11:01:46.5|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:01:46.5|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:01:46.5|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 11:01:46.5|Debug|Parser|Edition parsed: 
+2024-12-13 11:01:46.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:01:46.5|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:01:46.5|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:01:46.5|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 11:01:46.5|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 11:01:46.5|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:01:46.5|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:01:46.5|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:01:46.5|Debug|Parser|Edition parsed: 
+2024-12-13 11:01:46.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:01:46.5|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:01:46.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:46.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (3 ms)
+2024-12-13 11:01:46.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:46.5|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:01:46.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:46.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (2 ms)
+2024-12-13 11:01:46.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:01:46.5|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 11:02:21.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:21.0|Debug|Api|[GET] /api/v3/config/host: 200.OK (75 ms)
+2024-12-13 11:02:48.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:48.5|Debug|Api|[GET] /api/v3/indexer/schema: 200.OK (52 ms)
+2024-12-13 11:02:48.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:48.5|Debug|Newznab|Downloading Feed http://prowlarr:9696/0/api?t=movie&cat=2000,2010,2020,2030,2040,2045,2050,2060,2070,2080,2090&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:02:48.5|Debug|Api|[POST] /api/v3/indexer/test: 200.OK (28 ms)
+2024-12-13 11:02:53.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:53.3|Debug|Newznab|Downloading Feed http://prowlarr:9696/0/api?t=movie&cat=2000,2010,2020,2030,2040,2045,2050,2060,2070,2080,2090&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:02:53.4|Debug|Api|[POST] /api/v3/indexer/test: 200.OK (17 ms)
+2024-12-13 11:02:53.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:53.4|Debug|Api|[GET] /api/v3/indexer: 200.OK (3 ms)
+2024-12-13 11:02:53.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:53.4|Debug|Api|[GET] /api/v3/indexer/1: 200.OK (2 ms)
+2024-12-13 11:02:53.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:53.4|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- Name: Should be unique
+2024-12-13 11:02:53.4|Debug|Api|[POST] /api/v3/indexer: 400.BadRequest (16 ms)
+2024-12-13 11:02:53.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:53.5|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- Name: Should be unique
+2024-12-13 11:02:53.5|Debug|Api|[POST] /api/v3/indexer?forceSave=true: 400.BadRequest (5 ms)
+2024-12-13 11:02:53.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:53.5|Debug|Api|[GET] /api/v3/indexer/2: 200.OK (6 ms)
+2024-12-13 11:02:53.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:53.6|Debug|Api|[DELETE] /api/v3/indexer/2: 200.OK (45 ms)
+2024-12-13 11:02:53.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:53.6|Debug|Api|[GET] /api/v3/indexer/3: 200.OK (3 ms)
+2024-12-13 11:02:53.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:53.6|Debug|Api|[DELETE] /api/v3/indexer/3: 200.OK (2 ms)
+2024-12-13 11:02:58.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:02:58.6|Debug|Api|[GET] /api/v3/health: 200.OK (9 ms)
+2024-12-13 11:03:16.5|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:03:16.5|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 11:03:16.5|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 11:03:16.5|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:03:16.5|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:03:16.5|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:03:16.5|Debug|Parser|Edition parsed: 
+2024-12-13 11:03:16.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:03:16.5|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:03:16.5|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:03:16.5|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 11:03:16.5|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 11:03:16.5|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:03:16.5|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:03:16.5|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 11:03:16.5|Debug|Parser|Edition parsed: 
+2024-12-13 11:03:16.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:03:16.5|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:03:16.5|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:03:16.5|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 11:03:16.5|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 11:03:16.5|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:03:16.5|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:03:16.5|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:03:16.5|Debug|Parser|Edition parsed: 
+2024-12-13 11:03:16.5|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:03:16.5|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:03:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:16.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (4 ms)
+2024-12-13 11:03:16.5|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2024-12-13 11:03:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:16.5|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:16.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (3 ms)
+2024-12-13 11:03:16.6|Debug|Api|[GET] /api/v3/command: 200.OK (20 ms)
+2024-12-13 11:03:53.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:53.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:53.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:03:53.0|Debug|Api|[GET] /api/v3/health: 200.OK (25 ms)
+2024-12-13 11:03:53.0|Debug|Api|[GET] /api/v3/system/status: 200.OK (25 ms)
+2024-12-13 11:03:53.0|Debug|Api|[GET] /api/v3/diskspace: 200.OK (37 ms)
+2024-12-13 11:04:46.6|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:04:46.6|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 11:04:46.6|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 11:04:46.6|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:04:46.6|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:04:46.6|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:04:46.6|Debug|Parser|Edition parsed: 
+2024-12-13 11:04:46.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:04:46.6|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:04:46.6|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:04:46.6|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 11:04:46.6|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 11:04:46.6|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:04:46.6|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:04:46.6|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 11:04:46.6|Debug|Parser|Edition parsed: 
+2024-12-13 11:04:46.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:04:46.6|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:04:46.6|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:04:46.6|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 11:04:46.6|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 11:04:46.6|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:04:46.6|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:04:46.6|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:04:46.6|Debug|Parser|Edition parsed: 
+2024-12-13 11:04:46.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:04:46.6|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:04:46.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:46.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:46.6|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2024-12-13 11:04:46.6|Debug|Api|[GET] /api/v3/queue/details: 200.OK (4 ms)
+2024-12-13 11:04:46.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:46.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:04:46.7|Debug|Api|[GET] /api/v3/queue/details: 200.OK (2 ms)
+2024-12-13 11:04:46.7|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 11:05:30.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:30.0|Debug|Api|[GET] /api/v3/indexer: 200.OK (42 ms)
+2024-12-13 11:05:30.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:30.0|Debug|Api|[GET] /api/v3/indexer/1: 200.OK (3 ms)
+2024-12-13 11:05:30.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:30.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=movie&cat=2000,2070,2030,2010,2040,2060,2045&extended=1&apikey=(removed)&offset=0&limit=100
+2024-12-13 11:05:37.1|Debug|Api|[PUT] /api/v3/indexer/1: 202.Accepted (7063 ms)
+2024-12-13 11:05:37.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:37.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+2024-12-13 11:05:37.1|Debug|NewznabCapabilitiesProvider|Failed to get Newznab API capabilities from http://prowlarr:9696/4/
+
+[v5.15.1.9463] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+
+
+2024-12-13 11:05:37.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+2024-12-13 11:05:37.2|Debug|NewznabCapabilitiesProvider|Failed to get Newznab API capabilities from http://prowlarr:9696/4/
+
+[v5.15.1.9463] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+
+
+2024-12-13 11:05:37.2|Warn|Torznab|Unable to connect to indexer
+
+[v5.15.1.9463] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Radarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 37
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Radarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 90
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 352
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+
+
+2024-12-13 11:05:37.2|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, check the log above the ValidationFailure for more details. HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)
+2024-12-13 11:05:37.2|Debug|Api|[POST] /api/v3/indexer: 400.BadRequest (30 ms)
+2024-12-13 11:05:37.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:37.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+2024-12-13 11:05:37.2|Debug|NewznabCapabilitiesProvider|Failed to get Newznab API capabilities from http://prowlarr:9696/4/
+
+[v5.15.1.9463] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+
+
+2024-12-13 11:05:37.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+2024-12-13 11:05:37.2|Debug|NewznabCapabilitiesProvider|Failed to get Newznab API capabilities from http://prowlarr:9696/4/
+
+[v5.15.1.9463] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+
+
+2024-12-13 11:05:37.2|Warn|Torznab|Unable to connect to indexer
+
+[v5.15.1.9463] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Radarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 37
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Radarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 90
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 352
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 12/13/2024 11:06:29 due to recent failures." />
+
+
+2024-12-13 11:05:37.2|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, check the log above the ValidationFailure for more details. HTTP request failed: [429:TooManyRequests] [GET] at [http://prowlarr:9696/4/api?t=caps&apikey=(removed)
+2024-12-13 11:05:37.2|Debug|Api|[POST] /api/v3/indexer?forceSave=true: 400.BadRequest (15 ms)
+2024-12-13 11:05:42.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:05:42.2|Debug|Api|[GET] /api/v3/health: 200.OK (3 ms)
+2024-12-13 11:06:16.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:16.6|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)
+2024-12-13 11:06:16.6|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:06:16.6|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 11:06:16.6|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 11:06:16.6|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:06:16.6|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:06:16.6|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:06:16.6|Debug|Parser|Edition parsed: 
+2024-12-13 11:06:16.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:06:16.6|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:06:16.6|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:06:16.6|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 11:06:16.6|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 11:06:16.6|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:06:16.6|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:06:16.6|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 11:06:16.6|Debug|Parser|Edition parsed: 
+2024-12-13 11:06:16.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:06:16.6|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:06:16.6|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:06:16.6|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 11:06:16.6|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 11:06:16.6|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:06:16.6|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:06:16.6|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:06:16.6|Debug|Parser|Edition parsed: 
+2024-12-13 11:06:16.6|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:06:16.6|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:06:16.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:16.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:16.7|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:06:16.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:16.7|Debug|Api|[GET] /api/v3/queue/details: 200.OK (10 ms)
+2024-12-13 11:06:16.7|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:06:16.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:16.7|Debug|Api|[GET] /api/v3/queue/details: 200.OK (2 ms)
+2024-12-13 11:06:46.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2024-12-13 11:06:46.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:06:46.6|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 11:07:46.7|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:07:46.7|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 11:07:46.7|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 11:07:46.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:07:46.7|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:07:46.7|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:07:46.7|Debug|Parser|Edition parsed: 
+2024-12-13 11:07:46.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:07:46.7|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:07:46.7|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:07:46.7|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 11:07:46.7|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 11:07:46.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:07:46.7|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:07:46.7|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 11:07:46.7|Debug|Parser|Edition parsed: 
+2024-12-13 11:07:46.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:07:46.7|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:07:46.7|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:07:46.7|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 11:07:46.7|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 11:07:46.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:07:46.7|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:07:46.7|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:07:46.7|Debug|Parser|Edition parsed: 
+2024-12-13 11:07:46.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:07:46.7|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:07:46.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:07:46.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:07:46.7|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2024-12-13 11:07:46.7|Debug|Api|[GET] /api/v3/queue/details: 200.OK (7 ms)
+2024-12-13 11:07:46.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:07:46.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:07:46.7|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2024-12-13 11:07:46.8|Debug|Api|[GET] /api/v3/queue/details: 200.OK (6 ms)
+2024-12-13 11:09:16.7|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:09:16.7|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 11:09:16.7|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 11:09:16.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:09:16.7|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:09:16.7|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:09:16.7|Debug|Parser|Edition parsed: 
+2024-12-13 11:09:16.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:09:16.7|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:09:16.7|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:09:16.7|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 11:09:16.7|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 11:09:16.7|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:09:16.7|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:09:16.7|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 11:09:16.7|Debug|Parser|Edition parsed: 
+2024-12-13 11:09:16.8|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:09:16.8|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:09:16.8|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:09:16.8|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 11:09:16.8|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 11:09:16.8|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:09:16.8|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:09:16.8|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:09:16.8|Debug|Parser|Edition parsed: 
+2024-12-13 11:09:16.8|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:09:16.8|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:09:16.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:09:16.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:09:16.8|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2024-12-13 11:09:16.8|Debug|Api|[GET] /api/v3/queue/details: 200.OK (6 ms)
+2024-12-13 11:09:16.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:09:16.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:09:16.8|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2024-12-13 11:09:16.8|Debug|Api|[GET] /api/v3/queue/details: 200.OK (2 ms)
+2024-12-13 11:10:46.8|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:10:46.8|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 11:10:46.8|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 11:10:46.8|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:46.8|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:10:46.8|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:10:46.8|Debug|Parser|Edition parsed: 
+2024-12-13 11:10:46.8|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:10:46.8|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:10:46.8|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:10:46.8|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 11:10:46.8|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 11:10:46.8|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:46.8|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:10:46.8|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 11:10:46.8|Debug|Parser|Edition parsed: 
+2024-12-13 11:10:46.8|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:10:46.8|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:10:46.8|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:10:46.8|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 11:10:46.8|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 11:10:46.8|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:10:46.8|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:10:46.8|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:10:46.8|Debug|Parser|Edition parsed: 
+2024-12-13 11:10:46.8|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:10:46.8|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:10:46.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:10:46.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:10:46.9|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2024-12-13 11:10:46.9|Debug|Api|[GET] /api/v3/queue/details: 200.OK (4 ms)
+2024-12-13 11:10:46.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:10:46.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:10:46.9|Debug|Api|[GET] /api/v3/queue/details: 200.OK (1 ms)
+2024-12-13 11:10:46.9|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2024-12-13 11:11:16.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:11:16.8|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)
+2024-12-13 11:11:46.8|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2024-12-13 11:11:46.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:11:46.8|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)
+2024-12-13 11:12:16.9|Debug|Parser|Parsing string 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:12:16.9|Debug|Parser|Movie Parsed. Batman The Killing Joke - 2016 
+2024-12-13 11:12:16.9|Debug|Parser|Release Group parsed: RARBG
+2024-12-13 11:12:16.9|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:12:16.9|Debug|QualityParser|Trying to parse quality for 'Batman.The.Killing.Joke.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-RARBG'
+2024-12-13 11:12:16.9|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:12:16.9|Debug|Parser|Edition parsed: 
+2024-12-13 11:12:16.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:12:16.9|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:12:16.9|Debug|Parser|Parsing string 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:12:16.9|Debug|Parser|Movie Parsed. Batman vs Teenage Mutant Ninja Turtles - 2019 
+2024-12-13 11:12:16.9|Debug|Parser|Release Group parsed: FraMeSToR
+2024-12-13 11:12:16.9|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:12:16.9|Debug|QualityParser|Trying to parse quality for 'Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR'
+2024-12-13 11:12:16.9|Debug|Parser|Quality parsed: Remux-2160p v1
+2024-12-13 11:12:16.9|Debug|Parser|Edition parsed: 
+2024-12-13 11:12:16.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:12:16.9|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:12:16.9|Debug|Parser|Parsing string 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:12:16.9|Debug|Parser|Movie Parsed. Batman Under The Red Hood - 2010 
+2024-12-13 11:12:16.9|Debug|Parser|Release Group parsed: FRANCOF6
+2024-12-13 11:12:16.9|Debug|Parser|Languages parsed: Unknown
+2024-12-13 11:12:16.9|Debug|QualityParser|Trying to parse quality for 'Batman Under The Red Hood 2010 Blu-ray 1080p VC-1 DTS-HD MA 5.1-FRANCOF6'
+2024-12-13 11:12:16.9|Debug|Parser|Quality parsed: BR-DISK v1
+2024-12-13 11:12:16.9|Debug|Parser|Edition parsed: 
+2024-12-13 11:12:16.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2024-12-13 11:12:16.9|Debug|AggregateLanguages|Selected languages: English
+2024-12-13 11:12:16.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:12:16.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:12:16.9|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2024-12-13 11:12:16.9|Debug|Api|[GET] /api/v3/queue/details: 200.OK (4 ms)
+2024-12-13 11:12:16.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:12:16.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2024-12-13 11:12:16.9|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2024-12-13 11:12:16.9|Debug|Api|[GET] /api/v3/queue/details: 200.OK (1 ms)
