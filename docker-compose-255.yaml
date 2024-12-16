@@ -141,3 +141,19 @@ services:
     ports:
       - 8191:8191
     restart: unless-stopped
+  
+  sabnzbd:
+    image: lscr.io/linuxserver/sabnzbd:latest
+    container_name: sabnzbd
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ./config/sabnzbd/config:/config
+      - ${COMMON_PATH}:${COMMON_PATH}
+      - ${COMMON_PATH}/usenet/downloads:/downloads #optional
+      - ${COMMON_PATH}/usenet/incomplete:/incomplete-downloads #optional
+    ports:
+      - 8081:8080
+    restart: unless-stopped
