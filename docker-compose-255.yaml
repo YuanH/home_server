@@ -1,43 +1,33 @@
 services:
-  jellyfin:
-    image: jellyfin/jellyfin:latest
-    container_name: jellyfin
-    restart: unless-stopped
-    # network_mode: 'bridge'
-    # user: ${UID}:${GID}
-    # user: 501:20
-    volumes:
-      # This directory will store Jellyfin config and metadata
-      - ./config/jellyfin:/config
-      - ./cache:/cache
-      - ${COMMON_PATH}/qbittorrent/downloads:/data/media_downloads
-      - type: bind
-        source: /Volumes/ExtremePro/Movies
-        target: /media/movies
-      - type: bind
-        source: /Volumes/ExtremePro/TV
-        target: /media/tv
-      - type: bind
-        source: /Volumes/ExtremePro/RAM
-        target: /media/ram
-      - type: bind
-        source: /Volumes/ExtremePro/Chinese_Movies
-        target: /media/chinese_movies
-      - type: bind
-        source: /Volumes/ExtremePro/Chinese_TV
-        target: /media/chinese_tv
-      - type: bind
-        source: /Users/yuan/Development/kindle/Kindle_download_helper
-        target: /media/books
-    environment:
-      - TZ=America/New_York
-      - JELLYFIN_PublishedServerUrl=https://a5luan.org
-      - PUID=0
-      - PGID=0
+  # jellyfin:
+  #   image: jellyfin/jellyfin:latest
+  #   container_name: jellyfin
+  #   restart: unless-stopped
+  #   volumes:
+  #     # This directory will store Jellyfin config and metadata
+  #     - ./config/jellyfin:/config
+  #     - ./cache:/cache
+  #     - ${COMMON_PATH}/qbittorrent/downloads:/data/media_downloads
+  #     - ${COMMON_PATH}:/data
+  #     # - type: bind
+  #     #   source: ${COMMON_PATH}/media/movies
+  #     #   target: /media/movies
+  #     # - type: bind
+  #     #   source: ${COMMON_PATH}/media/tv
+  #     #   target: /media/tv
+  #     # - type: bind
+  #     #   source: ${COMMON_PATH}/media/ram
+  #     #   target: /media/ram
 
-    ports:
-      - "8096:8096"
-      - "8920:8920"
+  #   environment:
+  #     - TZ=America/New_York
+  #     - JELLYFIN_PublishedServerUrl=https://a5luan.org
+  #     - PUID=0
+  #     - PGID=0
+
+  #   ports:
+  #     - "8096:8096"
+  #     - "8920:8920"
 
   # caddy:
   #   build:
@@ -78,7 +68,7 @@ services:
       - TZ=${TZ}
       # - DOCKER_MODS=ghcr.io/gabe565/linuxserver-mod-vuetorrent
     volumes:
-      - ${COMMON_PATH}:${COMMON_PATH}
+      - ${COMMON_PATH}:/data
       - ./config/qbittorrent:/config
       - ${COMMON_PATH}/qbittorrent/downloads:/downloads
     ports:
@@ -108,10 +98,12 @@ services:
       - PGID=0
       - TZ=${TZ}
     volumes:
-      - ${COMMON_PATH}:${COMMON_PATH}
+      - ${COMMON_PATH}:/data
+      - ${COMMON_PATH}/media/tv:/tv
       - ./config/sonarr:/config
-      - ${COMMON_PATH}/TV:/tv
-      - ${COMMON_PATH}/qbittorrent/downloads:/downloads
+      # - ${COMMON_PATH}/qbittorrent/downloads:/downloads
+      # - ${COMMON_PATH}/usenet/downloads:/usenet-downloads
+      # - ${COMMON_PATH}/usenet/incomplete:/usenet-incomplete-downloads
     ports:
       - 8989:8989
     restart: unless-stopped
@@ -123,13 +115,46 @@ services:
       - PGID=0
       - TZ=${TZ}
     volumes:
-      - ${COMMON_PATH}:${COMMON_PATH}
+      - ${COMMON_PATH}:/data
+      - ${COMMON_PATH}/media/movies:/movies
       - ./config/radarr:/config
-      - ${COMMON_PATH}/Movies:/movies
-      - ${COMMON_PATH}/qbittorrent/downloads:/downloads
+      # - ${COMMON_PATH}/qbittorrent/downloads:/downloads
+      # - ${COMMON_PATH}/usenet/downloads:/usenet-downloads
+      # - ${COMMON_PATH}/usenet/incomplete:/usenet-incomplete-downloads
     ports:
       - 7878:7878
     restart: unless-stopped
+  readarr:
+    image: lscr.io/linuxserver/readarr:develop
+    container_name: readarr
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ${COMMON_PATH}:/data
+      - ${COMMON_PATH}/media/books:/books
+      - ./config/readarr:/config
+      - ${COMMON_PATH}/qbittorrent/downloads:/downloads
+      # - ${COMMON_PATH}/usenet/downloads:/usenet-downloads
+      # - ${COMMON_PATH}/usenet/incomplete:/usenet-incomplete-downloads
+    ports:
+      - 8787:8787
+    restart: unless-stopped
+  whisparr:
+    container_name: whisparr
+    image: ghcr.io/hotio/whisparr
+    ports:
+      - "6969:6969"
+    environment:
+      - PUID=0
+      - PGID=0
+      - UMASK=002
+      - TZ={TZ}
+    volumes:
+      - ${COMMON_PATH}:/data
+      - ${COMMON_PATH}/media/ram:/ram
+      - ./config/whisparr:/config
   flaresolverr:
     image: ghcr.io/flaresolverr/flaresolverr:latest
     container_name: flaresolverr
@@ -151,9 +176,9 @@ services:
       - TZ=${TZ}
     volumes:
       - ./config/sabnzbd/config:/config
-      - ${COMMON_PATH}:${COMMON_PATH}
-      - ${COMMON_PATH}/usenet/downloads:/downloads #optional
-      - ${COMMON_PATH}/usenet/incomplete:/incomplete-downloads #optional
+      - ${COMMON_PATH}:/data
+      # - ${COMMON_PATH}/usenet/downloads:/downloads
+      # - ${COMMON_PATH}/usenet/incomplete:/incomplete-downloads
     ports:
       - 8081:8080
     restart: unless-stopped

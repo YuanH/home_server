@@ -15,6 +15,10 @@ config/radarr/*
 !config/radarr/.gitkeep
 config/sonarr/*
 !config/sonarr/.gitkeep
+config/readarr/*
+!config/readarr/.gitkeep
+config/whisparr/*
+!config/whisparr/.gitkeep
 config/sabnzbd/config/*
 !config/sabnzbd/config/.gitkeep
 
