@@ -41,7 +41,7 @@ services:
       - TZ=${TZ}
       # - DOCKER_MODS=ghcr.io/gabe565/linuxserver-mod-vuetorrent
     volumes:
-      - ${COMMON_PATH_88}:${COMMON_PATH_88}
+      - ${COMMON_PATH_88}:/data
       - ./config/qbittorrent:/config
       - ${COMMON_PATH_88}/torrents:/downloads
     ports:
@@ -71,9 +71,10 @@ services:
       - PGID=0
       - TZ=${TZ}
     volumes:
-      - ${COMMON_PATH_88}:${COMMON_PATH_88}
+      - ${COMMON_PATH_88}:/data
       - ./config/sonarr:/config
       - ${COMMON_PATH_88}/torrents:/downloads
+      - ${COMMON_PATH_88}/media/tv:/tv
     ports:
       - 8989:8989
     restart: unless-stopped
@@ -85,9 +86,10 @@ services:
       - PGID=0
       - TZ=${TZ}
     volumes:
-      - ${COMMON_PATH_88}:${COMMON_PATH_88}
+      - ${COMMON_PATH_88}:/data
       - ./config/radarr:/config
       - ${COMMON_PATH_88}/torrents:/downloads
+      - ${COMMON_PATH_88}/media/movies:/movies
     ports:
       - 7878:7878
     restart: unless-stopped
@@ -101,4 +103,36 @@ services:
       - TZ=${TZ}
     ports:
       - 8191:8191
+    restart: unless-stopped
+  sabnzbd:
+    image: lscr.io/linuxserver/sabnzbd:latest
+    container_name: sabnzbd
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ./config/sabnzbd/config:/config
+      - ${COMMON_PATH_88}:/data
+      # - ${COMMON_PATH_88}/usenet/downloads:/downloads
+      # - ${COMMON_PATH_88}/usenet/incomplete:/incomplete-downloads
+    ports:
+      - 8081:8080
+    restart: unless-stopped
+  readarr:
+    image: lscr.io/linuxserver/readarr:develop
+    container_name: readarr
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ${COMMON_PATH_88}:/data
+      - ${COMMON_PATH_88}/media/books:/books
+      - ./config/readarr:/config
+      - ${COMMON_PATH_88}/qbittorrent/downloads:/downloads
+      # - ${COMMON_PATH_88}/usenet/downloads:/usenet-downloads
+      # - ${COMMON_PATH_88}/usenet/incomplete:/usenet-incomplete-downloads
+    ports:
+      - 8787:8787
     restart: unless-stopped
