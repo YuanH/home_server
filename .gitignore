@@ -21,6 +21,8 @@ config/whisparr/*
 !config/whisparr/.gitkeep
 config/sabnzbd/config/*
 !config/sabnzbd/config/.gitkeep
+config/bazarr/config/*
+!config/bazarr/config/.gitkeep
 
 # Ignore Caddy directories where certificates and state are stored
 caddy_data/*

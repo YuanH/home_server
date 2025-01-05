@@ -1,0 +1,15 @@
+2025-01-05 03:08:07|ERROR   |root                            |BAZARR cannot use specified timezone: 'tzlocal() does not support non-zoneinfo timezones like {TZ}. \nPlease use a timezone in the form of Continent/City'|
+2025-01-04 22:09:52|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-01-04 22:09:52|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-01-04 22:24:25|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2025-01-04 22:24:25|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2025-01-04 22:27:29|INFO    |root                            |Throttling assrt for 12 hours, until 25/01/05 10:27, because of: ConfigurationError. Exception info: "'Token must be specified' ~ assrt.py@142"|
+2025-01-04 22:27:30|INFO    |root                            |Throttling zimuku for 10 minutes, until 25/01/04 22:37, because of: AnticaptchaException. Exception info: "'[ERROR_KEY_DOES_NOT_EXIST:1]Account authorization key not found in the system' ~ zimuku.py@130"|
+2025-01-04 22:39:45|INFO    |root                            |Using zimuku again after 10 minutes, (disabled because: AnticaptchaException)|
+2025-01-04 22:40:01|INFO    |root                            |Throttling avistaz for 12 hours, until 25/01/05 10:40, because of: AuthenticationError. Exception info: "'cookies not valid anymore' ~ avistaz_network.py@284"|
+2025-01-04 22:40:01|INFO    |root                            |Throttling zimuku for 10 minutes, until 25/01/04 22:50, because of: AnticaptchaException. Exception info: "'[ERROR_KEY_DOES_NOT_EXIST:1]Account authorization key not found in the system' ~ zimuku.py@130"|
+2025-01-04 22:40:02|INFO    |root                            |Throttling zimuku for 10 minutes, until 25/01/04 22:50, because of: AnticaptchaException. Exception info: "'[ERROR_KEY_DOES_NOT_EXIST:1]Account authorization key not found in the system' ~ zimuku.py@130"|
+2025-01-04 22:40:02|INFO    |root                            |Throttling avistaz for 12 hours, until 25/01/05 10:40, because of: AuthenticationError. Exception info: "'cookies not valid anymore' ~ avistaz_network.py@284"|
+2025-01-04 22:40:02|INFO    |root                            |Throttling zimuku for 10 minutes, until 25/01/04 22:50, because of: AnticaptchaException. Exception info: "'[ERROR_KEY_DOES_NOT_EXIST:1]Account authorization key not found in the system' ~ zimuku.py@130"|
+2025-01-04 22:40:02|INFO    |root                            |Throttling avistaz for 12 hours, until 25/01/05 10:40, because of: AuthenticationError. Exception info: "'cookies not valid anymore' ~ avistaz_network.py@284"|
+2025-01-04 22:41:45|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
