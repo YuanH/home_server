@@ -23,6 +23,7 @@ config/sabnzbd/config/*
 !config/sabnzbd/config/.gitkeep
 config/bazarr/config/*
 !config/bazarr/config/.gitkeep
+config/bazarr/*
 
 # Ignore Caddy directories where certificates and state are stored
 caddy_data/*
