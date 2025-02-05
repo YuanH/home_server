@@ -15,5 +15,9 @@ CLOUDFLARE_TUNNEL_TOKEN="$(op item get "cloudflare-tunnel-88" --field credential
 # export CLOUDFLARE_API_TOKEN
 export CLOUDFLARE_TUNNEL_TOKEN
 echo $CLOUDFLARE_TUNNEL_TOKEN
-# 4. Run docker-compose with these environment variables
+
+# 4. pull latest images
+docker-compose -f docker-compose-88.yml pull
+
+# 5. Run docker-compose with these environment variables
 docker compose -f docker-compose-88.yml up -d
