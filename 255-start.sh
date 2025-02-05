@@ -10,12 +10,26 @@ eval "$(op signin)"
 # Adjust the item name and field names to match your setup.
 CLOUDFLARE_API_TOKEN="$(op item get "Cloudflare Caddy API Token" --field credential --reveal)"
 CLOUDFLARE_TUNNEL_TOKEN="$(op item get "cloudflare-tunnel-255" --field credential --reveal)"
-
+SONARR_API_KEY="$(op item get "sonarr-api-key-255" --field credential --reveal)"
+RADARR_API_KEY="$(op item get "radarr-api-key-255" --field credential --reveal)"
+PROWLARR_API_KEY="$(op item get "prowlarr-api-key-255" --field credential --reveal)"
+SABNZBD_API_KEY="$(op item get "sabnzbd-api-key-255" --field credential --reveal)"
+READARR_API_KEY="$(op item get "readarr-api-key-255" --field credential --reveal)"
+BAZARR_API_KEY="$(op item get "bazarr-api-key-255" --field credential --reveal)"
 
 # 3. Export them as environment variables
 export CLOUDFLARE_API_TOKEN
 export CLOUDFLARE_TUNNEL_TOKEN
+export SONARR_API_KEY
+export RADARR_API_KEY
+export PROWLARR_API_KEY
+export SABNZBD_API_KEY
+export READARR_API_KEY
+export BAZARR_API_KEY
 
 
-# 4. Run docker-compose with these environment variables
+# 4. Update Docker-Images
+docker-compose -f docker-compose-255.yaml pull
+
+# 5. Run docker-compose with these environment variables
 docker compose -f docker-compose-255.yaml up -d
