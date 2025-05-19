@@ -313,3 +313,8 @@ services:
       - ./grafana:/etc/grafana/provisioning/datasources
 volumes:
   prometheus-data:
+    driver: local
+    driver_opts:
+      type: none
+      device: ${COMMON_PATH}/prometheus-data
+      o: bind
