@@ -1,0 +1,27 @@
+global:
+  scrape_interval: 30s  # Adjust based on your needs
+scrape_configs:
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['prometheus:9090']  
+  - job_name: 'prowlarr-88'
+    static_configs:
+      - targets: ['prowlarr-exporter:9710']
+  - job_name: 'sonarr-88'
+    static_configs:
+      - targets: ['sonarr-exporter:9707']
+  - job_name: 'radarr-88'
+    static_configs:
+      - targets: ['radarr-exporter:9708']
+  - job_name: 'readarr-88'
+    static_configs:
+      - targets: ['readarr-exporter:9713']
+  - job_name: 'sabnzbd-88'
+    static_configs:
+      - targets: ['sabnzbd-exporter:9711']
+  - job_name: 'bazarr-88'
+    static_configs:
+      - targets: ['bazarr-exporter:9712']
+  - job_name: 'cloudflared-88'
+    static_configs:
+      - targets: ['cloudflare-tunnel:20241']
