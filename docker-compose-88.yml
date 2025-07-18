@@ -224,5 +224,24 @@ services:
       - "9090:9090"
     restart: unless-stopped
 
+
+
+  n8n:
+    image: docker.n8n.io/n8nio/n8n
+    container_name: n8n
+    restart: unless-stopped
+    ports:
+      - "5678:5678" # Exposes port 5678 to the host
+    environment:
+      - GENERIC_TIMEZONE=America/New_York
+      - TZ=America/New_York
+      #REPLACE!!!! -Webhook MUST match subdomain
+      - WEBHOOK_URL=https://n8n.a5luan.org
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ./local-files:/files #maps a folder for local files
+
 volumes:
   prometheus-data:
+
+  n8n_data:
