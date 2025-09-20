@@ -31,6 +31,8 @@ export BAZARR_API_KEY
 # 4. Update Docker-Images
 # Can be disabled if this step is taking too long
 docker-compose -f docker-compose-255.yaml pull
+# docker compose --platform linux/amd64 -f docker-compose-255.yaml pull
 
 # 5. Run docker-compose with these environment variables
-docker compose -f docker-compose-255.yaml up -d
+docker compose -f docker-compose-255.yaml up -d --force-recreate --remove-orphans
+# docker compose --platform linux/amd64 -f docker-compose-255.yaml up -d
