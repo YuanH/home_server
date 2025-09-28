@@ -30,7 +30,7 @@ export READARR_API_KEY
 export BAZARR_API_KEY
 
 # 4. pull latest images
-# docker-compose -f docker-compose-88.yml pull
+docker-compose -f docker-compose-88.yml pull
 
 # 5. Run docker-compose with these environment variables
-docker compose -f docker-compose-88.yml up -d
+docker compose -f docker-compose-88.yml up -d --force-recreate --remove-orphans
