@@ -1,9 +1,3 @@
-x-logging: &default-logging
-  driver: json-file
-  options:
-    max-size: "10m"
-    max-file: "3"
-
 services:
   cloudflared:
     image: cloudflare/cloudflared:latest
@@ -14,20 +8,6 @@ services:
       - "20241:20241"
     environment:
       - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}
-    logging: *default-logging
-
-  cadvisor:
-    image: gcr.io/cadvisor/cadvisor:v0.47.2
-    container_name: cadvisor
-    restart: unless-stopped
-    ports:
-      - "8082:8080"
-    volumes:
-      - /:/rootfs:ro
-      - /var/run:/var/run:rw
-      - /sys:/sys:ro
-      - /var/lib/docker/:/var/lib/docker:ro
-    logging: *default-logging
 
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
@@ -37,7 +17,6 @@ services:
       - PUID=0
       - PGID=0
       - TZ=${TZ}
-      # - DOCKER_MODS=ghcr.io/gabe565/linuxserver-mod-vuetorrent
     volumes:
       - ${COMMON_PATH}:/data
       - ./config/qbittorrent:/config
@@ -47,7 +26,6 @@ services:
       - 6881:6881
       - 6881:6881/udp
     restart: unless-stopped
-    logging: *default-logging
 
   prowlarr:
     image: lscr.io/linuxserver/prowlarr:latest
@@ -61,8 +39,6 @@ services:
     ports:
       - 9696:9696
     restart: unless-stopped
-    logging: *default-logging
-
 
   sonarr:
     image: lscr.io/linuxserver/sonarr:latest
@@ -78,8 +54,6 @@ services:
     ports:
       - 8989:8989
     restart: unless-stopped
-    logging: *default-logging
-  
 
   radarr:
     image: lscr.io/linuxserver/radarr:latest
@@ -95,7 +69,6 @@ services:
     ports:
       - 7878:7878
     restart: unless-stopped
-    logging: *default-logging
 
   # readarr:
   #   image: lscr.io/linuxserver/readarr:develop
@@ -109,8 +82,6 @@ services:
   #     - ${COMMON_PATH}/media/books:/books
   #     - ./config/readarr:/config
   #     - ${COMMON_PATH}/qbittorrent/downloads:/downloads
-  #     # - ${COMMON_PATH}/usenet/downloads:/usenet-downloads
-  #     # - ${COMMON_PATH}/usenet/incomplete:/usenet-incomplete-downloads
   #   ports:
   #     - 8787:8787
   #   restart: unless-stopped
@@ -124,7 +95,7 @@ services:
       - PUID=0
       - PGID=0
       - UMASK=002
-      - TZ={TZ}
+      - TZ=${TZ}
     volumes:
       - ${COMMON_PATH}:/data
       - ${COMMON_PATH}/media/ram:/ram
@@ -141,8 +112,7 @@ services:
     ports:
       - 8191:8191
     restart: unless-stopped
-    logging: *default-logging
-  
+
   sabnzbd:
     image: lscr.io/linuxserver/sabnzbd:latest
     container_name: sabnzbd
@@ -156,7 +126,6 @@ services:
     ports:
       - 8081:8080
     restart: unless-stopped
-    logging: *default-logging
 
   bazarr:
     image: lscr.io/linuxserver/bazarr:latest
@@ -173,11 +142,11 @@ services:
     ports:
       - 6767:6767
     restart: unless-stopped
-    logging: *default-logging
 
   node_exporter:
     image: prom/node-exporter:latest
     container_name: node_exporter
+    privileged: true
     ports:
       - "9100:9100"
     restart: unless-stopped
@@ -189,4 +158,3 @@ services:
       - '--path.procfs=/host/proc'
       - '--path.sysfs=/host/sys'
       - '--collector.filesystem.mount-points-exclude=^/(sys|proc|dev|host|etc)($$|/)'
-    logging: *default-logging

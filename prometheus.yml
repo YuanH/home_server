@@ -27,5 +27,5 @@ scrape_configs:
       - targets: ['cloudflare-tunnel:20241']
   - job_name: 'jellyfin-255'
     static_configs:
-      - targets: ['host.docker.internal:8096']
+      - targets: ['host.containers.internal:8096']
     metrics_path: '/metrics'
