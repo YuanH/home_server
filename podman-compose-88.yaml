@@ -1,0 +1,150 @@
+services:
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: cloudflare-tunnel
+    command: tunnel run
+    restart: unless-stopped
+    environment:
+      - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}
+
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    environment:
+      - WEBUI_PORT=8080
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+      # - DOCKER_MODS=ghcr.io/gabe565/linuxserver-mod-vuetorrent
+    volumes:
+      - ${COMMON_PATH_88}:/data
+      - ./config/qbittorrent:/config
+      - ${COMMON_PATH_88}/torrents:/downloads
+    ports:
+      - 8080:8080
+      - 6881:6881
+      - 6881:6881/udp
+    restart: unless-stopped
+
+  prowlarr:
+    image: lscr.io/linuxserver/prowlarr:latest
+    container_name: prowlarr
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ./config/prowlarr:/config
+    ports:
+      - 9696:9696
+    restart: unless-stopped
+
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ${COMMON_PATH_88}:/data
+      - ./config/sonarr:/config
+      - ${COMMON_PATH_88}/torrents:/downloads
+      - ${COMMON_PATH_88}/media/tv:/tv
+    ports:
+      - 8989:8989
+    restart: unless-stopped
+
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ${COMMON_PATH_88}:/data
+      - ./config/radarr:/config
+      - ${COMMON_PATH_88}/torrents:/downloads
+      - ${COMMON_PATH_88}/media/movies:/movies
+    ports:
+      - 7878:7878
+    restart: unless-stopped
+
+  flaresolverr:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    environment:
+      - LOG_LEVEL=${LOG_LEVEL:-info}
+      - LOG_HTML=${LOG_HTML:-false}
+      - CAPTCHA_SOLVER=${CAPTCHA_SOLVER:-none}
+      - TZ=${TZ}
+    ports:
+      - 8191:8191
+    restart: unless-stopped
+
+  sabnzbd:
+    image: lscr.io/linuxserver/sabnzbd:latest
+    container_name: sabnzbd
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ./config/sabnzbd/config:/config
+      - ${COMMON_PATH_88}:/data
+      # - ${COMMON_PATH_88}/usenet/downloads:/downloads
+      # - ${COMMON_PATH_88}/usenet/incomplete:/incomplete-downloads
+    ports:
+      - 8081:8080
+    restart: unless-stopped
+
+  bazarr:
+    image: lscr.io/linuxserver/bazarr:latest
+    container_name: bazarr
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=${TZ}
+    volumes:
+      - ./config/bazarr:/config
+      - ${COMMON_PATH_88}:/data
+      - ${COMMON_PATH_88}/media/movies:/movies
+      - ${COMMON_PATH_88}/media/tv:/tv
+    ports:
+      - 6767:6767
+    restart: unless-stopped
+
+  n8n:
+    image: docker.n8n.io/n8nio/n8n
+    container_name: n8n
+    restart: unless-stopped
+    ports:
+      - "5678:5678"
+    environment:
+      - GENERIC_TIMEZONE=America/New_York
+      - TZ=America/New_York
+      - WEBHOOK_URL=https://n8n.a5luan.org
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ./local-files:/files
+
+  node_exporter:
+    image: prom/node-exporter:latest
+    container_name: node_exporter
+    privileged: true
+    ports:
+      - "9100:9100"
+    restart: unless-stopped
+    volumes:
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /:/rootfs:ro
+    command:
+      - '--path.procfs=/host/proc'
+      - '--path.sysfs=/host/sys'
+      - '--collector.filesystem.mount-points-exclude=^/(sys|proc|dev|host|etc)($$|/)'
+
+
+volumes:
+  n8n_data:
