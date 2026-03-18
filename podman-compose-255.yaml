@@ -8,6 +8,8 @@ services:
       - "20241:20241"
     environment:
       - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}
+    extra_hosts:
+      - "host.containers.internal:host-gateway"
 
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
@@ -85,21 +87,6 @@ services:
   #   ports:
   #     - 8787:8787
   #   restart: unless-stopped
-
-  whisparr:
-    container_name: whisparr
-    image: ghcr.io/hotio/whisparr
-    ports:
-      - "6969:6969"
-    environment:
-      - PUID=0
-      - PGID=0
-      - UMASK=002
-      - TZ=${TZ}
-    volumes:
-      - ${COMMON_PATH}:/data
-      - ${COMMON_PATH}/media/ram:/ram
-      - ./config/whisparr:/config
 
   flaresolverr:
     image: ghcr.io/flaresolverr/flaresolverr:latest
